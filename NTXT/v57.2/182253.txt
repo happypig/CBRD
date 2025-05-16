@@ -1,0 +1,26 @@
+The  uapane Se sSOciationofIndian and buddhiststudies26)印度學佛教學研究第57巻第2号平成21年3尺『十地経』のテキストに関して金京南
+1,はじめに
+『十地経]のサンスクリット校訂本としてはj.rahderのdasabhumikasutra26)と近藤隆晃のdasabhumisvaro nama mahayanasntra(236)が挙げられるが,いすれにも校訂上の問題の少なくないことはyuyama [196]1)においてすでに指摘されている通りである.本稿では,特に初地の冒頭における発心の箇所をめぐって,サンスクリット写本を中心に,漢訳・チベット訳との比較検討を通して,『+地経』のテキスト上の異同とその背景について考えてみたい.2.テキスト
+(1)写本
+『十地経』の書誌情報はyuyama[1996]に詳しく紹介されているが,それを踏まえて,現在確認されている諸写本を挙げると以下の17本である.右のr,kはそれぞれrahder本とkondo本に用いられた写本を,そしてoは筆者の入手済みの写本を表す.
+
+The  uapanese sSociationofIndian and buddhistStudies校訂本に用いられた写本のうち,no.3とNo.9は古いもの,それ以外は新しいものとして分類されているが,いずれも18-19世紀の成立であるので,比較的〓しい写本といえる.それに比べて.ネパール国立古文書館所蔵の写本a(no.15は唯一の貝葉写本として,5-7世紀の成立と推定されている5),(2)漢訳・チベット訳
+現在伝承されている『十地経』の漢訳およびチベット訳は,以下の通りである.〓法護訳『漸備一切智徳経』(297年)鳩摩羅什訳『十住経』(〓412年)仏駄跋陀羅訳『六十華厳』中「十地品」(418-420年)実叉難陀訳『八十華厳』中「十地品」(695-699年)戸羅達摩訳『仏説十地経』(73-790年)jinamitra, Surendrabodhi, Ye shes sde訳sangs rgys phal po che shes byaba shinturys pa chenpo'i mdo (d. no.44,p. no.761)のsa bcu pa'i mdo(9世紀初頭)3.諸写本および諸訳の比較初地の冒頭には発心の内容が説かれているが,特に発心の条件と目的を述べる最初の二節を例に挙げると以下の通りである.汝ら仏子たちよ.善根がよく集められ,諸行がよく行われ,(中略)すぐれた信解が具えられ,慈悲が現前する時,諸々の衆生にとって菩提に向かって心が生起する.仏智を願い求めるために(a),十力の力を得るために,大いなる無畏を得るために,(中略)そして大法輪を転ずるに無畏となるために(b),諸々の苔薩にとってその心が生起するのである.6)
+3.1.(a)
+まず,第二節の初旬についてである.龍山[1937)には,対応するチベツト訳の「一切智者の智を信解する」(mam pa thams cad mkhyen pai ye shes la mos pa)は不
+The japanese asSociation of Indian and buddhist Studies『十地経』のテキストに関して(金)要であるとされ,訳本の異同に関する注記はない.ところで,チベット訳において「仏智云々」は,「仏智を願い求める者は」(sangs rgyas kyi ye shes la mngon par mospa rnams)として第一節の末尾の「慈悲が現前する」の後に位置しており,第=節の初旬が「一切智者の智を信解する」になっていることが分かる.漢訳もまた二種に大別される.すなわち,『漸備一切智徳経』と『十住経』はそれぞれ,第一節の末尾を「心常志慕諸仏聖慧」「好求仏智慧」,第二節の初旬を「皆令至真好一切智」「為得一切種智故」とし,チベット訳と一致する.それに対して,『八十華厳』と『仏説十地経』には「仏智を願い求める者」に対応する旬がなく,第二節の初旬を「為求仏智[故]」とし,梵本に一致する.一方,写本を検討してみると,チベット訳などにみられる第一節の「仏智を願い求める者は」の旬を持つ写本は現在のところ見当たらない.一方,第二節の初句においては,ほとんどの写本がbuddhainanabhilasayaにしているのに対し,写本aのみが別の読みを持っていることが分かる.すなわち,写本aはbodhayecittam utpadyateを欠いており,その直後buddhajnanabhilasayaに該当する箇所がarvvaka..(7al)になっているため,チベツト訳などの「一切[種]智」に対応する可能性がある.
+ちなみに,『十地経論』(菩提流支,508-511)の場合,チベット訳などに見られる第一節の「仏智云々」は節の末尾にはなく,上記引用文の「すぐれた信解が具えられ」に当たる旬に続いて「信楽大法好求仏智慧」となっている.但し,チベツト訳を見る限り,所引経も注釈の中の経文も両方「rgya chen po la mos pa dangldan pa」のみになっており,『十地経論釈』も「mos pa rgya chen po dang ldan payin no」としていることから,『十地経論』に見られる「好求仏智慧」は漢訳の段階での編入と考えられる。
+3.2.(b)
+次は,第二節の最後の句である「大法輪を転ずるに無畏となるために」についてである.中でもvaisaradya(無[所]畏)に注目したい.この語において,校訂本や諸写本による異読は見られない.しかし,訳の間には異同が見られ,チベツト訳はvaisaradyaに対応するmi 'jigs paではなくkhyu mchog gi mthu dbyung bavrsabha(牛王)になっている.これは同経の第九地に見られる「如来の法輪を転ずる牛王性に入る[時,第九の苦薩地に入る.]」という用例からも確認できる8).次に漢訳であるが,『漸備一切智徳経』の「療衆疾病」という訳語については,
+The  uTapaneSe sSOciationofIndian and buddhiStStudies『十地経』のテキストに関して(金)vaisalya (deliverance from a painful incumbrance)9)の読み,あるいは竺法護による意討という二つの可能性が考えられる.また,『十住経』の「…自在で,広く仏神力を示現する」は上記の脚注8)に示した用例に照らしてもvisabhaの訳であることが分かる.問題は「広く示現する」であるが,少なくとも「広い」はチベツト訳が対応語(rgya chen po)を持っており,また写本aにvaisaradyavaipulyaya (7a)の読みがあることから,単なる意訳ではなく『十住経』を経てチベット訳に伝わるもう一つの伝承があったことが考えられる.一方,『八十華厳』と『仏説十地経』は「無所畏」とし,梵本に一致する.vaisaradvaになったのは上記引用文の第三旬の「大いなる無畏を得るために(mahavaisaradyadhigamaya)に影響された結果であろうか.4.結論
+以上の考察の結果まとめると以下のようである.①今回扱った写本の中で最も古い写本aは,他の写本に比べて別の読みを伝えることが多い.
+②梵本校訂本(rahder本,kondo本)はno.3とno.9以外のやや新しい写本群の読みによることが多い.
+④チベット訳は9世紀初頭の訳出であるが,諸写本に照らして比較的古い読みを保存していることが判った.新旧漢訳との関係については,訳語の考察を含め,今後の課題にしたい.
+1)a. yuyama[19ariticl surveyofphilobogicdl stdfies ofthe dasabhumikasutra2yuyama [196の脚注10(p.268)には東大写本の番号と内容との対応に誤りが見られるので訂正する.
+3)この写本はkathmandu写本(royal Library)と同一のものである.4)k. Matsuda[1996] sanskrit manuscripis ofthe dsabhumikasutra, bibliothec codicumasiaticurum,tokyo所収5)matsuda[196]pp.1-18参照6)Skt. (Rahder ed. p.11)tatra bhavanto jinaputrah supacitakusalamulanan sucaritacarananam…..  udaradhimuktisama-nvagatanam krpakarunabhimukhanam bodhisatvanam bodhaya cittam utpadyate/biduhannanabntasいadasabalabaladhigamaya mahavaisaradyadhigamaya.. fnauamaでお-koptvananaaSadya ca/f taccittam utpadyate bodhisatvanamTib. (d.kha.174b3)
+The japaneSe asSociation ofIndian and buddhiSt Studies『十地経』のテキストに関して(金)〓
+kye tgyal ba'i sras dag/ de la sems can dge ba'i itsa ba shin tu bsags pa spyad pa shin tu spyodpa...  mos pa rgya chen po dang ldan pa/ snying rje dang snying brtse ba mngon du gyur pa〓イいTye 1cslanngonparでpa mans mnan pahank eadkpatSeれcs1a〓oSpa dang/ stobs bcuii stobs thob par bya ba dang/mi jigs pa chen po thob par bya ba dang,…… なcrlocrnpでいしよbaれuneloせgれはいれcleln〓cpar」いイp
+『漸備一切智徳経』(t10,4613-b1)仏子且察.諸集衆生積累徳本.所行真諦而無虚偽.…篤信微妙定意平等.面睹現在愍念慈哀.心常志慕諸仏聖慧.化諸衆生悉発道心.北令全真好-切智.其十種力強而有勢.則得遊行大無所畏.…〓大法論療衆疾穂.菩薩大士須史発意.
+『十住経』(t10,5011)諸仏子.若衆生.厚集善根.修諸善行.…信楽大法心.多向慈悲.好求仏智慧.如是衆生乃能発阿耨多羅三藐三菩提心.〓得-切種補故.為得十力故.為得大無畏故.…〓在転大法輸示現仏神力故.諸菩薩摩訶薩.生如是心.
+『〓八十華厳』(t10,18la1)仏子.若有衆生深種善根.善修諸行.…生広大解.慈悲現前.為求仏智故.為得十力故.為得大無畏故.…〓転大法輪無所長故.『仏説十地経](t10,538a11)唯諸仏子若有有情.善積善根.善修諸行.……具妙勝解.悲愍現前.為求仏智.為欲証悟十力之力.為獲如来大無所畏.為無所製転大法輸.発如是心.7)龍山章真[1938『梵文和訳十地経]破塵閣書房8)tathagatadharmacakrapravartanavrsabhatan canukramamanah(Rahder ed. p.73)de bzhin gshegs pai chos kyi 'khor lo bskor ba dang/ khyu mchog gi mthu phyung ba'i rjes su'brang bar bya ba dang/ d.kha.251『漸備一切智徳経』転干法輪帰趣境土.(10,48)『住経』転法輪力.(10,5244)『八十華厳』転法輪.(0,1b)『仏説十地経』転妙法輪入雄特性.(t10,563b19)9)monier, Skg.dic., p.10col.1.〈キーワード>『十地経』,テキスト.写本(東京大学大学院)
+

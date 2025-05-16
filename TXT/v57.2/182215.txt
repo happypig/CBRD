@@ -1,0 +1,194 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(264) 印度學怫教學研究第57巻第2号 平成21年3月
+シ ャ ー リ カ ナ ー タ の 誤知論 一 区別の無把捉を中心として一
+市 川 直 史
+0.問題の所在
+ プラバーカラ派似下， P派と略す.)の誤知説は 「a y五ti説」(以下 「A説」と略 す.)と呼ばれるが， これにつ いて解説した信頼すべ き従来の研究としては Hiriyanna[1926]がある.それによると， A説はミーマ ーンサー学派が採る 「知 識の自律的妥当性(svatab傾m江ηya)」という見解との徹底的な一致を目指し， 誤知 の 存在を基本的には認めない 認識論を展開し， 全て の認識は対象通 りである とみ
+なすn.一方い わゆる誤知につ い ては不完全な認識にすぎず，積極的な意味での 誤っ た認識は存在しない と説明する.たとえば貝殻を見て 「これは銀である」と
+い う時， 貝殻につ い ては知覚された 「これ」とい う認識が生じており， 対しては想起が起こっ てい る.これら2つ の 認識はそれぞれ不完全な部分を持つ
+ものであり， さらにはそれら2つ の認識間の識嬲が知られていない とい う点でも 不完全な認識とされる.つ まり「これ」とい う認識に関して は， 認識の 対象物を 他の物から峻別するための 「貝殻性」等が認識者自身に知られておらず一方「銀」
+，
+に 対 す る 想 起 に つ い て は 「想 起 で あ る と い う 事 実 ] が 知 ら れ て い な い 2 〕. こ の よ
+単一の
+ 「全ての認識は対象通りである.」とい うことを論証するために， A説では sm 面一pramo$a (「想起脱落」)，  bhedfigraha(「区別の 無把捉」以 ドBhA と略す.)とい う
+2つ の注目すべき概念が使用される.特にBhAは全ての錯誤現象の説明付けに 何らかの形で用いられており， A説にとっ て欠くべからざる重要な概念であると 考えられる.本稿ではP派を代表する学匠シャ ーリカナータ (Sfilikana以th下a，
+うに不完全な想起や知覚知を導入することによっ て錯誤現象を説明付け， 誤知となっ て しまうことを回避するのがA 説の眼目である.
+S と . の 略す )
+，
+，
+Pralcara4apaficikfi以 下   PrP と . 三 Nayavithi 以 (，略す)第章 章(下
+，
+ NViは， 「主題の宣言と対立主張の導入 (第1−2偈)⊥「対立主張者によるA説 一 879
+NVI と略す.)の議論を分析し， 蠢の BhA の特質を伺う. 1 . NVi に お け る BhA
+「銀」に
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+シャーリカナータの 誤知論 (市 川) (265)
+批判(第3−22偈)⊥「定説者(P派)の主張(第23−75偈)」とい う構成を持っ ており， anyathakhyEti 説論者であるバ ッ タ派或い はニ ヤーヤ学派からの批判に対して逐一・
+答 え る こ と を 通 し て A 説 が 説 示 さ れ る . NVi で は 数 種 の 錯 誤 現 象 が 実 例 と し て
+−−ー それらの中で 「貝銀知(SUktikrEajatajf蚕nia)」がモデルケ スとさ
+挙げられるが
+れA説の論証がなされてい る.以下でSがどのようにBhA とい う概念を運用し，
+，
+員銀知を説明づけているのか見てい く.
+■1. 実際は貝殻であるはずの もの を発見するが，この段階では貝殻と銀に共
+通しない 性質 (bheda，  asEdiiErarparUpa )， すなわち貝殻と銀とを区別する性質である 「貝殻性」等の性質は認識されておらず， 「キラキラ輝くもの」とい う「共通性の 知覚知」だけがある.つ まり， 貝殻と銀とい う対象問の 「区別」の認識がない 3). ■ 2 . 次 に 「共 通 性 の 知 覚 知 」 に 基 づ い て 過 去 の 銀 の 知 覚 に よ る 潜 在 印 象 が 喚 起され， 銀を対象とした想起が生じる4).対立論者は 「想起ではなく貝殻を対象
+とした誤っ た知覚知である.」と批判するが5)， それに対して蠢は 「顕現してい
+それ以外ではありえない 6)」とい うP派の認識対象の 定義を持ち出しこの 想起の 対象が銀に他な らない こ とを論証 して い る.
+■3. 2.で生じた銀の想起は想起として完全なものであるとは言えない ，と いうのも想起とは過去のものを思い出すことであり，「あれは銀だっ た.」という
+ような形をとり生じるもの である.しかしこの銀の想起は 「あれは_だっ た.」 という部分を失っ ている.つまり過去のものの再認識であるということを認識者 は知らず，今現在知覚されてい るものであると考えてしまっ てい る.従っ て想起
+の対象である銀と眼前の貝との区別がない とされる7).
+■ 4 . そ し て 2 . で 生 じ た 銀 の 想 起 は 銀 を 対 象 と す る と い う 点 で 「正 し い 銀 の 知覚知(samyag −rajatab・dha)」と同様である.つ まり(貝銀知における)「銀を対象と する不完全な想起」と 「正しい 銀の知覚知」との問には 「銀を対象とする認識で あること」という共通性が存在し， 認識者はそのことを知っ ているがその両者の 問の区別を知らない 8).そして 「銀を対象とする認識であること」とい う共通性 の 認 識 と 厂止 し い 認 識 と 不 完 全 な 認 識 と の 2 つ の 認 識 問 の 相 違 を 知 ら な い こ と 」
+とい うBhA に基づ い て， 認識者は貝銀知を 「正しい銀の 知覚知」と同一視して い る.
+■5.このような，貝銀知と「正しい銀の知覚知」との同一視(= 別異性の認識 の 欠 如 ) に 基 づ い て 認 識 者 は 「正 し い 銀 の 知 覚 知 」 の 場 合 と 同 様 に 「こ れ は 銀 で ある」とい う言語表現 (vyavahdra)を用い ， それに某づ き行為発動するが徒労に
+る も の が 認 識 対 象 で あ り，
+878 一
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(266) シャーリカナータの誤知論 (市 川)
+結 果 と し て 錯 誤 現 象 で あ る こ と が 帰 結 す る 9 ).
+小結
+ 以上のよっにしてSは貝銀知を誤っ た単一の認識(ayath5rtha −jfff)inとaすること
+なく錯誤現象として説明づけ， NVi章の冒頭偈で宣言された 「この世のまさに一
+切の認識は対象通り(yathdrth)aである」とい うP派の主張を擁護iしてい る.  以上の分析の結果， NViの論証中でSが用い るBhAには次のような種別があ ると考えられる.この ような分類を， NVI 中で Sが明示的に行っ てい るわけでは
+ないが， 次項でふれるNVTT ， NSiの記述に基づき分類した、
+A.対象聞のBhA (arthayor  bhedagraha)〈27−29偈abc>
+B.1.不完全な認識間の BhA (j’fianayor bhedEgraha)〈33偈 cd >
+B，2.正しい 認識と不完全な認識との 2つ の認識問の相違を知らない こと 〈35偈>
+2.結びに代えて
+ NVi におい て 誓は少なくとも2種類の BhA を念頭に置い てい るが，他学派あ
+るい は後代の著作中に見られる平行した内容の 議論では以下の ような形で BhA
+とい う用語が用い られてい る.
+ [NM ， vol .1， p.463， IL8−9]smaranEnubhava  or ...vivekE  rahanam
+ [NvTT ， P.74，1.26]  ahanasmarana  os  tad ocara  os ca bheda ah言d
+ [NVTT ， p.74，L27] a hitabhedam svar 亘 ato  visa  ato  v5
+ PrPに先行する，あるい は地理的な要因によりSの著作を参照してい ない とい
+われるNMにはsmaエap...血ubhavayor  vivek互grahapam(想起と直接経験とのBhA)とあ り「対象問の BhA」は別立てされてい ない .一方， PrPより年代が ドるとみられ る 10)NVTT に は 「対 象 問 の BhA 」 と 「認 識 問 の BhA 」 の 2 つ が 別 立 て さ れ る 形
+で述べ られている11)。このことから， 「対象間のBhA」と「認識問のBhA」の2
+つ を別立てし， より精緻な体系を「BhA」にもたらしたのが菖であっ た可能性が
+示唆され る.
+ ここで，従来の研究を振り返ると， M. Hirlyannaは「2つ の認識とそれらの対
+象との問のBhAから錯誤現象は起こる.」と述べてい るが， SがBhAを複数段階 に分け運用していたことには言及しない.また，Schnithausen[1965]12)では 「2 つ の 対象問の BhA に起因し2つ の不完全な認識間の BhA が起こ り， 正しい 認識 との BhA により錯誤現象が起こる.」と述べ られてい るがBhAを分類し分析す
+終わ り，
+るこ とには重点がおかれてい ない .
+877 一
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+シャ ーリカナータの誤知論 (市 川) (267)
+ BhA はプラバーカラの Brhatiに始まり，後代の綱要書まで一貫して使用され
+                             r
+〈略号 >NM
+Nydyamafiajri ()
+’ fJayantabhawl励ga
+ 
+Sa.nskrit  
+PrP
+Sri∫配議α’短娩α
+:
+                                     r
+;ゆ，
+ルVisra w勲尹 α、siddhi. 
+Ed . 
+NSi:see under  the PrP.
+Banaras
+Hjndu
+一
+rε乱  smptir .5t翫._! 5)NVi  
+;aparok apurovartisiirnfi 皿翫dhikara4yata/nheyarp  s1エigtib 寧，
+kintu≦uktau  
+ya
+ ev 巨rtho
+yasyanl
+bh5s
+乱tcl
+，
+，
+”i一理ンむα3αμ厂αう加 by the Editor. Ed. K. Tippa
+A . 
+SはBhA を2種
+3段階に分けて運用してい たと
+るA説の 中心概念であるが
+考えられ， それが彼の独創であっ た可能性を指摘して結語とする.
+ 
+S.Varadac5rya.2vols. Mysore ;OrientalR.eserch  Institute1969 1983. NVTT
+:め 〜lyadarSanam
+w〃h陥鰐屍yαηα 配 軋
+’
+，，
+B緬 yα しddyot
+kara
+Pii7rtt
+Mibra sTatpa
+’’’ ’{
+・ 版 and り確
+α ，，
+ 
+Subramapya
+:
+ 
+ 
+ 
+:
+ .S5stri.〜branasi
+  s 
+附‘vαη〜itha’s 7i・tti. Eds. Talanatha Nyaya−Tarkatirthand  AmerendramohanTarkati rtha. Calcutta
+                                                                     
+Ser孟es  
+No .18−19.2vol. 
+sReprint ，，
+Kyoto 1982. 
+t
+University 1961. ，
+1)NVI， k.1yathErtha叩sarvam  eveha  v 蕊nam  it isiddhaye .  (araguror  bh訌vab samicTnab
+ikvacaspati
+ 
+頓 prabhEl
+:
+prak五Syate.    2)M . Hiriyanna [1926];The Mimdms 諏 P7ew ofError ， Sccond Indian
+Philosophical Studies vol .1  −33. 3 NVi  k.27 jat
+Prakara apaficikii  
+解 qプ
+， ，pp32     ) ， :9uktikEy五vi鵡e頭yc r昂 試d
+bhedahetavafl to na  j觚 t巨 abhibhav 巨d j且i贓 語 m 且nyarUpati 罫1    4 ) NVi ， k.28a: anantarafi  ca ;
+jate 」    
+k
+，
+ l  8
+ raj atagrahab / 6 NVi ’yaM       )
+: k.23
+bhrt.nito
+ sa  eva  nfi皿 yad dhi vidyEd  vedyasy 臼 .lak撃apam 〆     7 ) NVi ， kk.28b−29abc:tay5pi ca /
+vedyah
+manodo 頭t tad it ya雌apar 蕊mar6aviva 噛it皿a1!rajutam  viSayikrtya  naiva  Sukter vivecitam / sm ;tyE.〃
+8)NVi， kk.33cd−37ab:graha4asmaraOe ceme  vivek 且navabh 五sini1!samyagrajatabodh 巨t tu bhinne yady  api  tattvatab ! tath巨pi bhinne n 証bh翫to bhed 琶grahasamatvatah!/ samyagrajatabodhaS  ca sarnakSaik 盃rthagocarab ノ’tato bhinne abudhvE  tu smara4agraha 口e imef/ sam5nenaiva  r[iperpa
+kevala janalY 頭
+t巨vat samarthitam /   9)NV 玉， kk.37cd−39ab:vyavaharo
+iti
+’pi tattulya stata eva pravartate.
+卑 皿 anyate     aparok rthabodhena  sam 五n ...壮thagrahepa  ca 〃 availakSarPyasarpvittir  
+ithy蕊bhavo
+Schmithausen ，ハ4面η4α η α 磁 語 アα 諭 Vibhramavivekahmit  einer  Studie zur  Entwicklung der Indjschen
+  ca  salpvitter  
+bhedasy蕊 ena  ca ，1皿
+tattulyavyavaharapravartun亘t.
+graha皿
+pi
+samatvena
+rajatavyavahfirEmSe  visaTpvadayato  nar5n .   10)丸井浩[2000]:「Jayanta Bhattaと vacaspatimiSraの先後関係をめぐっ て」，『江島惠教博士追悼論集:空と実在』， pp.441−461.  11)NM， NVTT の他にPrPの註釈であるNSiにも， NVTT と類似した 分類が見られる.NSi， p.52， 1.6.:jfiana yaortrhayoSi  ca bhedagrahat.   12)Lambert
+    lbrtumslehre，1965， Wien ， Osterrei。hische Akademie  der Wissenschaften.
+<キーワード> Prakara4apaficikt，t bhedsgraha， a y酣， 誤知
+一 876
+(東京大学大学院)
+一
+NI工I工-Elleoetcrotniroonic Library Service
+，
+ 
+   sarpvidi  
+’  
+r

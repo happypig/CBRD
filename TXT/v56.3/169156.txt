@@ -1,0 +1,40 @@
+﻿47. A Study of Bhartrhari5s View of Time: Referring to Past and Future Entities
+Yi Jaehyung
+By using utterances such as ghato "bhut 'The pot was there5 and ghato bhavisyati 4The pot will be there5, one can speak of entities which are referred to the past and future, even if they are not currently present. In Vakyapadiya (W) 3.9.39-40 Bhartrhari discusses such utterances from the viewpoint of his own theory of Time (kala).
+VP 3.9.39: kale nidhaya svam rupam prajnaya yan nigrhyate / bhavas tato nivartante tatra samkrantasaktayah II (<lHaving deposited in Time their own form which is grasped by a cognition, entities, which have transferred their powers [to Time]，separate from the form.’’) (K. A. Subramania Iyer: Objects, after having deposited in Time their particular form determined by Intelligence, after having transferred their powers to it, disappear)
+VP 3.9.40： bhavinam caiva yad rupam tasya ca pratibimbakam / sunirmrsta ivadarse kala evopapadyate II (^Entities yet to come have the form [of external existence] and that form is reflected [in the mind] —all this can be explained only on the assumption that there exists Time resembling a well-cleaned mirror.”)
+(K. A. Subramania Iyer: The form of objects to come and their reflection in the mind as on a well-polished mirror can be explained only on assuming the existence of Time)
+These karikas are concerned respectively with an utterance referring to a past entity and with an utterance referring to a future entity.
+In order to understand these karikas properly, it is necessary to note the following points: First, according to Bhartrhari?s denotation theory, the existence of things as they are is distinguished from that of things as they are spoken of; the former is called bahyasatta ^external existence, and the latter upacarasatta 'secondary existence*. This latter existence consists in that of an image (akara; rupa in VP 3.9.39) of an entity which appears to a cognition, characterized as having no temporal distinction {abhinnakala) and as the cause for the occurrence of a word (pravrttinimitta). Whatever one speaks of has this type of existence. Secondly, an image of an entity which appears to a cognition and which is determined (nigrhyate) is externalized, irrespective of whether the entity exists externally or not.
+Consider the utterance ghato 'bhut. In the situation expressed by this utterance, the pot has ceased but its mental image exists. Bhartrhari makes the following points.
+(1)	Entities deposit their forms in Time. What is meant is that at the time when a speaker makes the utterance, the image of the pot appears to the cognition of the speaker.
+(2)	They separate from their own form. This implies that even if the image of the pot appears to the cognition of the speaker, the pot does not exist externally and hence it has lost its external existence.
+(3)	They transfer their powers to Time. This means just that even if the pot has perished, it can be verbalized.
+Consider also the utterance ghato bhavisyati. Points made by Bhartrhari are as follows.
+(1)	Entities yet to come have the form of external existence. The pot yet to come is expected to have externality {bahyam rupam).
+— 1238
+-1239-
+(2)	The form of external existence is reflected in the mind. The image of the pot yet to
+come appears to the cognition of the speaker who wishes to utter the utterance in question
+(3)	Points (1) and (2) can be explained only on the assumption that there exists Time re sembling a well-cleaned mirror. By this tTime, Bhartrhari means the secondary existence
+The image of a pot which currently appears to the cognition is understood to be the one 〇f
+the pot yet to come, which implies that Time clearly reflects the pot referred to in the fliture at the present time when the speaker uses the utterance.
+Time is the locus in which the image of the pot which has perished is deposited, to which the power of the pot to be verbalized is transferred, and in which the pot yet to come is reflected. It is important to note that Bhartrhari compares Time to a well-cleaned mirror Time clearly reflects not only the pot yet to come but also the pot which has perished. One can have utterances referring to past and future entities only on the basis of the existence of Time. This is Bhartrhari's point in the karikas in question.
+48. Apabhramsa Language in Tantric Literature
+Yamahata Tomoyuki
+In this paper I would like to examine Apabhramsa language found in Tantric literature and infer its social status as a literary language from these materials.
+The Apabhramsa language performed an important role in the medieval period of northern India. But there remain some unsolved problems about this language. The first point is that the existing materials are distributed unevenly around India in a limited number of locations and among a small number of sects. Jain narrative literature preserves most of the extant Apabhramsa literature. The second problem is whether we should see Apabramsa as a regional dialect.
+I attempt to categorize materials other than Jain narrative literature into Tantric literature. There are authors of Tantric literature in Apabhramsa throughout India. These works share common features of language and subject. They can be roughly divided into three subcategories, those belonging to the Buddhists in Eastern India, Tantric Cults in Kashmir and Jains in Western India.
+I would suggest that Apabhramsa should not be seen as the origin of New Indo Aryan languages but rather the language of a certain region, probably in Western India. It is presumed that this language gained popularity in a certain period throughout Northern India.
+49 Transience in the Svetambar Jain Scriptures
+Kawasaki Yutaka
+In this paper I collect materials on the concept of transience and non-transience in the Svetambar Jain scriptures and examine their views on transience and non-transience. The words discussed are adhruva, anitya, asasvata, dhruva, nitya and sasvata. The contents of this paper are as follows: [1] On transience in the Svetambar Jain scriptures [2] On nontransience in the Svetambar Jain scriptures [3] Kriyavada and transience / non-transience
+[4]	Syadvada or anekantavada and transience / non-transience [5] On the differences of usage about {a) nitya and (a) sasvata in the tseniors, of the Svetambar Jain scriptures.
+50. On Ksemendra^ Version of the Kunalavadana
+Yamasaki Kazuho
+This article deals with the Kunalavadana (Av-klp), i.e. the 59th chapter of the Bodhisat-tvavadanakalplata composed by Ksemendra, who lived in Kashmir in the 11th century A.D.
+It has long been considered that the Av-klp was written on the basis of the Kunalavadana (Divy) contained in the 27th chapter of the Divyavadana. However, the present author has revealed that Av-klp contains many elements that are completely different from or not at all found in Divy.
+Some of these elements must have been newly introduced by Ksemendra, but others are also found in the Ku na la'i rtogs pa brjodpa (Tib), which is contained in the Tibetan tripitaka bsTan 'gyur. This fact suggests that both Av-klp and Tib derived from the same archetype.
+By comparing the Av-klp and Tib with the Divy, the Chinese A-yu-wang-zhuan (PnTW3E.fE) and d-yw-vvawg-y/wg (阿育王経），the present author suggests that this archetype contains an earlier tradition that Heinlich Luders suggested goes back to the stage before the archetype of the A-yu-wang-zhuan and that of Divy and A-yu-wang-jing appeared.
+-1240-
+-1241-

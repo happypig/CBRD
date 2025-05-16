@@ -1,0 +1,297 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+印度學佛教學研究第57巻第1号 平成20年12月 (297)
+インド論理学におけるupadhi の初期的概念について ヴァ ーチャ スパ ティと仏教論理学派の対論を中心に
+鈴 木 孝 典
+1.イン ド論理学の重要概念の 1つ に ‘upadhi ’がある.同語は様々な文脈で 用い られるが，特に仏教論理学派の対論者としてのニ ヤーヤ学派 (N学派)の推 理論を扱っ た研究では，同語に 「付加的条件」「付帯的条件」などとい う訳語が
+与 え ら れ る こ と が 多 く ，後 代 の N 学 派 の 推 理 論 を 扱 っ た 幾 つ か の 研 究 で は 「添 性 」 などと訳されてきてい る.しかし一方で， Kitagawa [1965][1966]は， upadhi の定義を考察の 出発点とした上で， 「証因に付加するこ とによっ て推理を正しく するもの」とい う同語の解釈を退けており， 近年ではStephan Phillip氏sと Tatacharya氏が， これまでの諸研究を総括し “additional  conditlon ’t や
+，，
+“associated  condition ”などの訳語に伴っ て生じてきた誤解を批判した上で1}， 同語に‘undercutting  condition’という訳語を与えるべきことを主張している2).
+ この ように， 同語の 概念や訳語が整然としない 現在の 状況を考慮すると， イン ド論理学におけるupadhi の概念を包括的に再検討する必要性があると思われる.
+ 
+本稿で は 北川，Phillipsand  Tatacharya説を確認 した上 で
+，
+のNV77Tを主に用いてupEdhi の初期的概念を検討する.
+                             図1 2.upadhi はウダヤナによっ て「証因(sadhana )
+を遍充せず， 推理対象(ssdhya )を遍充するもの」 と 定 義 さ れ て い る 3 }.
+ 今か りに，証因，推理対象の 存在領域 をそれ ぞれ H， S とし， それぞれが基体x に存在する事態を順 にHh， Sxで表すとすると， 上の定義を満たす up5dhi の存在領域として， uの領域を描くことが できる.こうして， ある論証式におい てu画dhiが
+認められる場合には， 証因の 存在領域が推理対象のそれより大きくなり，逸脱が 認められるため誤っ たものとなる.(図1)
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+一 276 一
+ヴァ ーチャスパティ
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(298) イン ド論理学における upadhi の初期的概念につ い て (鈴 木)
+  し か し こ こ で ， U は S よ り も 存 在 領 域 が 大 き く斜 線 部 の 逸 脱 が 存 在 す る た め ， Hh〈Ux→ Sxが成立しない 点は注意を要する.つ まり，  up5dhi が証因に付加され
+た場合に論証式が正しくなるわけではない .upadhi の定義の厳密化が図られた後 代に は， 「風は知覚で きる.触感の 基体だか ら」などの N 学派が誤 りと見なす論 証式におけるupadhi へ の過小適用を防ぐことを凵的として4)， 「主題の性質に制 限された推理対象を遍充し， その 同じ性質に制限された証因を遍充しない もの
+(yaddharmavacchinnasadhyavyapake 与えられるようになっ た5).しかし，
+向けられたもの でない こ とは
+，
+この論証式においてHa〈Ua→ Sa(a:v5yu ， H:
+」 う 定 義 この 定義の厳密化が斜線部の 逸脱の 解消に
+ sati taddharmavacchinnasadhanavyapaka ) と い が
+sparSagrayarVa ，  S: ， U :udbhittariipavattva )が成り立たない 点を見れば明白 pratyakSarVa
+である6).以上の点をもとに，北川氏，Phillips氏は， upEdhi は誤っ た推理を正 しくするもの (correct ・r)ではない と主張，  upadhi の機能を推理知の発生を妨げる
+こと， あるい は論証式の誤りを理解させることに求めてい る.
+3.N 学派史におい て up5dhi が推理に関わる術語として用い られるようになる のは， トリローチャナ以降の遍充把握論の文脈におい てで ある.遍充把握につ い ては，仏教論理学派が因の 三相にもとつ く証因の特殊な知覚と非知覚をその 方法 として堅守したの に対し， N学派は種々の理論的変遷を辿りながら， 遍充におけ る 「upEdhi の非知覚」を主張するにい たっ た.仏教論理学派はダルマ キールティ
+因果性 (karyakararpabhava)と同一性 (tadutpatt)iに遍充の基盤を求めたが， N 学 派 は そ れ ら に 収 ま ら な い 種 々 の 関 係 も遍 充 と し て 認 め る 立 場 を と る . NS に 連
+結合・内属・矛盾とい っ た4種の関係や， サーンキャ学派の主張する所有者と所 有物等の 7種の存在論的関係も推理の基盤として否定した後， N学派の立場を「ど んなものであれ (y・ va・sa・va )関係が本質的なもの (svabhfivika )であれば推理の基
+盤となる」として端的に示してい る.
+ ・それ故t どんなものであれ，ただ一つ の関係があり，あるものにこの本質的関係が 匚推  理者にとっ て]確定してい る (niyata )時7)，他ならぬそれこそが理解させるもの となり，  他の 関係項が理解されるものとなるとい うのが合理的である.詳しく説明すると， 煙等  の 火等に対する関係は本質的であるが， 火等の煙等に対する関係はそうではない.とい  うのも，それらは煙等がなくても知覚され，一方， 水分を含む燃料等の関係を経験する
+‘  時，煙等とともに結び付けられるからである.したがっ て，火等にある，firdrendhanAdy
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+以降，
+なる一連の 注釈書群の 中で も，
+後代につ ながるN学派の立場を明確にした7VVTT は，因果性と同一性に加え， ヴァ イシェ ーシカ学派 (v学派)の主張する因果性・
+一 275 一
+  
+一
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+イン ド論理学における upadhi の 初期的概念につ い て (鈴 木) (299)
+upadhikrtab  sa叩bandhah’は， 本質的ではない .それ故， [推理者にとっ て]確定された ものではない.一一方， 煙等の火等との関係は本質的である.upadhi が知覚されていない
+か ら で あ る 8 ).
+遍充は種々 の 時間や場所におい て 2つ の 事物の 共存を反復的に観察する こ と (bhUyodarSana)によっ て認識されると主張したクマ ーリラ (7世紀頃)によっ て遍
+.
+発展していっ た.N学派においては，もともと〈内官による知覚〉説が大勢を占 めていたが， ヴァーチャスパティの師であるトリロ ーチャナが，遍充を概念間の 関係と見なす仏教論理学派へ の強い抵抗を示し 〈反復的観察を伴う内官による
+同議論はミーマーンサー学派， N学派， V学派
+充把握論の 端緒が築かれた の ち，
+とい う実在論に立つ 諸派と， 仏教論理学派とい う対立構造をひとつ の図式として
+，
+知覚〉と〈upEdhi の非知覚〉を基礎とする遍充把握論を提唱した9〕.さらにその
+立場はヴァーチャスパティに受け継がれ1ω 彼の著作NVTT では仏教論理学派を ，
+主要な論敵として遍充把握論が詳細に展開されてい る.
+4.NVTT の中で upadhi が頻出するのは因果性の決定をめぐる仏教論理学派との 対論中である.ヴァーチャスパティはまず， 煙は「火の直後にある (vahnyanantaram
+bh互vah )」とい う認識にもとつい て煙を火の結果として理解するとの仏教論理学派 の主張に対し，その不合理を 「煙が生じる時， 火以外の回りにある事物が煙を生
+じ さ せ た と 考 え る こ と も 可 能 で あ る 」 と し て 批 判 す る n 〕.
+1)仏教論理学派の 立場
+ 仏教論理学派側はヴァーチャスパ ティの反論を受け，知識内容の記述に限定詞
+‘’
+cva を付し， 煙が火の結果であることを確信させるのは， 煙は 「火の直後に 〈の
+み〉ある(vahnyanantaram  eva bhavah)」とい う知識であるとする12).仏教論理学派は，
+単に 「繰り返しnバ (知覚可能な事物の一例)が認知されるとき煙が認知され，
+ロ バ が認知されない とき煙が認知されない 」場合にもロバ と煙が因果性にあるとは
+い えない ため，因果性の 決定は，肯定的随伴と否定的随伴の 単なる知覚で はな く， 〈特殊〉な知覚と非知覚によっ てなされるとする13).
+ 上記仏教論理学派の生張に対して，ヴァーチャスパティは， ピシャーチャ (知 覚不能な事物の 一例)を持ち出して， 煙がそれを原因として発生する疑い を免れ得 ない とい う反論を加える 14).知覚不能な事物を原因と見なし， 火を単に付随し てい る要素と見なすことも可能であるというこのヴァーチャスパティの主張に対 し， 仏教論理学派は 「煙は恒常的に存在してい るようなもの でなく，ある時， あ
+NI工I工-一Elleoetcrotnlroonic Llibrbaryary Service   
+一 274一
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(3O) イン ド論理学における upfidhi の初期的概念につ い て (鈴 木)
+る場所で 時折見られるもの (kad5citk)aで あるため， それは何らかの 原因によっ て 発 生 が 引 き 起 こ さ れ る も の で な け れ ば な ら な い . そ の 原 因 が も し 火 で は な く， 知覚不能な事物であるなら， 火がある以外の所で煙が生じるのが観察されるはず であるが， 実際にはその ようなこ とはない .あるい は， もしその知覚不能な事物 が常に火とともにあり， 火がある所でのみそれが煙を発生させるのだとするなら， 「水 分 を 含 ん だ 燃 料 と と も に あ る 」 火 が 煙 の 原 因 で あ る よ う に ， 「知 覚 不 能 な 事 物 とともにある」火が煙を発生させるとすべ きである15)」と反論する.
+2)N 学派の 立場  仏教論理学派によるこの反論を受け，ヴァーチャスパティは「そ [の推理の基
+盤となる関係]はどんなものであっ ても良い はずであり， 因果性に限定する努力
+は無駄である16)」と， N学派の立場をい っ たん示した後， 因果性に加え， 同一 性やサーンキャ学派とV学派の主張する他の 関係にも批判を広げる.そして最
+終的に， 本稿3に引用した言明を行い ， N学派の立場を確認する.  仏教論理学派においては， 厂xがyの直後に 〈のみ〉発生する」と言えれば，
+前者が後者の原因であることになり， yがX に遍充されることが確定され， 結果 で あ る y に も とつ い て x が 推 理 さ れ る こ と に な る が ， ヴ ァ ー チ ャ ス パ テ ィ は こ の 遍充の 認識論的確定の プロ セ ス が冗長だ と考える.認識の 手順を反省的に観察す れ ば ， 「煙 は 火 の 直 後 に の み あ る か ら ， 煙 は 火 の 結 果 で あ る . し た が っ て ， 結 果 である煙は火を理解させるものである」とい っ た手順はたどらない.原因である
+同一物であるとい っ たような理解なしに， yが他の何物 を 持 た な く て も x と ア が 共 に あ る こ と が 観 察 さ れ れ ば ， 我 々 は 「ア が あ る 所 に は 必ずxがある」という遍充を把握するはずである.ヴァーチャスパ ティはこのよ
+うに考え， upadhi の 非知覚に もとつ く本質的関係の 決定を主張する.
+とか， 結果であるとか，
+ しかしここにおい ても， 想定できることが問題となる.たとえば， 先の ピシャーチャ，
+このようなupadhi は想定しようとすればいくらでも すなわち知覚不能
+な事物がそれにあたる.この点につ いてヴァーチャスパティは，
+あ らゆ る upadhi は知識手段の範囲内においてその存在が疑われるべ きであると主張してい る17).
+5.以上，火と煙の関係の把握をめぐり， 仏教論理学派とヴァ ーチャスパティ がともに， 知覚可能な事物(ロバ，水気を持っ た燃料)， 知覚不能な事物(ピシャーチャ)
+などを火に 「付随する要素」として共通の 議論の俎上にの せてい るの を見て取る こ とがで きる.
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+一 273 一
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+イン ド論理学における upadhi の 初期的概念につ い て (鈴 木) 図2
+ロバ
+   ’も 火(原因)+ 水分を持っ た燃料 (原因に付随する知覚ロ1能な事物)一一
+  ，，’一ワ「 ピシャーチャ (原因に付随する知覚不能な事物)
+(301)
+煙(結果)
+，
+証 因 ，x が 推 理 対 象 と な る (図 3).ヴ ァ ー チャスパ ティはこの議論の 文脈におけ る付随的要素の こ とを， upEdhi と呼ん でいる.
+(原因に付随する知覚可能な事物)
+ 図2に示したように， 仏教論理学派においては，x が何らかの付随的諸要素の もとyを発生させれば， yがxの結果であることが確定し， yからxが論理的に 導 か れ る . 一 方 ， N 学 派 に お い て は ，  x が 何 ら か の 付 随 的 諸 要 素 の も と ア を 発 生 させ る場合， x は y と偶然的に結びつ い てい るこ とにな り，その 逆一一 y は何の
+              存 在 の 発 生 (a )
+x  +  up 互dhi :「 :::::::::三二 y
+        認識の 発生 (b)
+付随的要素も持たずx と共存して い る                            図3
+一一の場合はxと必 にびつ
+y 然的結
+い て い る こ と が 認 め ら れ ， y が 理 由 ・
+ ここで， 火は水分を含んだ燃料とい うupadhi を伴っ たとき煙の 〈存在〉を発 生させ， 煙は何の upAdhi も伴わない ときに火の 〈認識〉を発生させるこ とになる. 言い換えれば，x +upadhi とyの関係について， xが存在発生の原因，アが結果 である時x + upadhi → アが成り立ち， x が論理的原因 (証因)， yが論理的結果 (推 理対象)である時x + up5dhi ← yが成り立つ のであるが これらの 「存在を発生
+，
+’ させる関係」と 「推理知を発生させる関係」を峻別せず， それぞれ upfidhikrta
+(aup5dhika )’および ‘svabhavika ’な関係としてN学派がパ ラレルに考えた点は
+この N学派の認識論的傾向が，‘upAdhi ’ 概念の移行の背景にあっ たと考え る こ とが で き る だ ろ う.
+6.upadhi の初期的概念は，結果とい う「存在発生のための付随的要素」であり， 一 272
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+注意されるべ きであろう.本稿2で見たように，
+発 生 の 阻 害 要 素 」 と し て の 側 面 が 定 着 し て お り ， 厂存 在 発 生 原 因 の 付 随 的 要 素 」 の側面は認め らない .よ く知られるとお り， N 学派は仏教論理学派と異なり，知 覚の領域と推理の領域 (図3の (a)と (b)がそれぞれ相当)に区別を立てなかっ た
+が，
+‘’
+後代の upadhi には「推理知
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+(302) イン ド論理学におけるupadhi の初期的概念につ いて (鈴 木)
+そ の 概 念 の 形 成 に は 仏 教 論 理 学 派 との 因 果 性 決 定 を め ぐ る 議 論 が 大 き な 契 機 と
+なっ た.後代には .r + up5dhi → yの関係に認識発生の側面を見る傾向が強くなり
+，
+upadhi にとっ て 「推理知発生の 阻害要素」，「論証の誤りを見つ ける道具」として
+の役割が強くなっ たと考えられるが〕8)，
+Jfiana§rimitra
+  qflndian
+，
+この 概念の変遷 に は， 理の領域を区別しない N学派の認識論的傾向が背景にあっ たと推測される.
+[略 号 お よ び 参 考 文 献 ]   ノ
+1940. Hetubindu of  Dharma 】(
+Atmatattvavivek aof  Udayana
+， Erns し irti
+， D . SAstri ed
+Steinkellner ed ， Wien ，1967.κ’rα廊 vα’10f Udayana， J.S. Jetlyed ， Baroda，1971 (rpt.1991>.
+ 
+191−211.Gangopadhyay， M .K.(1971)“The Concept of  Upfidhi in ”
+， Benares   
+Mbnameyodc[y・a of Nfir5yarp Kaunhan Raja and Suranarayan Sastr ied， Madras， 1975. Manika4a of ，
+anonymous  author ， E.R。 Krishna Sarma ed， Madras，1960. Nyiyαkusumafij’aii of Udayana，
+Durg巨dh証ra JhE ed Varanasi1973、 Nydyasiddh諏ntamukt ∂vali (IVSha り of ViSvan...i1ha Paffcanana， ，，
+                                r が
+Varanasi，1983.
+N五rfiya acararpa   η
+TarkikarakSisarasaiigraha  of  Varadaraja， P.T.G .YatirEjasampatkumar  ed ， Tirupati， 2004. 醸 考p”60 κ ∂ of  JfiAnaSrimjt iranclude din JfidinaSrimitranibandhfiva lAina 皿 talal Thakur  ed ， Patna
+Kira4距v σ
+U， 
+S互stri and  
+S温stri ed ， 
+Swetavaikuntha
+静め，σv酉r所肋磁ρακγα1蔽 (丿>UTT)ofV 五caspati  Migla， Anantalal Thakur ed， Delhi，1996.
+editcd  with  
+ 
+  1959 .Franco ，
+Vyfipti
+:
+Review
+ of  
+Lasic s ，
+，
+，，
+Ny5ya  Logic lndian Philosop.hv l:146−166.稲見正浩 (1998)「仏教論理学派の 因果関係の 決定方法に
+つ い て一本当に因果関係は決定できるのか?一」『印仏研』47−1:150−156(L).
+Kajiyama ， Yuuichi(1963)“Tripaficakacint蕊:Develepment  of the Buddhist Theory on the
+”−− Determinatjon of  Causality，凡4iscellanea Indologica Kiotiensia， Nos .4 5 : 1 15 (Studies in
+Buddhist  Philosophy， Kyoto
+−
+，  ，475 489).Kitagawa
+“ ， Hidenori (1965) On
+Up互dhi”
+Up5dhi : continued
+:
+〜ブ   
+:
+Ri皿sen
+1989
+，
+pp
+The Journa ノ( ノndian  and  Buddhist Studie.g 14−1
+−
+19 25 (L);ibid (1966) On
+，
+  と内省」『南都仏教』8311−32(L).Lasic， Horst(1997)“Dharmakirtiand HisSuccessors
+on  the Determination of  Causality. Dharmakirti’s Thought and  lts lmpact on  lndian and  Tibetan Philosophy” ，Proceedings of  the Th ird Internationa l1)harmakirt iConferenc e233−242.メL井 i告 (1981)「Vfiyuの知覚につ いて」『印仏研』29−2:644−645. Oberhammar， Gerhard(1964)“Der
+Ensho ”，Kanakura 
+−
+Ronshu  . 109 L . 2003
+ 
+Koki ノ(inen
+，
+pp97 ()片岡啓( )「経験    
+ ( Svabhivikasambandha， ya ”， fiir
+N .S. 2002 Ga カ  on  Upndhi
+ ulndercutting
+( Council
+) geSa Philosophical
+ condition
+Ha
+  :
+，
+“’’
+About Eli (2002) J淞 na 雪rimitra sEnquiry  
+” sVy5pticarc五， Sanskritte， xUtbersctzung ， Analyse ，ノburnal
+Horst Phitosoph.v 30 :
+ Ein Geschichtlicher Beitrag zur Ny互  Logik Mener Zeitschriftder
+κunde  Stid−und  Ostasiens 8:131−181. Phillips， Stephen H. and  Tatacharya， Ramanuja
+Research.  Universitati sUpsaliensi二sSouth Asian Studle s1) .
+1)Phillips氏 は ，
+ 
+ 
+“
+’ The inferentia
+ 
+ 
+”
+ ， New Delhi Indian
+ガンゲーシャを中心とするNaVya−nyfiya 研究を対象に， Goekoop， 一 271 一
+一
+NI工I工-Elleoetcrotniroonic Library Service
+  SjOdin ，
+ of   ρpening
+−
+Anna Pya (2006)The
+− Tradition −
+ 
+Va llabha on  Anumbna  in ハlya)，alil 費vati ， Uppsala : Uppsala  University， Interfacult yUnits (Acta
+ 
+， Journal ‘of
+知 覚 の 領 域 と推
+ 
+“
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+Mullati の
+accident ，  Tarasankar
+ 
+Bhattacharya の limiting adjunot   Potter と Sibajiban
+インド論理学におけるupadhi の初期的概念につ いて(鈴 木) (303) ’‘” “”
+”“”
+Bhattacharyaの “obstruction を sensitive な訳として評価し， FrauwallncrとVattankyの
+“”“”
+zusHtzlichen  Bcstimmung ， additional  condition ，  Matila1の associate   condition に 批 判 的 評
+価を与えてい る.   2)Kitagawa [1965][1966]， Phillip[s2002].他に， M.K. Gangopadhy5ya [1971]も，upadhi が推理の 発生を妨げ，対論者の 論証式の 誤りを指摘する道具で ある 点を強調してい る.また，Nya−.valitavati(12c)の推理論を中心に扱っ たSj6din[2006]は
+Phjllipsの訳語を支持してい る.   3)A−tmatattvaviveka ， p.403， l l−12:/臓照 々〃3〃〜∂肋1’，
+’−
+p.314，6:Kira4Eialvi， p.201，ll12など.   4)上記の論証式は， N学派によれば「顕
+現した色を持つものであること(udbhatar[ipavattva)」というupadhi (U)が認められるた
+め正しくない とされるが，ここでこのudbhUtargpavattva は “sEdhyavy5pakatve  sati ’.
+sadhanavyapakab を満たしてい ない とい う.その理由は次のように説明される.「触感 の基体であれば必ず顕現した色を持つ 」わけではない ため (例えば水 (顕現していない 色を持つ もび)))，HはUから逸脱し，  sadhan5Vyfipakatva とい う定義の部分は満たす.し か し ， 「知 覚 で き る も の で あ れ ば 必 ず 顕 現 し た 色 を 持 つ 」 と い う わ け で も な い た め (例
+えばアートマン)， SがUから逸脱してしまい， sadhyavy 互pakatvaという定義の部分を満
+p.28，10)とともに， これと同様の定義がN学派のテクス ト中にも見られる点は今後の
+NSM， p.454， 2− .455，1ならびに 同テ クス ト注釈Kira4avaf，  −
+i.454，2830お pp
+たさない .ctL 
+よ び Kitagawa [1966]. ま た ， V 学 派 に お け る Vayu 知 覚 論 の 展 開 に つ い て は 丸 井 [1981] に詳しい.   5)、MSM， p.455， 3−4，およびMa4ikarpa. p.36，54−6など.   6)バ ーッ タ派のテクストでは斜線部を生じない upadhi の定義が与えられている ( ildrcnameyoday α，
+検討を要す る .cf.7?irkikarakS々， p.42， 
+3.   7)niyata の 理解につ い ては， 
+Lasic [2000] に対するEli Franco氏の書評 (Franco [2002:196−201コ)に従っ た.同書でFranco氏は，
+Pi)ticc〃・ca にヴァーチャスパティの として れる のLasic
+y[ttt 中 見解 現 本文引用箇所 氏訳を取
+り一Lげ，Oberhammar 氏等の先行する訳にも言及しつつ， Lasic氏を含めた ’niyata’の解 釈に対する反論を投げかけてい る.彼によれば，これまでの研究は ‘niyata ’を「lihga が sadhya に制限されてい ること」として存在論的に解釈してきたが，それよりも 「1inga が s訌dhyaに対して本質的関係にあると確定すること」とい う認識論上の意味に解釈する
+ことが望ましいという.   8)NVTT， p.135， 8−12.  9)ヴァーチャスパティ以
+前のN学派を含めたイン ド論理学における遍充把握論の展開は片岡 [2003]にまとめら れている，   10)すでにトリローチャナの記述からもupadhi の初期的概念の概要は 見て取ることができる.7C，p.161， 20−23.ただし，後に見るヴァーチャスパ ティの よう な因果性の決定に焦点を絞っ たトリローチャナによる議論は現在まで残されていない. また，Obcrhammar [1964]も示すように，「反復的観察を伴う意知覚」による遍充把握 説をとるトリローチャナ説を，「反復的観察を伴う直接知覚」へ とヴァーチャスパティ が改変し，遍充の存在をより個物の領域へ と引き寄せていることは，大きな相違と見な されねばならない .   11)N VTT， p.130， 6−8.   12)NVTT . p.130，8−10.   13) こ の こ と は 次 の ダ ル マ キ ー ル テ ィ の 言 明 に も 端 的 に 示 さ れ て い る . 「x の 知 覚 が あ る 時 ， それまで知覚される特徴を具えてい ながら知覚されなかっ たyが知覚され，x以外の諸 原閃が あっ て も，X が存在しない 時，存在しない とい うように，直接知覚と非知覚によっ
+一
+NI工I工-Elleoetcrotniroonic Liibrbaryary Service
+一 270
+’’
+，
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(304) イン ド論理学におけるup蚕dhiの初期的概念につ い て (鈴 木)
+て達成される 「それがある時存在し， それがない 時には存在しない 」とい う [関係が] 因果性である」(Hetubindu， p.11，5−7).ダルマ キールティによる因果性の決定について
+はすでにKajiyama E196]3，稲見 [1998]等に詳しい .   14)NVTT， p.130，13−15. 15) NVTT ， p.130，19−131，2.     16) />P7TT， p.132，1.     17) ?>VTT， p.135，14−21. 18)Oberhammar [1964]は，ウダヤナがupadhj の 定義をはじめて明確にした事実に 「推 論の新たな形式化」を読取ろうとしてい るが， SjOdin[2006:127コも述べ るようにこの 表現は明確とは言い がたく，むしろx + u画dhi→ yとい う関係の 「認識論的側面の強調」
+と理解した方がよい と思われる.
+〈キーワード〉 ヴァーチャスパティ=ミシュ ラ， 絢・めαy冴曜∫加@ρα脚 ’r緬， up蚕dhi，遍充
+       把握論
+                     (名古屋大学非常勤講師，博士 (文学))
+新刊紹介
+石濱 裕美子 ・福田 洋一
+『聖 ッ ォ ン カ バ 伝 』
+A5 版 ・318 頁 ・定 価 3 800 円 ，
+   大東出版 ・2008年2月
+269 一
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  

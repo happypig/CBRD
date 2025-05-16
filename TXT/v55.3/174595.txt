@@ -1,0 +1,72 @@
+ (98) Journal of Indian and Buddhist Studies Vol. 55, No.3, March 2007
+On the place of nimitta in the Mahayanasutralamkara In the context of the parikalpitalaksana
+MATSUDA Kuninori
+■Introduction The term nimitta plays an important role in discussions of various
+doctrines of the Yogacara school. As is well-known, however, its classification in the trisvabhava theory is not fixed.') What we are concerned with here is the follow- ing fact: nimitta is defined in the Madhyantavibhaga(MAV)as the nature which de- pendsonothers(paratantrasvabhava)w,hiletheMahayanasutralamkara(MSA)treats nimitta in the context of that which is wrongly imagined (parikalpita),even though these two works are thought to have similar tendencies in their thought. This fact is very interesting when one takes into consideration that the Viniscayasamgrahani, which seems to predate these two works, gives the same classification as the MAV, while the Mahayanasamgraha, which took over the frameworkof the MSA, follows the classificationgiven in the MSA, at least as far as nimitta is concerned.
+Of course, one of the reasons for this difference is that the MSA does not treat nimitta in the context of the pancavastu theory, unlike other works, but when one takes into account the significance of the term nimitta in the Yogacara school, it would seem reasonable to suppose that this reflects some difference in the under- standing of the term nimitta itself.
+In this paper, I would like to clarify the interpretation of nimitta given in the MSA and how it is recognized as the characteristic of that which is wrongly imag- ined by reexamining the MSA and its commentary by Sthiramati.
+■The interpretation given in the MSA First of all, the MSA situates nimitta in the trisvabhava theory in a passage in which three characteristics are mentioned with regard to the three svabhavas. Here the MSA explains this without relating it to the pancavastu theory, as mentioned above. The MSA states:
+yathajalparthasamjnaya nimittam tasya vasana/ tasmad apy arthavikhyanam parikalpitalaksanam//38//
+1126
+ On the place of nimitta in the Mahayanasutralamkara (K. MATSUDA) (99) "The nimitta of a notion of an object in accordance with speech (yathajalparthasamjna), its impression, and the appearance of an object which arises from it, [these] are of the
+characteristic of that which is wrongly imagined."
+laksanam samasena trividham parikalpitadilaksanam/tatra parikalpitalaksanam trivi-
+dham yathajalparthasamjnaya nimittam tasya ca jalpasya vasana tasmac ca vasanad yo 'rthah khyati avyavahdrakusaldnam vinapi yathajalparthasamjnaya/tatra yathabhilapam
+arthasamjna caitasiki yathajalparthasamjna/tasya yad alambanam tan nimittam/evam
+yac ca parikalpyate yatas ca karanad vasanatas tad ubhayam parikalpitalaksanam atra- bhipretam/
+"The characteristic, to put it briefly, is threefold, [i.e.,] the characteristic of that which is wrongly imagined and so on. Among them, the characteristic of that which is wrongly imagined is threefold: the nimitta of a notion of an object in accordance with speech, the impressionofit,[i.e.,]speech,andanobjectwhichappearsfromit, [i.e.,]theimpression, even without the notion of an object in accordance with speech. In this case, the mental factor which is the notion of an object in accordance with an expression is the notion of an objectin accordancewithspeech.Thatwhichisa cognitivesupport(alambana)ofit isthe nimitta of it. In this way, that which is wrongly imagined and the impression as a cause from which [it arises], these two are, in this case, intended to be the characteristic of that
+which is wrongly imagined."
+yathanamartham arthasya namnah prakhyanata ca ya/
+asatkalpanimittam hi parikalpitalaksanam//39//
+"For, when (ya) there is an appearance of an object and a name in accordance with a name and an object, the nimitta of the unreal conception is the characteristic of that which is wrongly imagined."
+aparaparyayo yatha nama carthas ca yathanamartham arthasya namnas ca prakhyanata
+yathanamarthaprakhyanatd/yadiyathdnamarhhahkhyatiyathartham va nama ity etad abhu- taparikalpalambanamparikalpitalaksanam/ etavad dhi parikalpyate yad uta nama va ar-
+tho veti/
+"There is another facet (aparaparyayo). [That is to say,] 'in accordancewith a name and
+an object' means 'as a name and an object are.' 'There is an appearance of an object and a name' means 'there is an appearance in accordancewith a name and an object.' If (yadi) an object appears in accordance with a name or [if] a name appears in accordance with an object, then this cognitive support of the abhutaparikalpa is the characteristic of that which is wrongly imagined. For it is only a name or an object that is wrongly imagined."
+1127
+ (100) On the place of nimitta in the Mahayanasutralamkara (K. MATSUDA)
+That is to say, as regards k.38, the characteristic of that which is wrongly imag- ined is summarized as being twofold: that which is wrongly imagined (the nimitta and an appearanceof an objectwhicharisesfroman impressiona)nd an impressionitself which is its origin. It should be mentioned that the nimitta here is understood as the cognitive support of 'a notion of an object in accordance with speech' or an object of somethingimagined but not as a cause in general.
+Next, in k.39, the MSA explains this characteristic in a somewhat different way. Hitherto this explanationseems to have been understood quite separately from the understanding presented in k.38,2)but this passage, at least as long as we follow the MSABh's interpretation, is thought to describe the above-mentionedmatter from another facet (aparaparyaya),i,e., from another point of view. In other words, this passage explains supplementarilyand more clearly that only when an object and a name appear in accordance with each other, namely, only when the imagination functions in such a way, is the nimitta regarded as the characteristic of that which is wrongly imagined. This interpretation of this passage would be accepted in that the MSABhuses 'yadi' instead of 'yd', which appears in the karika portion. Moreover, this is also implied by the fact that Sthiramati explains these two verses without making any clear distinction between them, as is mentioned below.
+■Sthiramati's interpretation Next the interpretaion given in the Sutralamkara-
+vrttibhasya(SAVBhw)illbeexaminedinbrief.
+As regards k.38, the SAVBhexplains 'the nimitta of a notion of an object in ac-
+cordance with speech' with concrete examples such as a pot and cloth, while it ex-
+plains 'the appearance of an object which arises from the impression' as an object of the imagination which is not affected by verbal convention.But it is noticeable that in explainingthe characteristicof that which is wrongly imagined, the SAVBhputs more emphasis on whether or not the imagination arises than the MSABh does.
+Next, concerning k.39, 'an appearance [of an object and a name] in accordance with a name and an object' is interpreted as 'to imagine (rtogpa) or to grasp ('dzin
+pa) that there is an object in accordancewith a name and that there is a name in ac- cordance with an object,' and the SAVBhthen considers it as the characteristic of that which is wrongly imagined.3)Subsequently,the SAVBhexplainsthe nimitta of the unreal conception (asatkalpa=abhutaparikalpa)as a name or an object in the 1128
+ On the place of nimitta in the Mahayanasutralamkara (K. MATSUDA) (101)
+same way as the MSABh,but it seems to regard not the nimitta itself but the imagi- nation directed at the nimitta as the characteristic of that which is wrongly imag- ined, contrary to the interpretationgiven in the MSABh.
+However,in the commentary concerning the last portion of the MSABh, the SAVBhexplains a name and an object as the characteristic of that which is wrongly
+imagined in the same way as the MSABh.4)
+This difference, if it exists, seems to be due to a difference in their interpretations
+of 'yd' appearing in the MSA. In other words, the MSABh interprets it in the sense of 'yadi', while the SAVBh interprets it as the characteristic itself of that which is wrongly imagined.5)In addition, the SAVBhseems to consider fundamentally that ' the fact that it appears' (prakhyanata)and 'to imagine it' are the same. Thus the characteristicof that which is wrongly imagined, which is indicatedby 'Yd',is inter- preted in the SAVBhas 'to imagine' or 'to grasp', which is equivalentto appearance.
+However,since the SAVBhregards a cognitive support as the characteristic of that which is wrongly imagined in k.38 and in the last part of k.39, and since there is no positive reason for the SAVBhto give an interpretation contrary to that of the MSABh, it seems more appropriate to assume that the SAVBhbasically considers the nimitta, which is an object of a notion or the imagination, to be the characteris- tic of that which is wronglyimagined.6)
+■Conclusion In the above we have reexamined the interpretation
+given in the MSA together with Sthiramati's commentary. As a following seems to have become clear:
+of the nimitta
+consequence, the
+is wrongly imag-
+・In the MSA
+, in the context of the characteristic of that which
+fined, the fundermental meaning of the term nimitta is thought to be a cognitive
+support of a notion or an object of the imagination.
+・The MSA regards the nimitta as the characteristic of that which is wrongly imag-
+fined from the viewpoint that it is an object of the wrong imagination, and k.39 seems to add supplementarily that the intervention of the imagination is the indis-
+pensable factor.
+・The SAVBh fbcuses on the explanation of the role of the imagination in explain-
+ing the characteristic of that which is wrongly imagined, but the nimitta seems to be basically interpreted as an object, and also to be recognized as the characteris-
+1129
+ (102) On the place of nimitta in the Mahayanasutralamkara (K. MATSUDA) tic of that which is wrongly imagined.
+MSA/Bh:N.FUNAHASHeId,.,"SomeProblemsintheMahayanasutralamkaraandCor-
+rigenda of the Mahayanasutralamkara (Chapter XI)," Otani Daigaku Kenkyu Nenpo 52, 2000,pp.1-69.SAVBh:O.HAYASHIMAed,.,"ChosyornssutsholbahiskabsorDhar-
+maparyestyadhikara,Part II," NagasakiDaigaku KyoikuGakubuJinbun KagakuKenkyu Hokoku27, 1978,pp. 73-119.
+1) This fact has been pointed out in the Cheng weishi lun(『 成 唯 識 論 』)and previous
+studies,e.g.,YE,Ayue[1991]:"Sanshoto gojito no sogokankei,"JIBS21-1,1972,pp. 80-87 (in Japanese); K. YOKOYAM[A1976]:"nimitta (so) ni tsuite," Bukkyogaku 1, pp. 88-111(in Japanese); K. HYODO[1991]:"Sansho-setsu ni okeru yuishiki mukyo no igi (2)," Otani Gakuho 70-4, pp. 1-23(in Japanese); id. [2006]: "Sansho-setsu to yuishiki mukyo,"OtaniDaigakuKenkyuNenpo58, pp. 1-70,1-3(in Japanese).
+2) Cf.HYODO[1991:esp.p.5];M.TAKEMURAY,uishikiSansho-setsunokenkyu,Shunju- sha,Tokyo,1995(inJapanese),esp.p. 95,etc.
+3) SAVBhad MSA,HAYASHIMeAd. 104.20ff.;ad MSABh,HAYASHIMeAd. 105.7ff. 4) HAYASHIMeAd. 105.15ff.
+5) ThisinterpretationgivenintheSAVBhisverynaturalwhenconsideredintermsofa relative (ya), and it may reflect the original understanding of the karika portion of the MSA, but we are here not concerned with this question.
+6) It should be noted that an expression such as 'atha va', which we frequently encounter in Sthiramati's works, is not employed. We may have to reexamine the interpretation appearing in the former part of k.39 by taking into considerationquestions pertaining to the Tibetan translation.
+〈Key Words〉 nimitta, parikalpitalaksana
+(Graduate Student, University of Tokyo, JSPS Research Fellow (DC2))
+1130

@@ -1,0 +1,317 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+印度學佛教學研究第57巻第2号 平成 21年3月 (289)
+イン ド韻律史におけるアパ ブランシャ語の役割 山 畑 倫 志
+O . は じめ に
+ アパ ブランシャ語(ApabhramSa)は古代以降のイン ドにおい て一定程度文語と しての 地位を有してい た言語である.この言語はあくまで文学の ための 言語とし
+て扱われ，現存する作品は全て韻文の ものである.
+ そこに用い られる韻律には古典サンスクリッ ト語の伝統的な韻律とは異なっ た
+もの がしばしば見られる.一作品の 中で使われる韻律の数も様々 であり， 仏教徒 によるD餉訛o諏 のようにほぼ全て一種類の韻律で統一されているものもあれば， ジャ イナ教徒によるSudapasamacariblの ように九十二 種類もの韻律が用い られて い るもの もある.またその特徴としてはプラークリッ ト諸語と同様， 古典サンス クリッ トでは主である音節単位の aksaravPttaを用い ることが少なく， モーラ(音量) 単位のmStr5vPtta が広範に採用されてい る.後述する十四世紀の韻律書 P痂嬢4卿力gα1αにおいては104種のakSaravrtta， 76種のrnatrsv ;ttaが挙げられて おり，前者がその数におい て後者を越えてい るが， 実際にアパ ブランシャ語作品 の中で用い られてい る韻律は大部分がmEtraVTtta である.  またtUkと呼ばれる脚韻の形式が一般的になるのもアパ ブランシャ語の韻律か らである.アパブランシャ語の韻律はほぼ全てと言っ ていいほど脚韻の形式に
+ー
+っ ている.アランカ ラにはyamakaと呼ばれる同種の技法があるが
+，  tuk の 起源につ い ては諸説あり， 未解明の状態である.さらにどこまでを脚韻とみなし
+従
+一 音 節 の み 韻 を ふ ま せ る pururlatuk や二音節もしくは三音節の韻を求めるkomalatUkとい っ た分類もある.しかし母
+音+子音+母音のセッ トを脚韻とするパターンが実際には多い.  そのような特徴を有するアパ ブランシャ語韻律であるが，その由来， 起源につ
+い ては未だ不明な点が多い .これは中期インド語の韻律とその前後の時代の韻律 との関係が明らかになっ ていないためである.脚韻形式の由来なども古典サンス
+て音を揃えるかにつ い てもさまざまであり，
+一 854 一
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(290) イン ド韻律史におけるアパ ブランシャ語の役割 (山 畑)
+クリッ トのアランカーラを受け継い だものか，新たな規則として生じたのか判断 がつ いていない.近代インド諸語の韻律との関係も明確とは言えない.本論では いくつ かの韻律書を概観して当時におけるアパブランシャ語韻律の位置づけを考
+察する. ・ak 爭arav1唯ta
+ prami珈 ka 韻
+ 二脚， jagao+aragapa+短長からなる八音節
+短長短 長短長 短長 短長短 長短長 短長
+  par互hiv50u且riηi!khivesaevil且siηi/!匚Sudapasa理acariu  1.7.13コ
+王を愛してい る妻ヴィラーシニ ーは悲しんだ.
+・m 五tr互vrtta  cand τale 護韻
+ 二 脚，八モ ーラ，脚末は長短
+  短短短短短長短 短短短短短 長短
+  ravikarpayakumbhu  / lhasiyau susuipbhu 〃
+ 短短長短長短 短短長短 長短
+  duva〒vi eha !phudu  candaleha 〃 [Sudallisarcapriu  5.7.18−19]  太陽のように美しい 黄金の壷が落ちた.  これも二脚のcandralek 瓶韻である.
+madirE 韻，もしくはlatfikusuma韻
+ 一二脚， 三十モーラ， 脚末はsagapa (短短長)  長短短長短短長短短長短短長短短長短短長 短短長
+  jattha kayalp bhiklthapavitthara ノ
+ siri a箪uhutta  1ahi即pi   puila  口珥
+α
+ 長短短長長短長短短長短短長短短長短短短 短短長  lohu Oa l現∫∫arロbhayamηa vi gErau pemmasaエna1P pi tavacaraOa叩 !「SudaSisanacariu ll.2.3−4]  妻を得てもなお修行者の行い を広め，欲望も恥も恐れも高慢もなく苦行を好んだ.
+ PifigalにaよるChandak.stitra以来の韻律理論の伝統におい て時代を下るにつ れ，
+プラークリッ ト諸語やアパ ブランシャ語をも対象とする韻律書が著されてい る. ) ) 3)
+vyaslは最初期のものとしてNanditEltlthyaや2Virah5nkaの 吻砌瓰5砌3μcα脚
+Svayambhaの Sva vambhticchandas4 )なども挙げてい るが， 語の韻律を大きく取り扱う以下モ点の文献を見てい く.
+，
+ここではアパ ブランシャ
+853 一
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+イン ド韻律史におけるアバ ブランシャ語の役割 (山 畑) (291)
+1 . Chando ’nuSidSana
+  12 世紀 グ ジ ャ ラ ー トの ジ ャ イ ナ 教 徒 で あ る Hemacandra は ア パ ブ ラ ン シ ャ 語 文 学の 形式を多方面でまとめた人物である.アパ ブランシャ語の 文法は
+，
+SiddhαhemasiabdanuSasna の一部におい て包括的に記述し またサンスクリッ ト
+α
+語に起源を有しない とされる語の語彙集であるDe伽 伽 翩 贏 を著した.その一L
+連の著作の一つ として韻律書であるC加海b加動砌αがある.  Hemacandraの活動した西イン ドは10世紀前後からジャ イナ教徒によるアパ ブ
+ラ ン シ ャ 語 文 学 が 盛 ん で あ り， 現 存 す る 文 献 の 量 も 他 地 域 の も の が 数 点 し か 残 っ ていないのに比べて数百点以.ltが写本として残っ ており， 当地域でのアパブラン シャ語による創作の相当の流行を示唆する.そのような状況下でHcma¢andra の 各著作が生まれており， そのためか他地域では早くに廃れたと思われるアパ ブラ ン シャ語がかなり後代まで使用されてい る.
+ 特にアパ ブランシャ語の 韻律はそれ以前にはまとまっ た形で整理されておら
+それ以後に作られた韻律書である ChandαhkoSaやPrdkrtapain’gataなど同種の 文献にも大きく影響を与えてい る.
+ C乃仞 40跏藤侃 α は伝統的な古典サンスクリット語の韻律に加えてプラーク リッ ト諸語およびアパブランシャ語で用いられる韻律を記述したものである.そ の構成は全八章のうち冒頭の三章にサンスクリッ ト語の韻律を配し， 第四章がプ
+ さらにアパ ブランシャ語部分は脚数の不規則なもの (第五章)，Sandhiや Kadavakaなど章や節の切れ目に挿人される韻文用のもの (第六章)， 二脚のもの (第
+七章)に分類してい る.そこには合計して 141の韻律が列挙されてい るが，それ らを形式から分類すると各行の 音の 数が同一か否かによりsama ， ardhasarna ，
+v畑ma に分けられ さ らに行の 数に よっ て dvipadi  catuSpadi   paficapad 
+， ， ， ，i Satpadi，
+aStapadi があり， dvibhafig itribhahgiの十種に分類される。 bha血giとは複数の韻 ，
+律を組み合わせたものであるが，その種類はHemacandla におい ては数種しか挙 げられてい ない .
+ また， 当時の韻律の定義には未だ揺れが確認される.アパ ブランシャ語の説話 作品には自ら韻律名などに言及してい るものが見られるが， それらとの齟齬は各 所に見られる.例えば東部アパ ブランシャ語の代表的な韻律であり， 後代には中
+ず，
+ラークリッ ト諸語，
+そして第五章から第七章までがアパ ブランシャ語の韻律と なっ ており， 第八章に補遺を付している.
+一 852
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(292) イン ド韻律史におけるアパ ブランシャ語の役割 (山 畑)
+世ヒンディー文学でよく用い られたdoha韻は次のようなものが一般的である.  doha韻
+ 四脚，第一脚と第F脚が十三 モーラ，第二脚と第四脚が十一モ ーラ  短短長短短短短短短長短 短短短短長短短短短短
+  nitarahga  sama  sah 碕ar 靤 1saalaka融labirahi6 /
+  長短長短短短長長短 長短長短短短短短短
+ P肉ρapu脚 a rahie  kUddha〆nAhi  k亘qhu phuda kahi6〃口〕oh 諏koSa by K誰血a lO]
+ 生来の姿に曖昧さはなく， すべ ての罪悪を平等に解き放つ .  罪悪も福徳も何も残らない .カーンハ はその ことを明瞭に述べ た.
+しかしHemacandraは同形式の韻律に別の 名前を与えてい る.
+だが大部分は以下の ようにおおむね他の アパ ブランシャ語作品と一致する.
+catUrmEtro  laghu rdvimatr。 laghu lca  candralekh 巨 !匚C 肋 励 拡 幡 α 澱 7.65] candralekhfi 韻は 4モ ーラ， 短音節， 2モ ーラ， 短爵節か らな る.
+α
+ ラージャスターン， 14世紀の作品と推定されている5).m5trEv ;ttaが76種， akSaravptta が104種の合計180韻が挙げられている. Hemacan(lraのようにサンス
+ samc  ek5daSa  oje trayedaSia kUsum 蕊kulamadhukara 〃 [Chando
+  sum 蚕kulamadhukara韻は偶数脚11(モーラ)，奇数脚13(モーラ)からなる.
+2 . −Prakrtapain gal
+クリッ ト語の韻律を含めたり，
+’
+プラークリッ ト諸語とアパブランシャ語を分けた りはせずr つ のカテゴリーにまとめられている.ここでもdoha韻の例を挙げる.
+teraha mattfi  padhama  paa pu1}u  earahiip  dcha ! pupu teraha eErahai  doh置lakkha口a eha 11 [・Prδ膨’叩α劼9α’078 ]
+一脚 目は 13モ ーラ，次は 11 (モ ーラ〉を与えよ.
+それから (三脚目と四脚目は)13，11.それがdQ憶 韻である.
+3 . ChandahkoSia
+ P頑勉卯α魏gα如 と同じく14世紀の 作品であるが，より後代の もの とされてい る. おそらく西イン ド.74の詩節のみの韻律書であるが， ほぼ完全にアパ ブランシャ
+語のみの韻律書となっ ており， 詩作の際の実用に重きをおいたものと考えられる.   terahamatt呂 vis モ apai  sama  cy 酖 aha  matta !
+ a4ay 蕊]isa叩 matta savi doh互 charpda  nirutta 1/[Chαndahko ，“a 21]
+ 脚が (全て)同一ではなく， (奇数脚は)13(モーラ)で偶数脚は11モーラ.
+一 851
+’
+  nuSdsana
+6.20.
+ 
+ 
+35 ]
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+イン ド韻律史におけるアパブランシャ語の役割(山 畑) (293)
+合計して 48モ ーラ，(それが)d。ha韻と呼ばれる
+4. まとめ
+ Hemacandraの韻律書はアパブランシャ語の韻律をサンスクリッ ト語やプラー クリッ ト諸語のそれとは区別し，またかなりの部分を割いて記述してい る.これ
+は文学の ための言語としての アパ ブラ ンシ ャ語を理論づけた点で画期的である. 後代に現れる同種の文献では韻律の上ではプラークリッ ト諸語とアパ ブランシャ 語とを区別してはい ない .確かに両者は音韻学的にほとんど違い がない ため互い
+に韻律を流用することは容易であっ たろうが， これは文語としてのアパブラン
+シャ語の位置づけを考察する Eで何らかの手がかりになると思われる.  またakSaravrttかaらm5travrtta へ の 変化， 脚韻の 多用などは言語自体の 変化も
+それを後押しする要因になると思われる.プラークリッ ト諸語，
+語を用い る著作者たちがほぼmatravrtta へ と移行したことはその裏付けとなりう
+る.ただ，Velankarは， matravrtta は詩作の際の自由度が ヒがるが，そのぶん韻 律全体の規律がゆる く，韻文としての リズムが失われがちであり， そこを補うた めに一行をより細かくmatra の数で区切る手法であるyatiについてもアパブラン シ ャ 語 と 深 く 関 係 が あ る と 主 張 し て い る 6 ). こ の 点 に つ い て も 今 後 の 検 討 が 必 要 で あろ う.Vclankarの 主張する ようなこ とは韻律書内の 理論として は顕在化して い ない が， 上に挙げた韻律書群を検討してい く中で その ような事象の 起こ りも把
+握されてい くことと思われる.
+ またVyasはmatravrtta の多用やtUkなどの特微は古典サンスクリッ トからの伝
+統によるものではなく， 物語の歌い手たちの技術に由来するの ではない かと仮説 を 立 て て い る 7 ) が ， そ れ は 韻 律 の 観 点 か ら だ け で は な く， ア パ ブ ラ ン シ ャ 語 諸
+作品や言語特徴その ものの 分析も踏まえる必要がある.
+ これら韻律書がイン ド西部に固まっ て現れるとい うこ とは文語としての アパ ブ
+ラ ン シ ャ 語 が 文 学 作 品 全 般 を著 す た め の 言 語 と し て 認 識 さ れ て い た こ と を 改 め て 示すもの と考えてよいだろう.イン ドの他地域においてはこれほど組織だっ た記 述は存在しない .
+ アパブランシャ語韻律使用の実例としてジャイナ教説話の一つ， Sudαmsa4aeariu に用い られてい る韻律を挙げる.
+850 一
+アパ ブラ ン シャ
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+(294)
+m 且tr盃vrtta
+       韻 律 名 一
+インド韻律史におけるアパブランシャ語の役割 (山 畑)
+Ananda 2 Kar akarabh 耳」且 2
+Kus avil 誤sik 巨 2 Candralekha 2
+短長 五yik五 8一
+2 短長 2ra
+2 短短 2 短長 2短 2全短 2 長短
+da画
+2 1短長 2 1短 4 1短 2 12 長.短 2 13ra
+4 13na
+15na 16sa 16短長短
+長 16bha
+脚   音 量 脚 末
+5 短 8 短長
+韻 律 名 Vi1再sinI
+Mattam盃talpga
+脚   音 量
+4 16短長 2 18ja 219
+2
+2
+2
+2
+4
+2
+2
+2
+2
+2
+2
+2
+長 .長 J’
+Madanavil巨sa Madana
+4 8 2 8
+Madhubh 亘ra 2
+日 bhetiy蕊
+Am 缸 aPUIas
+C 翫rupadapalplni
+Dipaka
+Tomarekhapu 撃pam51a Kha阻αaya叩 Gandhodakadh蕊ra
+Doh 翫
+Visiloyachada 単
+Simh巨valoka   」
+Uppah 石sipi
+Raya
+AIilla/AdiIla        噛
+Trotanaka    ■
+Paddhadiy 亘 P 巨dakulaka
+Vil五sini
+ak串aravrtta
+       韻 律 名 Madhyama
+K蕊mab 互na       ■
+8 4 9ra
+Sa蠢itilaka S盃riy
+Ma 叩 jari R 互語 kulaka
+Magadhanakudiy 巨 Heladvipadi Kuvalayamahni
+S計labha叩 且 jik
+Candralekh翫
+K 巨malekh Bhramarapad 圧
+G 証 }巨
+Dvipadi
+Raoi垣
+V項ur蕊
+413 13，11
+2
+2 2
+2
+2 2 2 2
+24短長
+24 27短短
+27短短
+27 28短長 28短長 28短長 28sa
+2 2
+2
+2 2 2 2
+2 4
+脚 2ta
+2ra
+翫
+，11 ，
+厂
++
+脚 頭 naNidh 8 長短
+AvalI
+Urva 函i Cappai!CaupahI M dayara Madan盃vat互ra
+16 16 16ja
+短短 短長
+16
+16 短 長
+規 定 短
+一 Aran巨la
+短 長
+Madira/Lat亘kusunla
+韻 律 名 Sam五nik 五
+CLtrapad翫 一 849 一
+2 31sa
+脚 規 定 2ra + ja+ 長短
+× 十 2bha 2 長長
+一
+NI工I工-Elleoetcrotniroonic Library Service
+爭atpadi 2
+全短
+長   . 231
+21ra 21na 22 22長長 24長
+脚 末
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+Siddhaka Mauktikadama Soma 廊 M引ati
+2ra + 短長 2ja × 2 2yaX2 2jaX2
+Vidyu皿m 詛翫
+Anus 酖 atula Tomara
+Ras血inI      ，
+2 長x8 2 短 × 8
+2 長 短 x4
++ +ra+ 2ra ja 短
+‘VrittajatisaMLLc
+l
+イン ド韻律史におけるアパ ブランシャ語の役割 (山 畑)
+(295)
+Usnik盃 2ra + + 長 Indrav r亘  7卩 ja司
++ ta + ja+ 長 長
+2ja + ta + ja+ 長 長
+Pram百皿 止互      .
+2ja + ra + 短 長
+Upendra 5 喝 工
+1)Bhola ShankerVyas .2007. Pr諏kTtapaiigala. MAhi  
+Prakri
+3)次の SvayambhUやHemacundraよりは以 の もの とされてい る.  H. Velankar.1925.
+Ttext Socict.y
+ 代の プラークリッ ト諸語の韻律と関連づけるこ とができる.H. D. Velankar.1933.
+皿edabad :
+2 ) ジ ャ イ ナ 教 徒 に よ る . gatha 韻 の 下 位 分 類 と し て 種 々 の 韻 律 を 示 す が ， そ れ ら は 後
+‘Gathalakshan
+’
+ oafNanditaddhya . 
+Re，search  
+Annals  所
+ 収
+ ocfaViya
+  Societ.y
+エ ahanka . 
+ of  the 
+ of  the 
+’
+Oriental
+Journal  yソ
+Asiatic
+’
+ 
+=
+ 
+4rtsand  Law.
+ ofBhandaTkar  
+ 
+前
+ vol .5.所’収.
+4)作者は Paumacariu を著した Svayambh 豆 とは別人.
+5)Bhela Shanlcer Vyas， P而 々・砌ワα煎gα1α吻， pp.362−364.
+6 ) H ..D . Velankar.1933.‘ApabhralpSa ’
+ No.1. Vol.2. Bombay ， p.44 7 ) Vyas， p.524.
+〈キーワード〉アパブランシャ語，韻律学，Hemacandra， C砒‘澀σ加∫∂5砌 σ                                           (北 海 道 大 学 大 学 院 専 門 研 究 員 )
+Bomb
+Branch
+Ro
+α 
+α
+ 
+，
+Metres . Journal qfthe  Universi oBombay .
+一 848 一
+ 
+2ta
+ln，stitute . vol .12.
+ 
+ 
+D.
+一
+NI工I工-Elleoetcrotniroonic Library Service

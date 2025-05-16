@@ -1,0 +1,108 @@
+ Journal of Indian and Buddhist Studies Vol. 55, No.3, March 2007 (57)
+The Vimalakirtinirdesa and
+the (Sarvabuddhaviayavatara-) Jnanalokalamkara
+YONEZAWA Yoshiyasu
+In 1999, a delegation of Taisho University, for the first time as foreigners, was allowed to make researches into the Sanskrit manuscripts preserved at the Potala Palace in Lhasa, the capital of the TibetAutonomousRegion.One of the most inter- esting and important discoveries at that time was the bundle in which complete Sanskrit manuscriptsof the Vimalakirtinirdesa(VKN)and the (Sarvabuddhavisaya- vatara-)Jnanalokalamkara (JAA)are included, for both Sanskrit MSS had been con- sidered lost so far. Since the press release of the discovery in December 2001, text critical studies of both Sanskrit texts have been gradually established: the facsimile edition of both MSS as well as 3 volume books in 20041),a critical edition of JAA in 20042),and a Sanskrit edition of VKN in 20063).During the preparationof these publications, the present author as a member of VKN Study Group has felt that we should put more emphasis upon the combination of VKN and JAA, for it is the undeniable fact that the MSS are sponsored by the same person and hand-copied by the same scribe at almost the same time.4)With reviewing MSS features, the present author will discern an intention of the sponsor/scribe and the Tibetan monk in charge of MS preservationbelow.
+MSS Features
+The script of both MSS can be categorized as the "Proto-Bengali-cum-Proto- Maithili"5)except on the cover folio (1a)where Tibetan dbu-med is employed. It is very probable that notes on the cover folio were written by an anonymous Tibetan monk who was in charge of MSS preservation.
+MSS of JAA (32 leavesin total6))and VKN (78 leavesin total) fall into the fol- lowing text-components:1) Cover folio (1a),2) Main Text, 3) Scriputre Title, 4) ye dharma formula, 5) Dedication,and 6) Colophon. Besides 2) Main Text, each text is
+1085
+ The Vimalakirtinirdesand
+(58) the (Sarvabuddhavisayavatara-)Jnanalokalamkar(aY.YONEZAWA)
+read as follows: 1) Cover folio (1a)
+JAA: aryasarvabuddhavisayavatarajnanalokalamkara
+'phagspa sangsrgyasthamscadkyiyul la 'jugpaye shessnangbabrgyangyimdo
+VKN: abhiratilokadhatvanayanaaksobhyatathagatadarsana mngonpardga'ba'ijig rtenmi'khrugpa'imi'khrugpa'izhingbkod
+2) Main Text (JAA: 1b1-31bV7K; N: 1b1-78a4) 3) Scripture Title
+JAA: aryasarvabuddhavisayavatarajnanalokalamkarnaama (32a)mahayanasutram samaptam//(31b7-32a1)
+VKN: Missing
+4)ye dharma formula(JAA:32al;VKN:78a4)
+ye dharma hetuprabhavahetum tesam tathagato by avadat/
+tesam ca yo nirodha evamvadimahasramanah//
+"Those phenomenawhich arise from a cause, the Tathagata declared what is their
+cause and what is their cessation. Thus, the great Sramanahas spoken." 5) Dedication(JAA:32a1-2V; KN:78a4-5)
+deyadharmo 'yam pravaramahayanayayinahbhiksusiladhvajasyayad atra punyam tad bhavatv acaryopadhyayamatapitrpurvamgamamkrtva sakalasatvaraser anut- tarajnanaphalavaptayaiti//
+"This is a dedication of a monk Siladhvaja, a follower of the preeminent Mahayana. Whatever virtue here, may it be for attaining the results of the su- preme knowledge of a mass of all living-beings beginning with his instuctors, preceptors, and his parents".
+6) Colophon
+JAA: maharajadhirajasrimadgopaladevarajyesamvat 12 sravanadine 30 likhitam
+idam upasthayakacandokeneti//sri//(32a2-3)
+"This was hand-copied by a [royal]servant Candoka on the 30th day of the
+sravana month (July-Augusti)n 12thregnal year of the Holy King Gopala, the preeminent king of kings."
+VKN: srimadgopaladevarajyesamvat 12bhadradine 29 likhiteyam upasthayaka- candokeneti//(78a5-6)
+1086
+ The Vimalakirtinirdesand
+the (Sarvabuddhavisayavatara-)Jnanalokalamka(rYa.YONEZAWA) (59)
+"This is a hand-copy of a [royal] servant Candoka on the 29thday of the
+bhadra month (August-Septemberi)n 12thregnal year of the Holy King
+Gopala."
+As is shown above, both MSS have almost the same textual organization. From
+both colophons, the common information is obtainable: the same sponsor, Siladhvaja; the same scribe, Candoka; the same year, the 12thregnal year of the King Gopala.7)Unfortunately,no other information about the sponsor and the scribe is available for the present author. The King Gopala is to be identified as one of the three kings in the Pala dynasty that ruled over north Bengal and Bihar, i.e., the east- ern India, from the latter half of 8thcentury until the end of 12thcentury or the very beginning of 13thcentury. Taking the script of MSS into consideration, it is reason- able to assume that both colophons refer to the King Gopala III (ca. 1128-43or ca. 1143-1158)8W).eknowfrombothcolophons,moreover,thatthehand-copyofJAA was completed first, and then that of VKN about a month later. Incidentally,JAA is
+put on the top of VKN in the MSS bundle at the Potala Palace.
+On the other hand, two important diffrences are noticed between VKN and JAA
+MSS. First, VKN has no scripture title just after the main text. The title "Vimalakirtinirdesa" appears within the main text, i.e., in the end of chapter 12
+(77b7)9),but no title indication of VKN is available just as in the case of JAA. Second, the Sanskrit title on the cover folio of VKN is none other than that of chap- ter XI. This suggests that the Tibetan monk who might have been in charge of the MS preservation regarded the chapter XI as a highlight of the entire VKN.10)
+An intention of the sponsor/scribe
+It is not easy to answer the question why JAA and VKN were combined by the sponsor, Siladhvaja, or the scribe, Candoka. However,it seems possible to assume that JAA had priority over VKN, at least for the sponsor/scribe, on the basis of cir- cumstantial evidence mentioned above, i.e., 1) dating of the hand-copy (JAAwas hand-copiedbeforeVKN)and 2) no scriputre title just after the main text in VKN. It is indeed true that JAA citend in the Ratnagotravibhagha (-Mahayanottaratantra)
+plays an importat role in a formation of the so-called Tahagatagarbhaphilosophy, although no technical term as such is employed in the text. As the doctrinal con-
+1087
+ The Vimalakirtinirdesa and
+(60) the (Sarvabuddhavisayavatara-)Jnandlokalamkara (Y. YONEZAWA)
+tents of this scripture, it is notable that the characteristics of 'tathagata' and 'bodhi' are explained by various negative expressions, e.g., no-origination and no-destruc- tion(anutpada-a,nirodha-)e,tc.11N)evertheless,itcannotbedeniedthatJAAisatypi- cal Mahayanascripture.
+The hypothesis that VKN occupies a supplementary status to JAA for the MSS sponsor/scribeseems supported by the title of chapter XI on the cover folio of VKN MS. In chapter XI of VKN, Vimalakirti expounds 'how to see' the tathagata and miraculously shows the Abhirati universe of the Tathagata Aksobhya, from which he descended. The Tathagata Aksobhya has been well known since the early stage of Mahayana Buddhism. From the viewpoint of the Tibetan who noted 'abhiratilo- kadhatvanayanaaksobhyatathagatadarsana'on the cover folio of VKN MS, howev- er, the image of the Tathagata Aksobhya might have been limited to one of five Dhyani Buddhas in Vajrayanismor Tantrayanism.
+If the dating of MSS is taken into consideration,it is very probablethat the pre- dominant ideas and creeds of the sponsor/scribewere worth while to be investigat- ed. In Bengal, the Pala period is said to have introduced a new school of art, the Eastern Indian School of Medieval Art or simply Pala School of Art.12)It is also well known that the activities of famous Buddhist scholars are recorded in Tibetan hagio-historiographies,e.g., Taranatha's Chos 'byung, Pag sam jon zang, etc., all of which contribute to the understandingsof a history of Pala dynasty. Furthermore, it is to be noted that there are many other Sanskrit MSS dated in this Pala period.13)
+In place of conclusion
+The above argument is based upon nothing but a hypothesis.Nonetheless,it would be certain that intentions of the person in charge of MS preservation as well as the
+sponsor/scribe are understood under their cultural context. All that the present au- thor wants to propose is appreciation of their intentions and endeavors, for they made us possible to conduct text critical studies on the important scriptures, JAA and VKN.
+Appendix
+The present paper does not go into detail about the common features between the 1088
+ The Vimalakirtinirdesa and
+the (Sarvabuddhavisayavatara-)Jnanalokalamkara (Y. YONEZAWA)
+main texts of JAA and VKN. However, this topic was communicated in the panel discussion entitled "The Thought and Culure in the Vimalakirtinirdesa" organized in the afternoon of 13th September, the second day of the 57th congress held at Taisho University. Prof. TAKAHASHi Hisao of Taisho University introduces that the first 5 verses of §38 in JAA are equal to the 4 verses (12-15) of §1 in VKN, among which, notably, verse 15 of §15 in VKN consists of pada 4cd and 5ab of §38 in JAA. It is known that the verses of JAA are cited in the texts of Tantirc Buddhist masters, e.g., Buddhaguhya who wrotes Pindartha commentary on the Mahavairocanasutra, Advayavajra, Naro-pa, etc. According to Prof. TAKAHASHIi,t is remarkable that the extract version of JAA, the Dasheng wenshushili pusa san fofashen li(大 聖 文 殊 師 利 菩 薩 讃 佛 法 身 禮,T. no.1195), is listed in Kukai's Goshorai Mokuroku, the report to the Court and bibliography of the works brought back to Japan from China. Prof. ARAMAKi Noritoshi of Otani University indicates that 'abhutaparikalpa-', one of the keywords in the Yogacara philosophy, occurs in both texts14).
+1) Study Group on Buddhist Sanskrit Literature ed.: VIMALAKIRTINIRDESaAnd JN- ANALOKALAMKARAT:ransliteratedSanskrit TextCollated with Tibetanand Chinese Translations (Part I. Introduction to VIMALAKIRTINIRDESAand JNANALOKA- LAMKARA, Part II. VIMALAKIRTINIRDESA:Transliterated Sanskrit Text Collated with Tibetan and Chinese Translations, Part III. JNANALOKALAMKARA:Transliter- ated Sanskrit Text Collated with Tibetan and Chinese Translations.),Taisho University
+Press, Tokyo 2004. (The volume "Part I" is indicatedy by "Introduction" below.)
+2) KIMURATakayasu, OTSUKANobuo, KIMURAHideaki, and TAKAHASHIisao ed.: ' Sarvabuddhavisayavatarajnanalokalamkaranama mahayanasutra Sanskrit Text,' in Kobodaishi Kukais Thoughtand Culture, Felicitation volumes on the occasion of Dr. Kicho Onozuka's70th birthday, ed. by Buzan Office of Shingon Studies at Taisho Uni- versity and the Committee of publication of the felicitation volumes on the occasion of
+Dr. Kicho Onozuka's 70th birthday, Nomburu, Tokyo 2004, vol 2, pp.1-90.
+3) Study Group on Buddhist Sanskrit Literature ed.: VIMALAKIRTINIRDESAASanskrit Edition Based upon the Manuscript Newly Found at the Potala Palace, Taisho Univer-
+sity Press, Tokyo2006.
+4) See 'General Survey on the MSS of VKN and JAA' in `English Summary' (by the
+presentauthor)of"Introduction"(pp.73-75.).Thepresentpaperis intendedto revisethe
+section 'A Combinationof VKN and JAA' from another viewpoint.
+5) G. Roth: Bhiksuni-Vinaya,Tibetan Sanskrit Works Series vol. XII, Patna 1977,p.XXI.
+1089
+(61)
+ The Vimalakirtinirdeta and
+(62) the (Sarvabuddhavisayavatara-)Jnanalokalamkara (Y. YONEZAWA)
+6) 7)
+8)
+See also "Introduction" pp. 91-92.
+As the fourth leaf is doubled, the editions of JAA mentioned above count 32 leaves
+in total.
+The date descriptions in the colophons, i.e., regnal year, month name in lunar system,
+and the day in solar system, is typical in the Bengalese epigraphic data. Sec D.S. Sir- car: Indian Epigraphy, Motilal Banarsidass Publishers, First Edition: Delhi 1965; Repr., Delhi 1996,p.241ff.and RichardSalomon:Indian Epigraphy,AGuideto theStudyof Inscriptions in Sanskrit, Prakrit, and the other Indo-AryanLanguages, Centre for Asian Studies,Universityof Texus,Austin 1998,repr. MunshiramManoharlalPublishersPvt. Ltd. New Delhi 1985,pp. 171-172I.n this respect, 'lunar calendar' in "Introduction"p. 76 is to be amended as 'lunar-solar calendar.' This information togetherwith the references owesto Dr. HORIShin'ichiro, main researcher of the International Institute for Buddhist Studies in the International College for Postgraduate Buddhist Studies. The present au- thor appreciates his instruction.
+Concerning the reign of the King Gopala III, ca.1128-43is based upon Susan L. Hun- tington & John C. Huntington: Leavesfrom the Bodhi Tree: The Art of Pala India
+(8th-12th centuries) and Its International Legacy, Dayton Art Institute in association with the University of Washington Press, Dayton, Ohio 1990, p.542, whereas ca.1143- 1158is upon Jhunu Bagchi: The History and Culture of the Palas of Bengal and Bihar
+(Cir. 750-Cir.1200A.D), Abhinav Publications,Delhi 1993,pp.36-48.
+9) 'bha(b7)gavanaha//tasmat tarhi tvam anandemandharmaparyayamvimalakirttinird-
+desam yamakaputavyatyastaniharamacintyadharmavimoksaparivarttamity api dharay-
+emamdharmaparyayam//'(VKN MS77b6-78a1)
+10) See also 'On the Sanskirit Manuscript of the Vimalakirtinirdesa' by the present au-
+thor in Mahapitaka Newsletter New Series No. 8 (ed. by Editorial Committee of the
+English Translationof the Chinese Tripitaka c/o Bukkyo Dendo Kyokai),2003, pp.6-7. 11) See"Introduction"pp.85-87.
+12) Cf. Susan L. Huntington & John C. Huntington: ibid.; Jhunu Bagchi: ibid.; Ansua
+Sengupta: Buddhist Art of Bengal (From The 3rd Century B.C. To The 13th Century A.D.),RahulPublishingHouse,Delhi 1993;MORIMasahide:ListingsofBuddhistSculp- tures in the Pala Dynasty, A Study of the Formationand Developmantof the Buddhist Art in South Asia, Bulletin of the Research Institute of Esoteric Buddhist Culture (Mik- kyo Bunka Kenkyusho Kiyo), Special Issue Vol.3, The Research Institute of Esoteric
+Buddhist Culture, Koyasan University,Koyasan2006; etc.
+13) Most of Sanskrit MSS in the Pala period are referred to in Jhunu Bagchi: ibid., pp.
+8-35.
+14) JAA §19 (MS 18a5); VKN IV-§1 (MS 29b1); VI-§5(MS 41b2-3), §6 (MS 41b3,
+twice). Incidentally, Dr. WATANABKEaikyoku comments upon the Sanskrit fragments of JAA discovered in Central Asia, which correspond to JAA MS 17b1-18a5immedately
+1090
+ The Vimalaktrtinirdesa and
+the (Sarvabuddhavisayavatara-)Jnanalokalamkara (Y. YONEZAWA)
+before the occurrence of the term 'abhutaparikalpa-', as follows: "The contents of JAA have a close link with those of the Bodhisattvapitaka.The idea of "the attainment of the Bodhi of the Tathagata because of no root and no dwelling" is found in VKN (for- tunately this part is available as a citation in the Siksasamuccaya).If these points are investigatedfurther, these fragments of JAA will be really interesting in both doctrinal and scriptural histories. However,it is not necessary to go into detail for the moment. So, the report is ended."(WATANABKEaikyoku: 'Khotan oyobi sono chinki no kobutsu (*Khotan and its rare old manuscripts),' in Shinbukkyo8-10, 1907,repr. in Kogetsuze- nshu, Tokyo 1977,Upper vol., p.454.)
+〈Keywords〉 Vimalakirtinirdesa, Jnanalokalamkara, Sanskrit Manuscript
+(Part-time Lecturer, Taisho University)
+新刊紹介 大正大学綜合佛教研究所梵語仏典研究会
+『梵文維摩経― ポタラ宮所蔵写本に基づく校訂― 』
+B5・126頁 ・定 価5,250円 大正大学出版会 ・2006年3月
+1091
+(63)

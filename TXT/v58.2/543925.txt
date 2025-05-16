@@ -1,0 +1,200 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(128) 印度學佛教學研究第58巻第2号 平成22年3月
+『瑜伽師地論』における十因説 谷川靖郎
+問題の所在
+ 『瑜伽師地論』(YBh.)におい て総合的に因果論を扱うもの として，
+十因・四縁・
+五果などの説似下 −i’因謝 があるD.YBh.の中で実際にこれが説かれるのは ，
+BBh.と廊 ぬ.の二箇所であるが， 両者に若干の違い があることが知られてい る. 法相教学などでは， その ような相違は会通され， 単に観点の違い に過ぎない とい
+う 処 理 の 仕 方 を す る 傾 向 に あ る 2 ). し か し ，
+一般にBBh.の方が&伽 .よりも内
+容的に先行するとい う現在の通説に従えば， 両者の問に何らかの思想的展開を見 出すことができるのではないか一 これが本稿の問題意識である.
+1.十因説につ いて
+ まず， BBh.， 廊 ん.の.卜因説で挙げられる原因(hetu因)と条件(pratyaya縁)の 名称 を一 覧 して お こ う.
+ 【十因】anuvyavah 翫a−hetu (随説因)，  apek 写五一h.(観待因)，五k寧epa −h.(牽引因)，  parigraha−h.
+abhinirv ;tti−h.(生起因) − −
+  (摂 受 囚 )， ，  av5haka h.(引 発 因 )，  pratiniyamah、(定 別 因 )，
+ saha i−h.(同事因)，  virodha −h.(相違因)，  avirodha −h.(不相違 因)  【四縁】hetu−pratyaya(因縁)， samanantara −p.(等無間縁)， alambana−p.(所縁縁)， adhipati −p.   (増 上 縁 )
+ 【主因/補助因の区分】janakha.(能生因)
+，
+ 【時間による区分】sahabhUta h.(倶有因) ，
+−−
+，  upaya h.(方便因)
+  ciranlruddha h.(久 −  anantaraniniddha −h撫ヒ間滅因) −
+ 遠滅閃)
+ これらのうち 卜因と四縁 及び主因(iaiiahk.)aと補助因(upaya h.)の区分 ，，
+につ い ては， BBh.と脇 ぬ.に共通して説かれ3}，
+廊 ん.だけで挙げられる.その他，
+次の 【時間による区分】は
+の観点が異なり， ない .
+他の原因 ・条件との対応関係も説かれない から， 989 一
+−−
+− istah.(可愛因)など五因が説かれるが
+分類 ここで は扱わ
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+，
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+『瑜伽師地論』における 十因説 (谷 川) (129)
+2. (能生因)の問題 Janakahetu
+鵬 epa −h.
+−h. parigraha
+hetu−P.?adhjpati −P.?
+saman 跏 tara− 翫lambana . Pり つ
+跚 uvyavahara
+−h.
+前節で挙げた原因・条件の各区分につ い ては， BBh.， SABh.でそれぞれ
+ さて，
+対 応 関 係 が 説 か れ て お り， そ れ を 示 し た も の が 次 の 表 1 及 び 表 2 で あ る . 表lBBh .による十因・四縁等の対応
+Hetu (十因)
+abhinir頭 ti−h.
+訓(sepa −h.
+P雛孟graha−h. samanantara −P.， alamb蹠 a−P. anuvyavah 互ra−h.
+ . adhipati −P. avirodha −h.
+表2槭劭 .による十因・四縁等の対応
+Hetu (十因) Pratyaya(四縁) abhinirvrtt トh. hetu−P.
+adhipat 量一P. avirodha −h.
+ 両表で大きく異なるのは
+−−
+hetu . P
+h. janaka
+up 諷ya−h.
+主/副 時間関係 j跏 aka −h. allantaraniruddha −h.
+ciraIlhuddha −h. sahabhita −h.(一部)
+up互ya−h.
+−一−−
+Pratyaya(四縁) 主/副
+−−
+，
+第三列の
+janakha.1upEyah.の 区分の仕方と ，
+第四列
+の有無である.第三列の h.は，表1では卜因巾abhinirv tih.とakepa h. janaka # $
+表2ではabhinirvrtti−h.のみに対応し， 5kSepa−h，以下はupEya −h. に分類される.こ こで， BBh.から5ABh.へ の思想的展開があるとするならば， それは −h.とu −h.との境界が変更されたことと関係し さらに その
+に対応するが，
+janaka 画ya
+ことが第四列の時間関係の区分の導入と関係がある， と考えることは自然である.
+従っ て， かかる区分の導入が， BBh.の段階でもともと予想されていたものか， StBh，において新たに創出されたものなのか， とい うことが問題となる.
+ そこで，
+その うち
+まずBBh.の 当該箇所を見てみると一
+，
+[結果を]もたらすもの (... epaka 齢
+=−
+alcsepha.)であり また生起させるも
+の nirvartaka abhinirvrtti −h.で る bIiaが  −h.で る. の の は
+( ; ) あ 種了 ( )
+，
+janakaあ そ他原因
+，
+up5ya −h.である。BBh. . 98IJ. 22−25
+このように，
+同じbi jaであり，
+h.でもある5kSepah.とabhinirvptti h.に janaka
+ 
+( ，p ， )
+次に， 種子は， 最終的な固有の結果に対して， 醐epa函.である.(...)種子そのものは， 固有の結果に対して， abh血rvytti−h.である.(BBh.， p.97， IL 24−26)
+一 988
+−−−
+，
+，，
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(130) 『瑜伽師地論」における十因説 (谷 川)
+つ い て， 両者の記述に若干の差異はあるが， 時間に関して特別な相違は見出し難い .   そ れ に 対 し て SABh .で は 一
+次に， v五sana (習気)を原因の 基盤として，  iksepa−h.が設定される.それは何故か.何 となれば， 浄らかな/不浄な行為によっ て生み出された， ;界の 望ましい /望ましくな い生存環境における諸行は，望ましい/望ましくない諸々の個体存在をもたらす.(曲 彑，
+p .107，1.20−p .108，i，2)
+次に， s琶bhinl串yanda−b加 (有潤種子)を原因の 基盤として， abhinirvrtti −h.が設定される. それは何故か.(...)従っ て， それ (渇愛)による潤い を含んだ種子が， 匚恥epa−h.= vasana によっ て]もたらされた (aksipta)諸々 の個体存在が生起するために [原因と]
+   なるのである.(脇 玩p.108IL5−9)
+，
+直前に消滅した [原因]とは， すなわち，abhinirvrtti −h.である.久しく前に消滅してい た [原因]とは， すなわち，EkSepa−h.である.(&惚勘， p.111， IL l l−12)
+ ここでは， 5kSepa−h.はvasana (bija)であり， abhinirvptti−h.は渇愛によっ て潤っ
+らに渇愛の影響を受けて，abhinirVrtti−h.になる，とい う関係が説かれ， さらに，
+たbi jaである， とされる.そして， ...iksepah.によっ てa瓶ipされたものが さ 串，
+両者の時間関係は，
+結果に対してそれぞれ直前の ものか， 時を隔てたものか， と
+ 時間に関するこのような態度の変更は， samanantara −p.につ いても認められる. まずBBh .の 記述か ら見て み よ う.
+samanantara −p。とE】ambana −p.とは，ただ心 ・心所で ある諸法に関しての み [条件 (縁) となる].すなわち，心 ・心所たる諸法は，前にすで に生起 し終えて [後の ものへ と]
+空隙を与えるもの (=samana 皿tara−p.)により[結果として]把捉され，また， 対象(諞
+−−
+因あに janaka
+なかっ た態度が， ここには認められる. 3.Samanantarapratyaya (等無問縁)の問題
+いう相違として規定される.すなわち主 で る h.ついて
+結果に 対して直前のものでなければならないという， BBh，の段階ではほとんど見られ
+ala
+bana .)により[結果として]把捉されるのである.(BBh.
+，   U . 
+皿
+，  。99 pp
+36)
+ 以上，BBh.で は
+与える もの 」が samanantara −p.の 時間的な規定となる.
+，
+下線部 「前にすでに生起し終えて [後の ものへ と]空隙を
+，
+，
+ この規定に何の 問題があるの か?一 結果に対する時間閧係が明確でない こと である.すなわち， この 記述だけでは， この samanantara −p.が消滅した後であれば，
+直後でも， 時を隔てても， い つ 結果が牛じても因果関係は成立する，とい うよう に解釈で きて しまうの である.実際 説一切有部の samanantara −p.につ い ては，
+一 987
+−一
+−
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+『瑜伽師地論』における十因説 (谷 川) そうい う解釈があり得る.
+，
+(131)
+ それに対して， 直前の消滅を条件の 基盤として
+−−
+The ed . 
+Part
+aCalcutta1957 Ch
+− 70gdca rabhilmi
+  Universit
+Tib.
+，
+一 誼劭.の記述は以 ドの通り.
+sarnanantara p.が設定される.(鰡 肱
+， p.110 ，
+11.18 19)
+ こちらでは，結果に対してsa皿 a皿antara−p，が直前にあることが明記されており， 時間に関する規定は明確で ある.
+結論
+ 以上 }「Bh.で十因説が説かれる二つ の箇所に ，
+時間に対する態度の 変更が認 められた.すなわち， BBh.から廊 瓶へ の思想的展開の中で， 時間を隔てた遠 隔的な因果関係が可能となるような記述は排除され，直前・直後とい う隣接的な 関係に限定されてい く， とい う変化が跡付けられた.因果の時間関係につ い ての かかる厳密な態度は， 最初からあっ たものではなく， γBh.の編纂の過程で現れ てきたものであり， そのことが十因説の記述に端的に表れてい ると考えられる.
+1)瑜伽行派における十因説の展開につ いては，舟橋尚哉 [1979].   2)『成唯識』 T31， 41c−42a.   3)十因につ い ては一部BBh.とSABh.で説かれる川頁序が異なるが，
+これにつ い てはKRITZER[1999]で注意されてい る.
+<略号と参考文献>
+−
+mUi. Wogihara ed. Bedkisattvablutmi  A Statement of Mhole Course   The
+BBh .:
+Bodhisattvabhit
+qf
+:
+Bodliisattv，a(Being Fifteen Section(of Vogaca.rabht−tmi).Takya， 1971.及びN. Dutt， ed. Bodhi−
+，，
+sattvabhfimi . Tibetan Sanskrit Work Series 7， Patna，1966(Ch.， Tib.に より適宜修正.引用の 頁数は前者による).Ch.: Chinese translation.  SL4Bh.:Savitarkndibhfimi; V. Bhatta。harya，
+ ofAc
+ 
+に より適宜修正)，pp.73−232.  T:TaishO Canon;高楠順次郎， 渡邊海旭都監 『大正新修大
+ 
+蔵経」大正一一切経刊行会 1922−33.Tib.:Tibetan translatio.n 『成唯識』:護法等造.玄奘 ，
+訳 『成唯識論』，Taish6 No.1585: T31， 1a−60a.  KRiTzER， Robert [1999]:Rebirth and  Causation 加 伽 Yogidira Abhidharma. Wicner StUdien zLir Tibetolog iuend  Buddhismしiskunde ， Hef’t 44， Wien.舟橋尚哉 [1979]:「十能作と二 十能作一初期唯識論書を中心として一」(『印仏研」 第28巻第1号， pp.317−331)
+〈キーワード〉 『瑜伽師地論』， 十因， 能生因， 等無間縁
+一 986 一
+，
+ eyf 
+I
+:ya ， ，，(.
+面t  
+ 
+ 
+Asanga . 
+Calcutt
+(北海道大学大学院)
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  

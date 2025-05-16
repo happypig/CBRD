@@ -1,0 +1,158 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+印度學佛教學研究第57巻第1号 平成20年12月 (207)
+ステイラマ テイによる触の解釈
+瀧川郁久
+ 初期仏教以来の伝統的な術語である 「触」(sparSa )は， 十二支縁起の第六支と し て 六 入 と 受 の 間 に 位 置 づ け ら れ ， 「根 ・境 ・識 の 三 者 の 集 合 (trikasarpnipata )」 と
+定義された.この定義はア ビダルマ 論書における心所法としての触の 定義にも引 き継がれるが， 唯識派のアビダルマ を組織したアサンガは，触の定義に 「根の変 異の判別」(ind・iyavikar・pa・iccheda)とい う新しい要素を加えた1).スティラマ ティ はアサンガの定義を引き継ぎつ つ ， さらにい くつ かの改変を加えてい る.本稿で は ， ス テ ィ ラ マ テ ィ の 触 の 定 義 を ア サ ン ガ (お よ び ヴ ァ ス バ ン ド ゥ ) の 定 義 と 比 較 することで， 唯識派における触の定義の展開を確認しながら，スティラマ ティに
+よる定義の 特徴を明らかにし，
+その 改変の 意図を考察する.
+1. まず，
+(trikasa叩nip巨ta)」を受け継ぐ有部の定義を， ヴァスバンドゥの 『倶舎論』によっ
+て 確 認 して お こ う.
+ 「触は，根・境・識の集合から生じる接触である.」(Abhidharmakos:abhds .va， Pradhan ed. ，
+ 54，21)
+ 「倶舎論』は触の定義につ いては，
+書も基本的にこれを踏襲する2〕，ただし， 仏教の認識論では触 (sparSa )を文字通
+り 「接 触 」 の 意 味 で 取 る こ と に は 問 題 が あ る 3 ). 「接 触 」 と は 別 の 新 し い 概 念 を 用 い て ， ア サ ン ガ は 触 を 「判 別 」 (pariccheda) と 定 義 し な お し た .
+2.『阿毘達磨集論』におい てアサンガは，伝統的な触の定義に瑜伽行派独自の 新 しい 概念を追加する.
+ 「触とは何か.三者の集合における根の変異の 判別 (indriyavi互rkapariccheda )で ある.」   〔Abhidharmasamuccaya ， Gokhale ed .，15，38−16，1)
+ 
+この
+‘’ ”
+アーガマ 以来の伝統的な触の定義である 「根・境・識の三者の集合
+有部の 説を採用してお り， 初期瑜伽行派論
+indriyavikAraparicchedとaい がどこから たかにつ い て う概念 導入され は
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+一 366 一
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(208) スティラマ ティによる触の解釈 (瀧 川)
+俄 か に 判 定 し が た い が ， 以 下 に 見 る よ うに 諸 論 書 の 中 に は paricchedaの み を 含 む 記述と，indriyavi五krapariccheda とする記述 とが見出される.
+2.1.まず， paricchedaの みを含む記述を確認する.触をparicchedaと対応さ せる記述は，『中辺分別論偈』(1.9;10，・協晦翻 αv’b雁gα，Naga・cd 。 21， 1−2;9−10)で，
+十二縁起を虚妄分別で解釈する箇所に出る.『瑜伽論』の 記述にはparicchedaが
+ 
+見当たらない が 『顕揚聖教論』(T31481a21−23)は 「分別」(’ pariccheda)で触を
+，
+定義してい る (ただしindriyavi五rka を欠く).
+2 . 2 . 次 に ， ヴ ァ ス バ ン ド ゥ の 記 述 も 見 て お こ う . 上 記 『中 辺 分 別 論 偈 』 に 対 するヴァスバンドゥの註(〃b晦励瞬 旋碧α，Nagao ed。21，15−16)はparicchedaのみ で indriyavikarをa欠く.『五蘊論』の定義も，やはりindriyavik5raを欠い てい る.
+ 「触とは何かというと， 三者の集合における判別(yongs su gcod pa，* paricched)aである.」   (P14a2 )
+ 『五蘊論』における心所法の定義は 『集論』とよく一致するが4}， 触の定義に つ い ては， 『五蘊論』は伝統的な定義にparicchedaを加えるの みで，『集論』の
+indriyavikarをa欠い て い る.
+ 『唯識三十頌』(3cd)には遍行心所の 名を列挙するのみで説明はない 5).  これだけの ごく限られた例から， ヴァスバ ン ドゥが意図的にindriyavikarにaよ
+る 説 明 を 避 け た 可 能 性 を 考 え る の は 性 急 で あ ろ う が ， 少 な く と も 『五 蘊 論 』 が indriyavikarをa採用していない 点には，注意しておく必要があろう.
+  さ て ， 上 記 の よ う に parlcchedaの み を 含 む 記 述 で は ， 何 を 判 別 す る の か 明 言 さ れないが， 触の定義が十二支縁起の中での位置づけを踏襲してい ることからして
+も， 苦・楽・非苦非楽の三つの受(vedan5)の別に対応すると見てよい6}.
+2。3.「集論』では， paricchedaの内容が indriyavikarapariccheとd明a示されてい る.上述の ヴァ ス バ ン ドゥ の 『五蘊論』は indriyavikErをa欠くが，弟子とされる
+バ よ 五 の indriyavikara み 『集論』の定義に近い 7). グナプラ に る『蘊論』 註は を含 ，
+「それら (眼と色と識)が集合したことにより生じる心所法が触であっ て，根の変異の 判別 (dbang po’i ’gyur ba yongs su gcod pa，* indriyavikaraparicch)edでaある.感受の 拠所 とい うはたらきをもつ .識が生じると，楽などの感受と対応した根の変異がある，それ
+が触であると知られるべ きである.」(P78a5−7) 一 365 一
+  ，
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+スティラマ ティによる触の解釈(瀧 川) (209)
+3.以下にスティラマ ティの諸著作の記述を検討するが， アサンガとヴァ スバ ンドゥの本文に見られない 要素で， スティラマ ティの註釈に共通する要素を取り
+出すと， 次の二つ があることが分かる.  1.「根の 変異」を 「境の行相」に置き換える.  2.「触」(「触れる」)を 「相似」で説明する.
+3.1.まず 『唯識三十頌註』の当該箇所を訳出する.
+ 「それ (三者の 集合)があるとき， それとまっ たく同時に，楽などの感受に対応する
+ (sukhadivedanfinukU ]ah)s)根の変異があり.それ (根の変異)と相似した楽などとして  感受されるべ き境の行相の判別 (viSayasya  sukhadivedaniyakAraparicchedab  )がある91，.そ  れ (境の行相の判別)が触である.......さらにまた触は，根の変異に相似してい ること  により(indriyavikaras5dggy)e，rp根aに接触するから，あるいは，根によっ て接触される  から， 触と言われる.だからこそ，〔触は〕境の変異の判別を本性とするにもかかわら
+’−   ず (viSayavikdrapariccheditmako   pi)， 根 の 変 異 の 判 別 と 言 わ れ た の で あ る .」 (7r吻 鍬 々
+ vζlfiapti酸sbyha， Bucscher ed .， 54， 16−56， 7)
+ ここでスティラマティは， アサンガの 「根の変異の判別」を「境の行相の判別」 と言い換えている.アサンガが専ら根によっ て三受との対応を示したのに対して，
+スティラマ ティは根の変異と相似する(=同じ受と対応する)境の行相を用いて触
+実は 「境の変異(=三受の生起に対応する行相)の判別」が触であると
+を解釈し， 言う.スティラマ ティは，
+アサンガの 「根の変異」による定義を， 「境の行相」 による定義に書き換えようとしてい るの ではない か.
+3.2.スティラマ ティの 『五蘊論註』も， グナプラバ註と同じく『五蘊論』本 文に無かっ た 「根の変異」に言及しつ つ ， 次の ように註釈してい る.
+「それ (根・境・識の集合)があるとき， それと同時に楽などの感受の生起と対応した この根の変異〔があり〕，それ (根の変異)と相似した楽などとして感受されるべ き境
+の行相の判別 〔がある〕，それが触である.」(Pl8b8−19al)
+ ここでも「三一1’頌註』と同じく「境の行相」へ の書き換えが見られる.さらに， 触 を 相 似 で 説 明 し て お り ， や は り 『三 十 頌 註 』 と よ く 一 致 す る 、
+「いっ ぽう， ある差別によっ て根が楽・苫などの原因である場合の，それ(差別)がそ れ (根)の変異であっ て， 根の変異との相似により，根における接触，あるい は根によ
+る接触だか ら触である.」(P19a1−2)
+一 364
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(210) ステイラマ ティによる触の解釈 (瀧 川)
+3 . 3 . 「中 辺 分 別 論 復 註 』 に も 同 趣 意 の 記 述 が あ る .
+ 「根と境と識の集合におい て，楽などの受の生起に対応した三種の根の変異があり，そ
+ れ(根の変異)の判別が触である10).だからこそ，根の変異に相似しているもの (yam  indriyavi...ikrasEdlSyam)(境)に， それ (境)の行相をもつ ことによっ て (tadakarataya)，
+ 接触するから，触とい われる.」(Madhyantavibhaga， Yamaguchi ed.，38，17−22)
+ この箇所の 読みには疑問が残るが11}， 内容は上の 「唯識三十頌註』『五蘊論註』 の記述に対応させて理解して よかろう.
+4. 以上 に よ り ，
+− 唯識派における触の 定義が，trikasamnipata からindriyavikfira
+さらに viSayasya  akAraparicchedahへ と書き換えられてい るこ とが確 認 さ れ た ， 伝 統 的 な trikasamnipfitaは ， 本 来 ， 十 二 支 縁 起 説 の 枠 組 み の 中 に 触 を 位置づける定義であり， 認識論的な文脈で出てきたものではなかっ た.しかし， ア ビダルマ 論書における新しい ダルマ の分類 伍位)の 中では， 触は十二支縁起 の 文脈を離れて心所法の一つ として吟味しなおされる.この間に，認識に関する 仏教の学説も徐々に整えられてゆく12).『集論』で提示された新しい 触の定義を， スティラマ ティはより認識論的な用語に書き換えたのではないか.スティラマ ティが用い たviSayakara やtadalcdrat5あるい はsfiqSya は，例えば次のような記
+，
+述を想起させる.
+ 「それでは，この相似(s巨dgSya)とは何か.それの行相をもつ こと(tadak5rat5)である.
+ だからこそ，それ (認識)が根から生じても境を認識するといわれるのであっ て，根を
+・
+ 〔認識するとは言われない 〕.」(AbhidharmakoSabhaSJa， Pradhan ed.，473，25−474。1)
+ この ような考え方は，ディグナーガによる理論化を経て， 後期イン ド仏教の対 象認識の理論の基本となっ てゆく13).
+ 「かの 結果たる識が，境の行相をもつ もの として (visayakarataya )生起するこ とに よ り，   作 用 を 伴 う と 認 め ら れ る .」 (Pramduasamitceaya， SteinkeHne crd .，3，24)
+ ここでは 「境の行相 (akara)」が対象認識の成立要閃として最重視され， 根の 重要性は減退する.
+ スティラマ ティによる触の解釈は， 伝統的な 「六処一触一受」とい う縁起説の
+お よ び 「根 一 境 一 識 」 と い う 十 二 処 ・ 十 八 界 の 枠 組 み を 引 き 継 ぎ な が ら
+paricchedaへ
+，
+枠組み，
+唯識説を前提としてディグナーガによっ て提示された， みを念頭におい たもの と見ることができるのではなかろうか14).
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+も，
+より認識論的な枠組
+一 363一
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+ステイラマ ティによる触の解釈(瀧 川) (211)
+1)諸部派か らア サ ン ガにい た る触の 定義につ い ては，R. KritZcr教授に よる詳細な論考
+   があり 本稿はこの論考に多くを負っ てい る.Robert KRITzER[1999] Rebirthand
+，
+，，
+ Causatio nin the}Yog∂ca−ra  Abhidharma ， wien， pp.110−130.
+2) Kritzer 匚1999]， pp.121−123.
+3)Karl H. PoTTER ed.[1999]Encyclo edia 〔〜  Philosophies vol . VHI  Delhi   .64−65.
+， . ρ flndian ，  『倶舎論』に対する註の中で，ヤショーミトラは 「接触のような(iva)」とい う表現を
+ 用い てい る (Ahhidharmako .“mlvakhya −， Wogihara ed.，127，26−27). 4)瀧川郁久[1996コ「世親の 「五蘊論』  校訂テキストとリファレンス」『論叢アジ
+ アの 文化と思想』5， pp.1−33参照.
+5)真諦訳 『転識論』(T31，62a6)は 『倶舎論』と同じく「三事和合生」とする. 6)触を三つ の受と結びつ ける記述は，次の ような箇所に見られる.阿毘達磨品類足論
+T 26 693a13−15 −
+ ead . 
+， ，59，
+ 
+ 
+;入阿毘達磨論T28 982a9ll;Yogacbrabhitm iBhattachary
+ 
+ 17−18;瑜伽師地論T30 ， 29ib22−23. paricchcdaとい う語は無い が，内容は三受の別に  相当する.ヴァ ス バ ン ドゥ は 『倶舎論』(Ahhidha〃makoSabhdsLva ， Pradhan ed.，132，  10−11)でparicchedaの語を三つ の受と結びつ けて用い てい る.
+7 ) グ ナ プ ラ バ の 学 系 に つ い て は ， Marek   MAJoR [1991]， Vasubandhu l sAbhidha〃makoSa
+and  the CommentariesPreserved in the Tany’ur  Stuttga rt. se . お 五 T       ， ，p 参照 な 『大乗広 蘊論』(
+ 31. 851c8−10)はここで はグナプラバ 註に近い が， indriyavik五ra に相当する訳語を欠く.
+8)この箇所は写本に欠損がある，Buescher cd.，54， fh.13参照(この校訂はチベ ッ ト訳   に よ る ). 前 掲 『五 蘊 論 』 グ ナ プ ラ バ 註 も * sukhfidivedananuknla と す る が ， 7中 辺 分 別
+ 論復註』『集論註』『五蘊論註」の 用例を考慮すれば，sukhEdivcdanotpttyanuknla の意味  に解し得るであろ う.次註参照.
+9 ) ヴ ィ ニ ー タ デ ー ヴ ァ は 『三 i頌 復 註 』で sukhadivedanlya を * sukhadivedanotpattyanukUla  と解する(P20b1).この場合のvedaniya の意味についてはAbhidhar〃nakos:abhas.v・a，  Pradhan cd.， 229参照.
+10)『集論註』の記述はほぼこの箇所に等しい が，tatparicchedaではなくtad5kara とい う  語が用い られて い る.「識が生起する際に，根に楽などの 受の 生起に対応した変異が  あるが， それ (根の変異)の行相 〔をもつ もの (?)〕が触であると知られるべ きで  ある.」(Abhidharmasamucca )’abha−s.ya， Tatia ed.5， 3−4)チ ベ ッ ト語訳 『集論註」(P  6a2−3= P152b2−3)の記述もよく一致する (c£大乗阿毘達磨雑集論T31，697b1−4).  この 記述をス テ ィラマ テ ィ以前の もの と見るならば，vikfira からak5ra へ の 置き換え  はスティラマ ティ以前に遡ることになる.『集論註』の著者については.Major [1991]，  P.91参照. “ ”
+，，
+ll)Pandeyaは 「写本の 読み」として， ata evayam
+ 33).しかしこの読みはチベ ット語訳(P42a4:de bas na dbang po’i ’gyur ba gang yin pa_)  に一致しない.いまは，チベ ッ ト語訳に近い山口本の読みを採っ たが，このチベ ッ ト  語訳の読みも問題なしとしない.暫定的にLl]口本の読みに従い，「集論註』や 『三十  頌註』の 記述を参考に訳出した.
+NI工I工-一Elleoetcrotniroonic Liibrbaryary Service   
+362 一
+を採る (Pandeya ed.，30，25;fn.
+，
+pp
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(212) ステイラマ ティによる触の解釈 隴 川)
+12)服部正明 [1974]「中期大乗仏教の認識論」『講座仏教思想』理想社，p.115参照. 13)Masaaki・HATToRI [1968コ， Dignaga ， On Perceρtion， Cambridge， pp，104−106参照.ただ し
+ この 『倶舎論』の 記述を直ちに後期認識論と同じような認識論と理解すべ きで はない .  福田琢 [1993]「『倶舎論』における ”行相”」『印仏研』41−2， pp.(180)一(184)参照. 14)スティラマ ティによる行相(akara)の解釈例として，福円匚1993]p.183参照.スティ  ラマ ティは心所法の説明中にalambanaとakaraのいずれかを用いることが多い.これ  はステ ィラマ テ ィの心所法理解の特色と考えられる.今回取りヒげた触の他にも， 例  えばadhimokSa やsmFi などで 『集論』にない akfiraを説明に用い てい る.これらにつ  い て は機会を改めて論じたい .
+〈キ ー ワ ー ド 〉  ス テ ィ ラ マ テ ィ ， ア サ ン ガ ， 触 ， 行 相
+新刊紹介 馬場 紀寿
+『上座部仏教の 思想形成
+一 ブッ ダからブッ ダゴー サへ 一 』
+A5 版 ・314 頁 ・定価 8，857 円     春秋社 ・2008年3月
+一 361 一
+(東海大学専任講師)
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  

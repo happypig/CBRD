@@ -1,0 +1,72 @@
+ (78) Journal of Indian and Buddhist Studies Vol. 55, No.3, March 2007
+On the "Lost" (*Antarhita)Sutras in the Vyakhyayukti In Relation to the Proof of the Authenticity of the Mahayana Teachings
+HORIUCHI Toshio
+1. Introduction
+In the Vyakhyayukti(VyY),Chapter 4, Vasubandhu defends the authority of the
+Mahayanaas buddhavacana, or the Buddha'sword. Among the many arguments be-
+tween Vasubandhu and the opponent (Sravakayanikad)elineated therein, we find an
+argumentaboutthe"lost"(hidden,*antarhitas)utras orscriptures,inwhichVasubandhu
+argues that not all the Buddha's words are transmitted in the Sravakayanatradition
+(as in the Mahayanatradition).This discussion, however, seems to be merely a criti-
+cism of the incompletenessof the Sravakayanacanon, and the role it plays in the
+proofofthe authenticityofthe Mahayanateachingsappearsunclear.
+In this connection, it is to be noted that Honjo (1989) has made a great contribu-
+tion to the study of the proof of the authenticityof the Mahayanateachings because he not only points out that the arguments about the authenticity of the Abhidharma sastras as the Buddha's word have similarity to the proof of the authenticity of the Mahayanateachings as the Buddha's word, but has also provided plenty of informa- tion about the works dealing with this topic. Thanks to his study, the fact was re- vealed for the first time that the argument about the "lost" sutras is found in a simi- lar form in the Mahavibhasa, VyY, Tarkajvala (TJ), and Nyayanusara (NA).
+Subsequently, Otake (2003) pointed out that in the Ru dasheng lun入 大 乗 論(here-
+afterRDL),the criticism of Ananda, which constitutes the main part of the theory of the "lost" sutras, is found in a form similar to the VyY.
+In this paper, I shall take up the argument about the "lost" (*antarhita)sutras in the VyY, focusing on the criticism of Ananda, and elucidate the role this discussion
+plays in the course of the disputes in the VyY and in the proof of the authenticity of the Mahayanateachings as the Buddha's word by comparing it with similar discus-
+1106
+ On the "Lost" (*Antarhita) Sutras in the Vyakhyayukti (T. HORIUCHI) (79) sions found in the TJ and RDL.
+2. The "Lost" Sutras in the VyY
+The following argument is conducted between Vasubandhu and the opponent (i.e.,
+SravakayanikaS:r)inthefirst halfoftheVyY,Ch.4(D96b7ff.P,113a8ff.)[:Sr1]The Mahayana(here, this Mahayanarefersto the Prajnaparamitasutraor *sarvadharmanihsv- abhava["selflessnesosfallelements"theory])isnotbuddhavacanabecauseitcontra- dicts the well-known buddhavacana. [V (=Vasubandhu)1] In that case, the bud- dhavacanaswell-knowntoyou(i.e.,Sravakayanikac)annotbebuddhavacanabecause they [contain teachings that] are mutually contradictory. [Sr 2] There are *nitartha sutras (scripturesof definitemeaning)in the Sravakayanaby which such [seeming] contradictionsare resolved(=amongthecontradictoryteachings,oneis nitarthaandthe otherisneyartha[inwhichthemeaningisnottobetakenliterally]a,ndthusthe[seeming] contradictionsare resolved).On the other hand, there are no nitartha sutras in the Mahayana [bywhich the contradictionsbetweenthe sarvadharmanihsvabhava theo- ry and the other Mahayanateachings are resolved].
+In reply to this criticism from the opponent (Sravakayanik,aVasubandhu,referring tothe"lost"sutras,answersasfollows(VyYD,97bff.,P114bff.)[:V2]Youcannotas- sert that there are no nitartha sutras in the Mahayana simply because they are not seen nowadays [since many sutras have been "lost" (*antarhita)in the Mahayana]. Likewise, many sutras have been lost in the Sravakayana.Next, (1) Vasubandhure- fers to the "lost" sutras in the Sravakayana.(a) He first cites a verse listing the names of 14 sutras which show that some of the Buddha's teachings were lost')(the core part of this sectionis a criticismof Anandato whichI refer immediatelybelow).(b) Then, he cites some passages from the above-mentioned14sutras. (c) Further, he cites two more sutras. (2) Vasubandhu refers to the diversity of the *Mahaparinirvanasutra. Finally, (3) he mentions the loss of the original recitation (*mulasamgiti-bhramsa).
+After this, many arguments are given in the VyY,and at the beginning of the lat- terpartofCh.4(VyY,D105b6ff.P,123bff.)V,asubandhuinsiststhattherearenitartha sutras in the Mahayana and cites some verses from the Samdhinirmocanasutra
+(SNS)and Lankavatarasutra (LAS).
+1107
+ (80) On the "Lost" (*Antarhita) Sutras in the Vyakhyayukti (T. HORIUCHI)
+Among the above discussions, let me mention again Vasubandhu'scriticism of Ananda(thefirstpartof[V2](1)b),2)the outlineof whichis as follows:
+Diagram 1: The criticism of Ananda in the VyY(basedon the *Uttarasutrand *Ananda- sutra)
+In summary, Vasubandhu criticizes Ananda because he did not receive most of the Buddha's word before he became the Buddha's attendant. But there is a problem: this criticism of Ananda was introduced in the context of defending the opponent's charge that "there are no nitartha sutras in the Mahayana" to prove that we cannot conclude that there are no nitartha sutras ([Sr 1]above).It is true, in this sense, that this argumentsimplyseemsto bea criticismofthe Sravaka,and Vasubandhuseems to be admitting that there are no nitartha sutras in the Mahayana. However, Vasubandhucertainly argues in the latter part of Ch. 4 of the VyYthat there are ni- tartha sutras in the Mahayana. Thus, the position of the discussion about the "lost" (*antarhita)sutras ([V 2] above)seems to be curious in the context of the VyY, and the role this discussionplays in the proof of the authenticityof the Mahayanateach- ing as the Buddha's word is unclear.3)
+Now, let me elucidate the role that this argument about the "lost" sutras plays in
+the VyY.(1)First, I shall examine this argument from a structural point of view. As
+mentionedabove,Vasubandhuansweredthe criticismof the opponent(Sravakathat "there are no nitartha sutras in the Mahayana by pointing out that not all the
+Buddha's words are recited in the Sravakayana.The neyartha teaching (in which meaningis to be takenliterally)was, in the VyY,the Prajnaparamitasutra or the sar- vadharmanihsvabhavata teaching advocated in this sutra. In this sense, the Prajnaparamitasutra or its teaching seems to have been familiar to the Sravaka at that time. Nitartha sutras such as the SNS(andLAS),on the other hand, can be said to have been "lost" for the Sravaka since they were not known to the Sravaka. (In this connection, it is worth noting that Vasubandhu, when he cites the nitartha sutras, criti-
+1108
+ On the "Lost" (*Antarhita) Sutras in the Vyakhyayukti (T. HoRIUCHI)
+(81)
+cizes the opponents for insisting that "there are no nitartha sutras in the Mahayana" because
+theyarenoterudite[thospanyungba][VyYD,105bP,123b].T)hus,the"lost"sutras,in-
+cluding both the "lost" SravakayanikaAgamas and the Mahayanasutras such as the
+SNS, are similar in the sense that both are unknown to the Sravaka (butwere surely
+taughtby the Buddha).We can thus understand the position of these "lost" sutras in
+the VyY as follows: this argument about the lost sutras indirectly refers to the un- "lost" nitartha sutras such as the SNS by illustrating that all the Buddha's words
+were not transmitted in the Sravakayanatradition. (2) Secondly,as I show in the fol- lowing section, the criticism of Ananda plays an important role in the proof of the authenticity of the Mahayana teachings and seems to be suitably placed in the dis- cussion in the VyY.
+3. The Criticism of Ananda and the Proof of the Authenticity of the Mahayana Teachings in the TJ and RDL
+In this section, I shall take up the relevant discussions in the TJ, RDL, and NA and elucidate the role the criticism of Ananda plays in the proof of the authenticity of the Mahayanateachings.
+3.1.An outlineof the correspondingdiscussionsin the TJ isas follows(TJ,D166a2ff., P179b8fft.;he numbersbeloware provisional):4)
+(1)The Mahayanaalso (i) enters into the Mahayanasutras, (ii) is found in the 700 *siksapada for the bodhisattva, and (iii) does not contradict the *dharmata of the teaching of emptiness(*sunyata)(.2) Ananda was not the reciter of the Mahayana: the Mahayana was recited by the original reciters such as *Samantabhadra,
+*Manjusri, Guhyakadhipati,*Maitreya,and so forth. (3)Citationof 16sutras (begin- ningwiththeUttarasutraandAnandasutrav,erysimilartotheVyYmentionedabove).
+As is obvious from the above outline, the argument about the "lost" sutras is in- troduced in the context of the proof of the authenticity of the Mahayana teachings as the Buddha's word in the TJ. The TJ, after maintaining that the reciters of the Mahayana teachings are different from the reciter of the Sravakayana(Ananda),in- troduces the argument about the "lost" sutras in which criticism of Ananda consti- tutes the core part.
+3.2. An outline of the corresponding discussions, including the criticism of Ananda, 1109
+ (82) On the "Lost" (*Antarhita)Sutras in the Vyakhyayukt(iT. HORIUCHI)
+in the RDL(T32:36cff.)is as follows:5)
+(1) Citation of the Anandasutra. (2) Citation of the Uttarasutra: There are many dharmaskandhas(aggregateosftheteaching)whichwerenotreceivedbyAnanda(cf. section1 above).(3) Citation of the Suramgamasamadhisutra: Little are the amounts of the dharmaskandhas received by Ananda and large are those not received by him. (4) Many sutras also state that Ananda did not have the capacity to receive the Buddha's teaching. (5) Ananda was not able to receive all the Buddha's teaching. (6) [Objection]Ananda is said to have been the foremost *bahusruta (erudite).[Answer] Although he is said to have been the foremost *bahusruta, this is among the Sravakas,and bodhisattvas are not taken into account.
+As is shown by the above synopsis, the RDL criticizes Ananda for not having re- ceived many teachings of the Buddha, and by doing so, the RDL situates the Mahayanasutras as the Buddha'sword that was not received by Ananda, the reciter of the Sravakayanacanon. In a word, the criticism of Ananda is an argument which makes it possiblefor the Mahayanato be the Buddha's word which was not received by him.
+3.3 The "lost" sutras in the NA (T29:604c11-605a23)6)
+Sahghabhadra's(衆 賢)Nyayanusara (NA) cites 12 sutras common to the VyY in
+the context of defending the 98 anusaya, or the "impressionedtendency" theory, as the Buddha's word. As the NA is considered to postdate the VyY,7)what is to be noted here is that the NA does not cite the *Uttarasutra and *Anandasitra and the relevantcriticism of Ananda as foundin the VyY.
+4. Conclusion
+In this paper, I have elucidated the position of the argument about the "lost" (*an- tarhita)sutras in the VyYby investigatingthe context of the VyY itself. At the same time, I have pointed out that the criticism of Ananda in the VyY plays an important role in the proof.of the authenticity of the Mahayanateaching as the Buddha's word by taking account of the corresponding arguments in the TJ and RDL.
+〈Abbreviations〉 NA:Sanghabhadra, Nyayanusara, T29.1562; RDL (Ru dasheng lun入 大 乗 論):T32.1634; SA: Samyuktagama; T: Taisho canon; TJ: Tarkajvala, D No. 3856, P No.
+1110
+ On the "Lost" (*Antarhita) Sutras in the Vyakhyayukti (T. HORIUCHI) (83) 5256.; VyY: Vasubandhu, Vyakhyayukti, D No. 4061, P No. 5562.
+〈 Notes〉 1) The original Sanskrit names of the 16 sutras which show that some of the
+Buddha's teachings have been lost are variously posited (cf. Peter Skilling, "Vasubandhu and the VyakhyayuktiLiterature," Journal of the International Association of Buddhist Studies 23-2 [2000], 297-350;Peter Verhagen,"Studies in Indo-TibetanBuddhist Herme- neutics(4):The VyakhyayuktbiyVasubandhu,"Journal Asiatique293-2[2005],559-602). However,as has been done by Honjo ("Shakkiron daiyonsho-Seshin no daijo bussetsur- on," Kobejoshi daigaku kiyo bungakubu-hen 23-1 [1990],57-70),by consulting studies of the NA and TJ, some of the corresponding names of the sutras in the VyYbecome clear. Here, I shall add some information about some of the names of the 16 sutras. 1: *Uttara; 2: *Ananda;3: *Bhaddali;4: *Duhkhaskandha;5: *Bhumija;6: *Udayin;7: Sunyata; 8: Chulasskyes;9: *Purna; 10:*Gopaka;11:Chushing; 12.*Parinirvana; 13:*Rastrapala; 14: 'Gro ba; 15: Tusnz(mbhava);16: Vihara.The Tibetan rendering of the name of the 5th sutra in the VyY is Sa ston (gyi mdo). As this sutra corresponds to SA 343 (T2:94a)浮
+彌 経,SN 12.24, 25 (Vol. II, 32-41) Bhumija, this Sa ston is assumed to be a translation of *Bhumi(ja), and the corresponding name In the TJ also supPorts this assumption(TJ,
+D167a4, P181a2:sa pa'i mdo). On the other hand, in the NA we find the name他 経, but this passage in the NA should be emended from Tajing他 経(*Anyasutra) to Dijing地 経 (*Bhumi(ja)sutra; cf. Korai daizokyo [Toyo shuppansha,1974], vol. 30: 688b13:地 経).As
+for the names of sutras 9, 15, and 16, see Horiuchi ("Shakkiron ni okeru onmotsukyo no riron,"Tohogaku112[2006b],77-65(L)). 2) Cf.Horiuchi,opcit. 3) Cf.JoseIgnacio Cabezon, "Vasubandhu's Vyakhyayuktion the Authenticity of the Mahayana Sutras" (in J. Timm, ed., Traditional Hermeneutics in South Asia [Albany: SUNY Press, 1992], 221- 243), 240, n. 25: "From this it seems that this is a subject that Vasubandhu felt was im- portant to treat in its own right, so that despite the fact that he had much easier rebuttal to the Sravakaobjection availableat this point..." 4) This section of the TJ has been partly translated and examined by Ejima Ekyo (Ku to chugan [Shunjusha,2003], 439-447), etc., while part of the NA has been translated by Akanuma Chizen (Kokuyakuis.saikyo[Indo senjutsu-bu],Bidon-bu29 [1934]).Butit wasHonjoYoshifumi("Abidatsumabussetsuron to daijo bussetsuron-hossho, onmotsukyo, mitchi," IBK 38-1 [1989], (59)-(64)) who foundthattheVyYcontainsdiscussionssimilartotheTJandNA. 5) Cf.UiHakuju, Hoshoron kenkyu(Iwanami Shoten, 1959);Otake Susumu,"Nyudaijo ron no in'yo Agon," IBK 52-1 (2003), (130)-(133). 6) Akanuma, op. cit., 172-174. 7) cf. Horiuchi ("Juni- bunkyo ko-Yugagyoha ni okeru sutra, avadana, vaipulya, upadesa kaishaku," Bukkyo bunka kenkyu ronshu 10 [2006a], 3-28).
+〈Key Words〉 Vyakhyayukti, Tarkajvala, Nyayanusara,入 大 乗 論buddhavacana
+1111
+(Graduate Student, Tokyo University)

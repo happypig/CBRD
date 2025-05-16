@@ -1,0 +1,74 @@
+ Journal of Indian and Buddhist Studies Vol. 55, No.3, March 2007
+(93)
+On vijnanapariname in Trimsikakarika
+MATSUOKA Hiroko
+0. InthefirstverseofhisTrimsikakarika(TrK)Vasubandhustates:atmadharmopacaro hi vividhoyah pravartate/vijnanapariname 'sau parinamah sa ca tridha (TrKI [L13.3-4]).This verse is well known as expressingthe core of the Yogacaradoctrine
+accepted by Vasubandhu. Thus, a correct interpretation of the verse is crucial to a
+properunderstandingofVasubandhu'sdoctrine. Thispaperwillexaminetwointer-
+pretations of the verse: one commonly adopted by modern scholars, such as Unebe and another put forth by the commentatorSthiramati. In fact, Sthiramati anticipates
+theinterpretationofmodernscholarsandpresentsanargumenttorejectit. Thisar-
+gument is also presentedbelow.
+1. To begin with, let us see what Unebe says.
+Unebe[2004:137.6-1"3A]:ccordingto him (Sthiramati)t,he verse(pada abc) meansthat
+variousverbalexpressionsuchas "atman"or "jiva"for humanbeingsand "dharma"or "ayatana"forotherconstituentsofthisworldareusedamongpeople(loka)aswellasin
+the scientificsystem(sastra),buttheyrefertothetransformationosfconsciousnes(svijh- naparinama) in realityand,thereforet,heyaremeresecondaryapplication(supacara)."
+The important point to note here is that Unebe takes vijnanaparinama as the refer- ent of a 'verbal expression' (upacara). According to Unebe [2004:137.3-5],the ex-
+pression upacarah pravartate vijnanapariname is a construction of the type sabdahpravartate arthe 'A certain word occurs in the domain of a certain meaning',
+so that it means 'A verbal expressionrefers to vijnanaparinama'.
+It is debatable, however,whether the expressionin question can be a construction of the type described above. I think that it is difficult to establish a signifier-signif-
+icand relation between upacara as a verbal expressionand vijnanaparinama.
+2.1. Sthiramatiintroducesthefollowingargumentsmadeontheassumptionthatthe term upacara meansa metaphoricalexpression.
+1121
+ (94) On vijnanapariname in Trimsikakarika (H. MATSUOKA)
+"Itisnotpropertohaveametaphoricaelxpression(upacara)whentheredonotexistat- mananddharmasasprimaryreferents(mukhya).For,ametaphoricaelxpressionmust meetthree conditionst:he primaryreferentof the word,the actualreferentresemblingthe primaryone,anda commonqualityexistingbetweenthetwo."(TrBh[L17.7-9])
+The point made here is this: Suppose that the word atman refers to the self which really exists. If the same word is used to refer to a thing which is not atman and similar to it, this use of the wordatman is called upacara or secondary. In this case it is also said that the word atman has two meanings: primary and secondary (gauna).
+2.2. Sthiramatideniessuchadistinction:
+"Thereis alsono primaryreferentfor a wordsincethe essenceof that [i.e.,the primary
+thing]goesbeyondthe scopeofthought(jnanaa)nd language(abhidhana).For,it is only to graspandto conveyan [unreal]secondaryaspect(gunarupa)thata cognitionanda verbalexpressionoccur,becausethey do not touchthe essenceof the primarything. Oth- erwise[acognitionandaverbalexpressionw,hicharerelatedonlyto]an[unreal]second- ary aspect,wouldbecomeuseless. Indeed,thereis no meansof determiningthe essence of the primarything other than a cognitionand a verbalexpression. Thus it is to be understoodthattherecannotbeanyprimaryreferentsincethereisnocognitionorverbal expressiontograsportoconveyit."(TrBh[L17.23-27])
+Sthiramati argues that a cognition and a verbal expressiondo not touch the very es- sence of a primary thing but its unreal secondary aspect, which amounts to saying that they do not occur with reference to the ultimate reality but to the conventional reality. It is clear that he intends to imply here that the use of any word is second- ary (upacara), so that no essential distinction can be made between the use of a cer- tain word with reference to a certain thing and that of the same word with reference
+to another similar thing.
+Thus we may say that to take the term upacara as meaning a metaphorical ex-
+pression as opposed to a primary expressioncarries us too far away from the origi- nal intention of Vasubandhu.
+3.1. We have to consider what Sthiramati states in his comments on the verse, to
+seehowheunderstandsVasubandhu'sstatementatmadharmopacarahpravartate vi-
+jnanapariname.
+"In that [vijnanaparinama] (tatra) there arise from storehouse consciousness (alayavij-
+1122
+ On vijnanapariname in Trimsikakarika (H. MATSUOKA)
+(95)
+nana) the conceptual cognition (vikalpa) in which [a thing such as] atman (the self) ap-
+pears (nirbhasa) and the one in which [dharmas (constituent factors of experience) such as] a material factor (rupa) appear, on the basis of the full development(pariposa) of the impression(vasana) left by the conceptualization of atman and the like and on the basis of the full developmentof the impressionleft by the conceptualizationof a material factor and the like.
+Although atman and dharmas do not exist externally, there occur the conceptual con- struction (upacara) of [such a thing as] atman and that of [such dharmas as] a material factor, which are beginningless, by means of thinking of the appearance of [a thing such as] atman and the appearanceof [dharmas such as] a material factor as if they were enti-
+ties outside the conceptual cognition, and clinging to them." (TrBh[L16.2-6])
+Here it is pointed out that in the vijnanaparinama there arise from dlayavijndna the conceptual cognitions in which atman and dharmas appear and that when such con- ceptual cognitions are produced, the conceptual construction, which I think is meant by the term upacara here, of atman and dharmas occur. Thus Sthiramati shows that the expression upacdrah pravartate vijnanapariname does not admit of Unebe's interpretation.
+3.2. Then we have to determine exactly what is meant by the locative ending in the word vijnanapariname. Sthiramati says:
+"Moreover, [it must be said that] when x does not exist in y then x is conceptually con- structed in y (yac ca yatra nasti tat tatropacaryate); for instance, [when the cause for the
+use of the word] go [does not exist in a Bahika then] it is conceptually constructed in the Bahika.
+Similarly,because dtman and dharmas exist neither in the [transformationof] conscious- ness itself nor outside of it, atman and dharmas are just conceptual constructs (parikalpita) and do not exist from the viewpoint of the ultimate truth (paramarthatas). Therefore,the one-sided view should not be accepted that as a cognition (vijnana) exists as a real entity (dravyatas), so also does something to be cognized(vijneya).
+Since no conceptual construction can take place without a locus (adhara), it should nec- essarily be accepted that the vijnanaparinama, in which occurs the conceptual construction of atman and dharmas, exists as a real entity (vastutas). Therefore, it is not reasonableto accept that as something to be cognized is simply conventionallyreal and not ultimately real(samvrtitas),soisalsoacognition. For,theundesirableconsequencewouldfollow
+1123
+ (96) On vijnanapariname in Trimsikakarika (H. MATSUOKA)
+that the cognitiondoesnot existevenat the conventionallevel. Indeedit is notproperto
+say that a conventionarlealityhas no basis(nirupadana)."(TrBh[L16.6-11))
+The point to note here is that the vijnanaparinama is described as the locus in which the conceptual construction of atman and dharmas occurs. According to
+Sthiramati, atman and dharmas are simply conceptual constructs (parikalpita;TrBh
+[L15.20-21a]:tmadharmascaupacaryantaityatmadharmopacarah)w,hereasthevijn- anaparinama exists as a real entity. It is patent that he takes the locative ending in vijnanapariname as signifying a locus. If the vijnanaparinama serves as locus in such a conceptual construction, it is properly to be said to be the cause of the con- ceptual construction.
+Thus we may say that there obtains a causal relation between vijnanaparinama and upacara as a conceptualconstruction.
+4. Thefollowingpointshavebecomeclear:
+(1) The term upacara in atmadharmopacara is to be understood as signifying con- ceptual construction or a conceptual construct, leading to conventionaldiscourse, rather than a metaphoricalexpression.
+(2) The locative ending of the word vijnanapariname signifies the locus (adhara) in which occur the conceptual construction (upacara)of atman and that of dharmas.
+This shows that the vijnanaparinama is the cause for the occurrence of the concep- tual constructions.
+Unebecannotbejustified in sayingthatvariousverbalexpressions(upacara)refer to the transformationof consciousness. According to the Yogacaradoctrine, the vij- nanaparinama exists as a real entity and hence cannot be referred to by any verbal expression. Rather, what can be the referentof a verbal expressionis simplyatman or dharmas, which are just conceptualconstructs.
+Thus the verse (padasa-c) is to be translated as follows:
+"Indeed, the differentkindsof conceptualconstruction(upacara)of atmananddharmas, whichoccurineverydaylife(loka)andintheoreticadliscourse(sastra),occurinthetrans-
+formationof consciousness."
+〈References〉 TrBh[L]: Trimsikabhasya (Sthiramati). See TrK[L]. TrK[L]: Trimsikakarika (Vasubandhu). Sylvain Levi ed., Vijnaptimatratasiddhi: deux Traites de Vasubandhu: Vim-
+1124
+ On vijnanapariname in Trimsikakarika (H. MATSUOKA) (97)
+satika (la Vingtaine)accompagneed'une Explicationen Prose et Trimsika(la Trentaine) avec le commentaire de Sthiramati, Paris: Librarie Ancienne Honore Champion Press, 1925. Unebe, Toshiya [2004]: "The "Grammarian's Objection" in Sthiramati's Trimsika- bhasya and Bhartrhari's Argument on the Secondary Application of Words," in Three Mountains and Seven Rivers: Prof Musashi Tachikawa'sFelicitation Volume,Delhi: Mo- tilal Banarsidass.
+〈Key Words〉 Trimsikakarika, upacara, vijnanaparinama
+(Graduate Student, Hiroshima University)
+新刊紹介 四津谷 孝道
+『ツ ォ ン カ パ の 中 観 思 想 ―ことばによることばの否定― 』
+A5版 ・389頁 ・定価9,975円 大蔵出版 ・2006年11月
+1125

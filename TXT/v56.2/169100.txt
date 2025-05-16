@@ -1,0 +1,244 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(134) 印度學佛教學研究第56巻第2号 平成20年3月
+バー ヴィヴェ ー カの識二分説批判 斎 藤 明
+はじめに
+ バ ーヴィヴェ ーカは 『中観心論』におい て， 瑜伽行派による唯心説を批判的に
+自らの認識論を展開してい る.本稿は，
+とくにバーヴィヴェ ーカ
+考察する中で，
+によ る識二 分説批判の 内容を分析する とともに， その批判を通して提示される，
+かれ自身の認識論の一側面を併せて考察したい.バーヴィヴェ ー カ (Bh互viveka ， cA90 −570)による唯識説批判は， 『般若灯論』『中観心論』の い ずれにも見られるが，
+二 分 の 識 説 に 対 す る 批 判 を 展 開 す る の は ， 「瑜 伽 行 派 の 真 実 [説 ]の [批 判 的 ]確 定 」
+Y ・ と る ( gacatatattvaviniS)eaya題す
+5章である.  『中観心論』第5章の研究は，
+『中観心論』
+Madhyamakahrdayaknrikd MHK の ( ) 第
+チベ ッ ト語訳に基づい て全体的な考察を行っ た 山口益[1941](『佛教における有と無の対論』)が先鞭をつ け， その後， 個別的な研究
+シャル寺所蔵の現存する唯一のサンス クリッ ト写本の影印版を出版 した蒋[1991]， 跡噛 ty互yana−Gokhaleノートの影印本を公開したBahulkar[1994]，
+これらを基にサンス クリッ ト校訂本を出版したLindtner[1995][2001]がそれぞ れに寄与した.またこの間， バヴィヤ作の注釈『論理炎論』7h眦砂v蔽 (T」)を含 む同章全体の英訳を完成させたHoomaert[1999−2003]の功績も大きい .  Tillemans [2002]， Saito[2004][2006]は， これらの成果を基礎にし，部分的にサンスクリッ
+ト校訂本に訂正を加えながら一TJ(Tib.)を参照しつつ 一MHK を読み， バーヴィ ヴェ ーカの意味論と認識論の特色を論じている.いずれの論稿もサンスクリット
+本の 公開が研究環境を大きく変え，細部に分け入っ た考察を可能にするこ とを例 証 して もい る，
+ 「巾観心論』第5章は， 全体で 114偈から成り， その 中の冒頭7偈が瑜伽行派 による前主張 (想定反論)， 第8偈以降が中観派による後主張とい う構成である.
+後主張の 中では， 第17偈から第54偶において唯心説・唯識無境説に対する批判 一903一
+をの ぞけば，
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+バーヴィヴェ ーカの識二分説批判(斎 藤) (135)
+的な考察を行っ てい る.第17偈から第19偈には唯心説批判が置かれ， 識二分説 批判は， つ づ く第20偈か ら第26偈の 問に展開される.以下では， MHK が設定 する文脈と偈頌そのものの内容を吟味することを直接の目的とするため， 著者問 題が伏在するTJへ の言及は必要最小限にとどめ， その対応箇所の全体的な考察
+は別稿に委ねたい 1).
+I MHK  V.17−19
+『申観心論」第5章の 第17偈か ら第19偈の 3偈で， 以
+ バーヴィヴェ ーカは，
+下 の よ う に 唯 心 説 批 判 を 行 う . ([ ]内 は 写 本 の 葉 お よ び 行 番 号 を さ す .) ち な み に
+TJは第17偈に対して， 「『この三界は心のみである.外界の対象は存在しない .』 という主張命題につ いても」2)との導入説明を置く.
+ 17  「E唯心論者が]心のみが認識されるのであるから色形は知覚されない とい うの も     また正しくない ，主張命題は，承認されてい ることおよび明瞭な知によっ て否定
+      さ れ る の で あ る か ら .」
+     cittam a.tropalambhena r乱P記yagrahaサε嘩 na ca/
+  〆/      ppratij yatab
+abhyupetapratltibliyE1 :    
+fi互 b 訌dhyate
+ 18  「さらにまた， 『夢の なかで色形などの知があるのと同じよ うにその (色形などの)    顕現は生じるのであるから， 対象はなくても色形などの認識はある』というのは       理 に 合 わ な い .」
+napi  rilp且divijfilinVaimnfbrthen jyate
+eti /      1tadEbh 盃soday 且d yath且’ svapne  rilpRdibudd ]コayaH !1
+ 
+     y叫
+ 
+       [1;E;tad互bh目soday 互d yac ca Ms ;tathEbh巨soday5d  yac ca SG;tath且bhEsodayftd
+  Lt;
+’      tathEbhfisoda互ydyath亘 H]
+ 19 「なぜなら， 夢などの認識は[色形などの]要素 (法)を対象的根拠(所縁)とす       る と 考 え ら れ る か ら で あ る . こ の よ う に ， [唯 心 論 者 の 主 張 命 題 は ]喩 例 を 欠 き ，
+      ま た 匚対 象 と な る ]事 物 に 対 す る 損 減 で も あ る .」
+       yas皿 at svapnEdivijfisnaqi  dharm51ambamiami寧yate!
+    d獰毎ntanyUnat ...l hy evanl lcApi [14a2]vastvapavEditEl11
+     [1= SG;[_.匸14a2].]stvapavfidit 巨 Ms;ca Vi串 ay五pav五dit E，H;vastuno ’py apavAdit琶 L]
+バ ーヴィヴェ ーカによれば， 知覚の対象が色形などの外界の諸 要素 (法)であるこ とは伝統的にも承認され， また世問的な明瞭な知によっ ても 認められている.また， この点は夢におい ても変わりがなく，夢の喩えもまた唯
+心説の喩例とはなりえない とい うのである.  夢にも対象的な根拠があることにつ い て 『論理炎論』は， 「夢などの認識は対
+ 以上の ように，
+象的根拠をも
+つ にほかなら い.以 に られたもの( ( a)などと言われ な 前 見 *pirva職
+一902一
+yadvtt
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(136) バーヴィヴェ ーカの識二分説批判(斎 藤)
+るの で あるか ら.記憶 (* SMTti)などの ように.」3)と解説する.夢もまた どの場合と同じように， 過去の経験をもとに， 対象をともなっ た知覚として反芻
+するのであっ て， 対象的根拠を欠くことはないという論旨である.これについて は， IIIの 中で改めて考察したい .
+II  Mm ( V.20・26
+以上の唯心説批判につ づいて登場するのが， 次の ような識二分説批判である.
+20 「もしも， 対象としての顕現が心の対象的根拠であると考えられるのなら，対象   としての顕現を捨ておい て， 別のい かなる心の本質があるのか.」
+      v 斡ay 翫bhasa掘 oet  syac  cittasy 諷1ambana田 mat 烈
+vi ay五bh江sat五   〔)  cittEtm 訌nyo  sti 
+    寧 即prjjhya ’kidrSa!h/
+21  「『それ(心)には二 つ の顕現がある.他に似るこ とが生じるのであるから.水晶珠
+  の ように』とい うのは認められない .なぜなら，   ものは， 水晶の瞬間のものではないからである.j
+    ne $t翫sphatikavat  tasya dVy互bhatdayanibhoday!at
+    iupadlldnEt   jityoato $ tathE I    na  sphatikak aqalY /
+敷物によっ てそれとして生じた
+    匚1 ・  Ms SG E; up 巨dEnatatraL H ]
+22 「それ (水晶としての瞬問のもの)が消滅したときに，
+   ，，，
+   とに関して，その [同じ水晶であると認識する]知は迷乱してい る と考えられる.
+    ま た ， [識 に は 対 象 と し て の 顕 現 と は コ別 の 顕 現 は な い . [識 と し て の ]能 力 に 租 異
+    は な い の で あ る か ら . 対 象 と し て の 顕 現 と い う 本 質 の よ う に .」
+23  「『心には自己および他のものとしての顕現がある.共働し相似たものなのである   から.映像の ように』とい うのは認められない.それゆえ， 二つの もの としての
+    顕 現 は 存 在 し な い 。」
+    svaparabha 匚14a3]sat且 neStfi cetasal ; pratibimbavati
+    saliakEryanukaritv ’ati tasm 巨d dvyatbhasatti!/sati
+    [1=E，H;sahak 誰y珈 uk 再ritv瓦t Ms，SG;sahak 酖匪nuki 耽itv諷t L]
+24  「『もしも認識手段と[認識]結果があるから二つ の もの としての 顕現が認められ   る』とい うなら， そうでない ばあい でもそれら (認識手段と認識結果)は成立す    るのであるから，そのような考えも認められない のである.」
+    pram蚕paphalat5bh5v互d i嘆5 dvyibh百sateti ce げ
+25  「対象としての顕現を保持する知が生じてい るとき，
+  保持する知)によっ て認識対象(prameya)は認識されるの であるが，これ (認識対象)
+’
+ taanmater  mat5 /    百aktyabhed 跏 1na c吾ny巨bha l vi撃ay巨bh巨5at訌tma寸at!1     [1=Ms， SG;na ca dVy五bh5 E，H;na dVy訌bhatE L]
+    tadap訌yenyathotpatter   bhrantaf
+hi
+ arpi ne $ /     anyath 互pi  yate
+ tatsiddhcs  tatk1pti
+一901一
+[それが]別様に生じるこ
+それ (対象としての顕現を
+，
+記憶な
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+バーヴィヴェ ーカの識二分説批判 (斎 藤) (137)
+  によっ て[また]，それ (対象としての顕現を保持する知)が認識手段であると認     め ら れ る .」
+   bibha師 y anem j五跏ena vi撃ay議bhat副i
+        pramiyateprameyam yatpramanamtenatan matarn /1
+ 
+26  「それ (対象としての顕現を保持する知)が生じてい るときに[認識対象は]知覚
+  されるのであるから， その (対象としての顕現を保持する知0))生起が結果であ     る と 認 め ら れ る 、 な ぜ な ら ， 匚音 声 や 香 り 等 の ] 目 に 見 え な い 性 質 の も の に 対 し て
+  は4)，
+tann ttau ca    tannirvrttih   matam /     唾 d∫StatvEt phalaqi
+ この ように第20偈から第26偶の問は， 瑜伽行派による識二分説批判を展開す るとともに，興味ぶかい ことに， バーヴィヴェ ーカ自身の認識論の一側面をも明 らかにしてい る.
+ 心(citta)あるいは知Gfid)nにaは， 対象としての顕現(visayEbhasata)を除い て別 の本質はない (k.20).水晶珠につ いても， 青い敷物の上に置かれて青くなっ た水 晶珠と， 敷物の上にない透明な水晶珠とが同一であるとい うのも(k.21)， あるい はまた敷物によっ て水晶珠が青くなっ たときに， それとは別に透明な水晶珠その もの としての顕現もあるとい うの も誤りである(k.22).また， 映像は実体がない (*avastuka )の で あるか ら
+ま さ に そ の よ う に 認 識 が あ る か ら で あ る .」
+anidarSanarU 14a4 tathaivJtdhigarno
+[ ]pasya   yataa
+   
+IIIバ ー ヴィヴェ ーカの認識論と識二分説批判
+本体 (*bimba)と映像 (pratibimba)の 関係を喩例 として 心自身の顕現と対象としての顕現とい う二つ の顕現を立証することはできない
+(k.23).
+，
+，
+バーヴィ
+ ・ 認識手段= 対象としての顕現を保持する知(viSayabhat5m  bibhra jfian)am  ・認識結果= その (対象としての顕現を保持する知の)生起(tannirvrtt)i であると語り.二つ の顕現を認めなくとも両者は成立するとい う(k24).この ば あ い ， 対 象 と し て の 顕 現 を保 持 す る 知 は ， 対 象 と し て の 顕 現 と は 別 の 自 分 自身 の 顕現をもつ ことはなく，その意味で対象としての顕現を内容とする一分の知とい
+ 認識手段 (pramarp)aとその結果 ([pramApa]phala)との関係につ い て， ヴェ ーカは，
+うこ とがで きる.そして認識結果は， とい う(k.26).
+その ような一分の 知が生起するこ とである
+ それで は
+，
+このような対象としての顕現を保持する一分の知(= 認識手段)によっ 一900 一
+ !/
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(138) バーヴィヴェ ーカの識二分説批判 (斎 藤)
+両者はい かなる関係にあるのだろうか.バーヴィヴェ ーカによれば，認識手段によっ て認 識対象が認識され (pramiya。t)， その認識対象よっ てまた対象としての顕現を保持 する一分の知が認識手段と認められるとい う(k.25).対象としての顕現を保持す
+る知の生起によっ て認識対象が知覚され(衂a)， その認識(adhlgama )があるから， それゆえその知は認識手段であり，その知が生起すること，つ まり知るはたらき をなすことが認識結果であるとい う関係になる.
+ さらにまた， 認識対象につ い ては， 先の第17偈から第19偈までの3偈は，  ・認識対象=色形 (而pa)などの対象的根拠 (互lambana)
+であるとい う.ちなみに， Saito[2006]が検証したように， その色形は元素がi集
+積したもの (sa・pcitarijp)aであり(k.35)， 知が対象の顕現をもつ 原困となるもの (tadtibhamatihetu)でもある (k.36).認識対象となる色形などは， 認識手段である
+その顕現をもつ 知によっ て認識されるのであり， 対象自身の顕現を知の中に与え
+て認識されるもの， つ まり認識対象(prameya)は何であろうか.また，
+その顕現を内にもつ 知すなわち認識手 段とは， 相互に因果的な関係をもつ ともい えよう.対象となる色形等は自らの 顕 現を知の中に与える原因となり， その ような顕現をもつ 知によっ て， つ まりその
+ような知が生起するときに， 色形等が知覚され認識されるとい う関係で ある.  先に， 夢におい ても色形を対象とすると論じたバーヴィヴェ ーカであるが， 以 上の考察からも明らかなように， 夢もまた原因のない 顕現をもつ のではなく， 以 前の経験における色形等が起因するのであっ て， その意味では， 現の知覚のばあ
+い と同様に， 色形が対象(artha)であり対象的根拠(alambana)であるという.
+結語
+ 以上の考察は， バ ーヴィヴェ ーカの認識論に関して， 次の ような結論を導くこ とに なる.
+る原因となる.その意味で， 認識対象と，
+(1)バーヴィヴェ ーカによれば， 心あるい は知は，
+  その顕現を内にもつ が， その対象の顕現とは別個に知自身の顕現があるこ
+  とはない .それゆえ，対象の 顕現を保持する知は一分であり， 識二 分説は   否定 され る.
+(2 ) 色 形 等 の 対 象 は ，
+自らの顕現を知の 中に与える原因であるが， とともにま
+  たその知 (= 認識手段)によっ て認識対象となる.それゆえ 唯心説は否定 ，
+  される.
+一一899 一
+対象的な根拠を原因として
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+バ ーヴィヴェ ーカの識二分説批判 (斎 藤) (139)
+(3 ) 識 二 分 説 が 否 定 さ れ る こ と に よ り ， 知 (= 識 ) の 中 に 対 象 の 顕 現 と 知 自 身 の   顕現の二つ の顕現(dvy巨bh蚕sa鋤があることを前提とするく認識結果=自己認   識〉論5)は否定される.ただし， バ ーヴィ ヴェ ーカは直接に自己認識批判を   展開することはなく， 識二分説批判により， 結果として自己認識論を斥け   てい ることになる.
+(4)バーヴィヴェ ーカにとっ て， 認識手段と認識結果との関係は， 対象の顕現   を保持する知とその生起 (nirvrtt)iとの 関係であり， その 意味で両者は非別体   であるとい える.
+[略号および参考文献]
+AKBh :AbhidharJnakojabhiiSya(ヅ吻 舶 砌 励 〃， P. Pradhan ed.， Patna， 1967.
+E : Eji皿 a ， Y .，  Actadhyamakahrdayakarikfi  Z − }’og 屍caratattvavinis ’cayapariccheda  qf’Bhiiviveka，
+       皿  Sanskritescctollated with itsTibetanversion ，Tokyo，(forthcoing).
+H Hoomaert P. An A皿 otated  Translati ofn Madhyamahahrdayakdrika fTarkojalaV.8−26 「金 ，，
+ 沢大学文学部論集 行動科学 ・哲学篇』20， pp.75−111; 『同』22， p.135.
+Hoornaert P.[1999−2003]:“ An Annotated Translatio nof Madhyamakahrdayaktin ’ka1翫承醇レ酉1δ” ，
+ 『金沢大学文学部論集 行動科学 ・哲学篇』19−23， 1999−2003; 『北陸宗教文化』13， 2001.’ L: Lindtner， Chr.， Bhavya  i lMadhyamakahrdaya (Pariccheda Five): Yわg厩eδratattVavinis ’cayit .
+“”
+:ソ 
+Adyar 48 Madras 1995
+ vatara (The Library Series )， ， ; do. Madhyamakahrdayam  of
+     ?amphlet      ， .
+ Bhavya， (The Adyar librar ySerie s123)，Chennai， 2001. MHK :MadhyamakahrdayaktZrika−.
+Ms:蒋忠新[1991]:「梵文<< 思択焔経〉〉 抄本影印版・編者的話」『季羨林教授八十華紀  念論文集』(上)，江西人民出版社，pp，111−117，511−522.
+Saito， A，[2004];“Bh窃viveka ’s Theory of Meani且g”
+『印度学仏教学研究』52−22004， ，，
+  pp.924−931.
+    [2006コ: “Bhaviveka ’s Theory of Perception”   pp ，1212−1220.
+『印度学仏教学研究』54−3 2006 ，，，
+SG Bahulkar S.S.TheMadhyamaka−hrdaya−karikaofBhttvaviveka APhotographic Reproduc−
+  教 と文化』2008所収予定).
+‘‘
+:  : ，，
+ tion of Pref. V.V.Gokhale，s Cepy，，， Nagoya Studie sin fndian Cultur eand  Buddhism(Sambhtr諏s)   15， 1994， pp.i−iv+ 1−49.
+Tillans， T.[2002]:“On the Semantt。 Theory in the Yg5c酖a Chapter of B瓸vavlvek 寵 吻詰
+ hyamakahrdayakarikl”itsobe inthe Yog凌c浸ra Seminar CalgaT:p
+。     published     Proceedings ofthe }  at  
+  (Sept.2002).
+TJ:Tarkq/vtild;D No .3856， P No .5256.
+[注 ]
+1 ) 拙 稿 「バ ヴ ィ ア 作 『論 理 炎 論 』 の 識 二 分 説 批 判 1 (『多 円 考 正 博 士 古 稀 記 念 論 集 ・仏
+一898一
+NI工I工-一Elleoetcrotniroonic Liibrbaryary Service   
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+(140) バーヴィヴェ ーカの識二分説批判(斎 藤)
+2) khams gsum pa’di ni sems  tsam ste!phyi rol gyi don med  do zhes  dam bsas pa gang yin pa de
+la yang/(D Dza 204b4−5;PDza  225a7−8)=*cittam 訌tran idm traidhEnkam / ndsti b五hyo’rtha
+iti互 温 tatrap圦 Cf. DaSabhfimikasfit， Rrahder e(1.， p.49.9: cittam5tram  ida卑 yad ida叩  y prat茆  
+， 194a14: 「三界所有.唯是一心.」). 3)mi  lam la segs  pa’i rnam  par shes  pa dag nj dmigs pa dang bcas pa nyid  yin te1 sngon  mthong
+traidhEtukar/n(『八 卜華厳』「十地品」第26，大正 veLIO
+  ba la
+i( D) ngon  P)
+ 
+bilod i
+la
+bzhin no11 (TJ ad
+ 
+pa’ pa gon( par pa’ pbyir pa pa
+ sogs  
+k.19， D  Dsa 205a2−3;PDsa  225b7)，
+  
+ sogs   
+4>anidarSananipasya に関してTJは 「直接知(*pratyak胸兪na)は事物の独自相(*svalakSapa) ，
+の みを認識するもの で 識別 *nirapaqa 一計度)や想起 *anusmarana 一随念)の分別をは ，((
+ なれてい る.ゆえに， 色等， 青等の本質をもつ もの としては示されない 性質の も  の に対して」(DDza  207a4−5;PDza  228b2−3)とし， 「色」や 「青」等の概念的分別  によっ ては示されえない， 直接知の対象となるもの一般をさすという，すなわち
+ar[ipasya avikalpyariipasya との理解.ここでは，ひとまずAKBh (1  .18−19 pratya$k ， ， pp ，
+24，34，IV， pp.196−198)に使用される sanidarSa皿a(目に見えるもの)と対比される anidargana の用例と解す.十八界の中では， 色形としての色界のみがsanidarSana に該
+一
+AKBh   p。18.24−19.2)に分類される. ，
+他の 卜七界はanidarSana (cf. I
+ 当し
+5)Cf. Pramd4asamuccのya 1。1−44， E. Steink!elner， H. Krasser， and  H. Lasic ed.，2005(on −
+，
+ line)p.4.3−5 svasamvittih  pha]arp v亘tra(9a)dVytibhEsa jfidnam
+ 
+， ，  mhi   utpadyate  svEbh5sam  villay五bh五sa卑 ca. tasyQbha頭bh5sasyaヲat svasa エpvedana tat phalam.
+〈キーワード〉バーヴィヴェ ーカ， 狆観心論』， 『論理炎論』， 識二分説， 認識論                            (東京大学教授 ・Ph.D.)
+一897一
+   dran
+NI工I工-一Elleoetcrotniroonic Liibrbaryary Service   

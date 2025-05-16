@@ -1,0 +1,70 @@
+ (24) Journal of Indian and Buddhist Studies Vol. 55, No.3, March 2007
+Nagesa on anga in asiddham bahirangam antarange MASE Shinobu
+0. The paribhasa or metarule asiddham bahirangam antarange, which is formulated by Paniniyas, provides that the application of a bahiranga operation has not been es- tablished when an antaranga operation is to apply and hence that an antaranga oper- ation applies in preference to a bahiranga operation. In his Paribhasendusekhara Nagesa explains what is to be understoodby the term anga as follows:
+"Whatis understoodby the termangain the givenparibhasais just a cause(nimitta)
+[ofan operation]whichconsistsin anitem'sownformthatis referredto bythe item terminatingin a locativendingandsoon(saptamyadyanta)."1)
+The question arises whether a genitive ending is included in 'a locative ending and so on'.2) Commentatorson the text hold the opinion that a genitive ending is ruled
+out. But, in my opinion, the genitive ending should not be excluded from 'a locative ending and so on', since it is evident from Nagesa's interpretation of the paribhasa
+karyam anubhavan hi kdryi nimitataya nassriyatethat he considers a constituent ele- ment referred to by a genitive form to be the cause of an operation.
+1. According to Nagesa, what is called antaranga is a grammatical operation or rule that applies earlier in dependence upon the constituent element which arises earlier, while what is called bahiranga is one that applies later in dependence upon the constituent element which arises later.3) He says, moreover, that what is re- ferred to by the term anga is a cause of an operation,which is well exemplifiedby the followingderivation ofpatvya (patvi[patu+NiS+Ta] 'a cleverwoman'i,nstr.sg.).
+(1)patu+Nis+Ta (3)paty+y+a P.6.1.77
+(2)paty+l+a P.6.1.77 patvya
+At stage (1), two operations have the possibility of application. One is the yaN sub- stitution for u in patu, provided for by P.6.1.77t,he other is also the yaN substitution forNiS,providedforbythesamerule. Sincetheconstituentsofpatvyaareintro-
+1052
+ Nagesa on anga in asiddham bahirangam antarange (S. MASE) (25)
+duced in the order (1) patu→(2) NiS→(3) Ta, the yaN substitution for u whose
+anga is i (NiS)is antaranga with respect to the yaN substitutionfor i whose anga is a
+(Ta). ConsequentlytheyaN substitutionfor u takes precedenceoverthat for i.
+The constituents i and a in this derivation are those which are referred to by the locativeformaci inP.6.1.77.Whatis more,theyserveasthecausesoftheyaNsub- stitution which applies at stage (2) and that which applies at stage (3). For they themselves create the possibility of the applicationof the yaN substitution. Thus it may be said that the term anga refers to the constituent of a derivative which is the cause of an operation in the sense that its introduction makes the application of an
+operationpossible.4)
+2. Letusnowdiscusswhether,asarguedbythecommentators,agenitiveformis not included in 'a locative ending and so on'.
+2.1. In the first place, Vaidyanatha,by saying that by 'and so on' (adi) are meant an ablativeending and others,5)tries to avoidincludinga genitiveending. In the sec- ond place, Bhairava categoricallyrefuses to include a genitive ending in 'a locative ending and so on'. According to him, a genitive form in a rule refers to what under- goes an operation and not to a cause for an operation.6)
+2.2. Nagesa's explanation of karyam anubhavan hi karya nimittaya nasriyate in PIS, however,clearly shows that the referent of a genitive form in a rule can be the cause of the operation stated in the rule.7) Let us see how Nagesa explains it. He discussesthederivationofadhyeta(adhilii 'learn'3,rdsg.periph.fut.A).
+(1)adhi+i+lUT (2)adhi+i+ta (3)adhi+i+tas+ta (4)adhi+i+tas+Da
+P.3.3.15 P.3.4.78 P.3.1.33 P.2.4.85
+(5)adhi+e+tas+a (6)adhi+e+t+a (7)adhy+e+t+a
+P.7.3.84 P.6.4.143 P.6.1.77
+adhyeta
+In stage (5), the guna substitution for the verb root i provided for by P. 7.3.84 ap-
+plies. The verb root i is listed in the Dhtupatha with the marker N. P.1.1.5is the
+prohibition rule which disallows the guna substitution when its cause is marked withK,G,N. Consequently,theundesirableconsequencefollowsthatthegunasub-
+stitutionisprohibitedbythisrule. Butifthekaryamanubhavanhikaryanimittaya nasriyate is taken into consideration,the prohibition rule does not apply. The rea- son is as follows. P.7.3.84has the genitive form ahgasya which recurs from P.6.4.1.
+1053
+ (26) Nagesa on anga in asiddham bahirangam antarahge (S. MASE)
+By P.1.1.3guna is substituted for iK of an item termed anga. In the present in- stance,byP.1.4.13theverbrootiiscalledangawithrespecttotheaffixtas. This verb root is what is referred to by the genitive form angasya and what undergoes the operationof guna substitution, so that it cannot be treated as its cause.
+It is clear from the above that Nagesa considers that the verb root i with the mark-
+er N, which is referred to by the genitive form angasya, serves as the cause of the
+guna substitution and at the same time has the possibilitythat it undergoes this op- eration. ToexplainNagesa'sidea,ifaconstituentmakestheapplicationofanoper-
+ationpossible,it is the causeforthe operation;sucha constituent,whichis precisely what is meant by the term anga in the antarangaparibhasa,can be referred to by a
+genitive form in a rule.
+3. Inordertoprovethispoint,letusconsiderthederivationofgaudhera('posterity
+of Godha'). (1)godha+dhraK (2)gaudha+dhraK (3)gaudha+eyra
+P.4.1.129 P.7.2.118 P.7.1.2
+(4)gaudh+eyra P.6.1.97 (5)gaudh+era P.6.1.66
+gaudhera
+In this derivation, the ey substitution for dh in dhraK at stage (3), provided for by
+P.7.1.2,is antaranga with respect to the y-lopa for y in eyra at stage (5), provided for
+by P.6.1.66. The constituents of gaudhera are introduced in the order (1) godha→
+(2)dhraK. dhindhraKisreferredtobythegenitiveformphadhakhachaghaminP. 7.1.2,while the constituents r in eyra are referred to by the locative form vali in P. 6.1.66. Comparing these constituents, we see that r occurs later than dh (ey). This shows that the ey substitutioncan be said to be antaranga with respect to the y-lopa, even if the constituent dh is referred to by the genitive form. If the constituent dh, which is referred to by the genitive form, were not the cause for deciding the status of antaranga/bahiranga, it would follow that we cannot discuss the status of antar- anga/bahiranga of P. 7.1.2with respect to P. 6.1.66. Fromthe fact that Nagesa states that the ey substitution is antarariga with respect to the y-lopa, thus, it should be considered that the constituent referred to by a genitive form can serve as the cause or anga for deciding the status of antaranga/bahiranga.8)
+4. Asshownabove,thetermahgaintheantarangaparibhasareferstoaconstituent elementwhoseintroductionmakestheapplicationofanoperationpossible. Sucha
+1054
+ 4)
+In Panini's grammar, the order in which constituent elements of a derivative are in- troduced is of two kinds: In one case they are introduced in the order of pronunciation and in the other case they are introduced in the order in which Panini assumes them to occur. As shownhere,theconstituentsofpatvya areintroduceintheformerorder. An instance in which constituents are introduced in the latter order is adhyayana ('learn- ing'). In the derivation of this item, its constituents are introduced in the order (1)i→
+(2) LyuT(ana)→(3) adhi. The affix LyuT is the ahga of guna substitution and adhi is
+that of dirgha substitution. The former is referred to by the locative form sdrvadhdtu-
+kdrdhadhatukayoh in P.7.3.84 and the latter by the ablative form akah in P.6.1.101.
+Nagesa on anga in asiddham bahirangam antarange (S. MASE) (27)
+constituent element can be referred to by any case form in a rule and is properly to be regarded as a cause of an operation. It is reasonable to suppose that when he says 'a locative ending and so on' in explaining what the term anga means, Nagesa intendsto implythat a genitiveending is includedthere.
+<References> PIS: Paribadsendusekhara edited by Abhyankar(Poona: B. O. R. I. 1962). Gadd: Commentary on the PIS. Vaidyandthakrtagaddtikdsamvalitah
+Paribhasendusekharah (Poona: Anandasrama, 1913). Bhairavi: Commentary on PIS. Paribadsendusekharah Bhairavamisrakrtatikaya samalarikrtah (Benares: Caukhambha, 1905). Mase. S. 2006. "Being antaragnga as establishedby the indi- cator uTH".Tetsugaku(TheJournalofHiroshimaPhilosophicaSlociety)58.
+1) PIS(80.12-81.2)u:nasabdamasrityetyadibhascyaepnaribhasayaamngasabdena saptamyadyantopattam sabdarupam nimitetvamgrhyataitispastamevoktam//
+2) P.1.1.4s9asthisthaneyoga//P.1.1.6t6asminnitinirdistpeurvasya//
+3) Mase [2006:111-123]
+5) Gada(88.16-17a)d:ina pancamyadiparigrahaPh./1.1.t6a7smad iuttitarasya// 6) Bhairavi(121.8-9)s:aptamyadyanteti/atradisnaasthyantasabdopattatirikgtraashya-
+nam, na tusasthyantasabdopattaskyar,yinonimittatvenaanasrayanat/
+7) PIS(14.1-2):naandvhyetasayitetyadianvsinonrittvad gunanisedhahatsayaadha/
+karyam anubhavan hi karyi nimittataya nasriyate //10//
+8) PIS (78.2-3): eyadesader aparanimittakatvenantarangatvac ca//
+〈 Key Words〉 Paribhasendusekhara, anga, antaranga, paribhasa
+(Graduate Student, Hiroshima University)
+1055

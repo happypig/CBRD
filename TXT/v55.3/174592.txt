@@ -1,0 +1,89 @@
+ Journal of Indian and Buddhist Studies Vol. 55, No.3, March 2007
+(73)
+Discerning the Original Language of the Tibetan Versions of Mahayana Sutras
+From a Simple Mistake in the lDem kar ma Regarding the Ajatasatrukaukrtyavinodhanasutra
+MIYAZAKI Tensho
+1 Introduction
+An excellent historiographer may sometimes make a mistake. Once the error is compiled in an influential catalogue, it can long be accepted as historical fact, in- deed until it is noticed and corrected. The account of the Ajatasatrukaukrtyavinodh- anasutra (AjKV)given under the caption of "Mahayana sutras translated from Chinese" in the lDem kar ma (Dk),1) one of the oldest and the most authoritative Tibetan catalogues of Buddhist canonical scriptures, is most likely to be one such case.
+What strikes us first about the understanding of the origin of the Tibetan ver- sion of the AjKV is the discrepancy found between the Dk and the 'Pang than ma (Pt).2) The two are almost contemporary(around the first half of the 9th century), but unlike the Dk, the Pt classifies the sutra among "sutras translated from
+Indian."3) Since there seems no doubt that both catalogues refer to the same extant
+AjKVc,omposedoffivefascicles,thetruthwilllieeitherintheaccountoftheDkor in that of the Pt. To examine which account is more credible, this paper will dis-
+cuss the subject from the following three viewpoints: first, what the colophon sug-
+gests, second, what Chinese materials suggest, and third, the use of relatives in Tibetan translations.
+2 What the Colophon Suggests
+The colophon of the AjKVmentions two scholars as those engaged in the translation
+of the sutra: Manjusrigarbha,an Indian monk, and Ratnaraksita,a Tibetan monk re- ferred to in the Sgra sbyor bsam po gnyis pa.4) Neither scholar leaves any sign of having translated material from Chinese scriptures. Given that specialists well versed in Chinese Buddhist scriptures were obviouslyneeded in the projects involv- ing translationof sutrasfrom Chinese,the extantTibetanversionis thereforeclearly 1101
+ Discerning the Original Language of the Tibetan Versions of (74) Mahayana Sutra (T. MIYAZAKI)
+not taken from a Chinese original.
+3 What Chinese Materials Suggest
+Since each of the extant three Chinese versions of the AjKV,i.e. the Asheshi wang
+jing阿 闇 世 王 經(T626), the Wenshuzhili puchao sanmei jing文 殊 師 利 普 超 三 昧 經 (T627), and the Weicengyou zhengfa jing未 曾 有 正 法 經(T628), shows no literal agree- ment with the extant Tibetan version, we are left with the possibility that either the Dk is erroneous or, if the record is in fact correct, that the text mentioned in the Dk could represent a missing Chinese version of the sutra. The Kaiyuan shijiao lu開 元 釋 教 録(T2154,730 CE), in fact, argues that"the AjKV has three extant versions and three missing versions."5) With whatever little certainty we attach to this source, it cannot be completely denied that the sutra referred to by the Dk may have been among these three missing versions. In addition, there is another possibility that a specific text translated into local, vernacular Chinese, thereby escaping the attention of the compiler of the Chinese catalogue,6) might have been made use of by Tibetan scholars and listed in the Dk.
+However, how should we examine such a possibility that "an extant text" could have been translated from "a missing text?" The examination of the description in the Dk conducted thus far has involved no more than circumstantial observations, and we will remain in a fog unless we change viewpoints. We will now move on to the third, and final, perspective that points to "the style of translation" as direct evi- dence of the original form of the sutra.
+4 The Use of Relatives in Tibetan Translations
+One of the most effective indices with regard to "style" to distinguish Sanskrit from Chinese is the use of relatives; Sanskrit has highly developed relative structures that are completely lacking in Chinese. Tibetan translators, while originally unfamiliar with the use of relatives but later introducing them through the process of transla- tion from Sanskrit, felt the right to adopt a different style of translation in terms of a relative structure in accordance with the stylistic differences of the original texts. The use of relatives can effectively function as the method for discerning the origi- nal of Tibetan translations.7) However, given the complete lack of philological stud- ies on this theme, a couple of examples will be shown by quoting from the Mahayana sutras before proceeding to examine the case of the AjKV
+1102
+ Discerning the Original Language of the Tibetan Versions of Mahayana Sutra (T. MIYAZAKI)
+(75)
+(1) the Purnapariprccha and the Suvarnaprabhasa
+Two Mahayana sutras are regarded as having been translated from Chinese: the
+*Purnapariprccha (D61, PurP)8) and one of the Suvarnaprabhasas (D555,Suvch>tib).9) In these sutras, while a certain kind of relatives proved to have originated from
+Chinese does appear, another attested to in Sanskrit never does.
+(a)Theexpression"gangyinpa de('di)ni,"correspondingtotheexpressions"ming
+Yi"名 為,"ji shi"即 是,etc., as shown below, is an example fbr the case in which a
+style that had originally been devised for the purpose of translating from Indian originals was applied at a later time to translation from Chinese tinged with the nu- ance of "paraphrase" or "emphasis."
+・de lta bu'i dmigs pa med pa'i byams pa gang yin pa de ni chos kyi byams pa zhes bya'o //de lta bu'i chos kyi byams pa gang yin pa de ni sangs rgyas kyi byams pa zhes bya'o//
+如是 無所 得慈名 爲法慈 。如 是法慈名 爲佛 慈。10)
+・yang dag pa'i ngo bo nyid gang yin pa de ni de bzhin nyid yin la de bzhin nyid kyi ngo
+bo nyid gang yin pa de ni de bzhin gshegs pa yin yongs mya ngan las'das pa zhes bya'o// 實性 體者 即是眞如,眞 如性 者即是 如來,名 爲 涅槃 。11)
+(b)ThePurP andtheSuvch>tinbcludearelativeclauseofplace,"galabader,"cor- respondingto "yena-tena" in Sanskrit.HereI presentan examplefromeachtext.
+・de nas bras ze zhig to spul to/rgyal po de ga la ba der son nas
+時即化作 婆羅 門,往 詣王所12)
+・de dag gzhon nu tham cad (...) phyi dro'i dus na bcom ldan 'das gang na ba der lhags
+te/
+如是等人(...)各 於哺 時往 詣佛所 頂禮 佛足,13)
+(c) The verses of Suvch>tinbclude relative pronouns, which are used to meet the re- striction of syllables in verses.
+/sems cangangdagskyabsdangdbunggnyenmed//mgonmedsdugbsdalsongbar
+gyurba dag//ma 'ongsskalba kundudedagla//mgod dangskyabsdangdpudgnyen gyurpar shog/
+若有衆無救護 長夜輪迴受衆苦 我於來世作歸依 令彼常得安隠樂14)
+(d)Instarkcontrastotheuseofrelativeisntheexamplesmentionedin(a)(,b)and (c),many kindsofrelativedsonotappearintheSuvch>tainbdthePure.As oneof theseexamples,we enumeratehere"relativcelauseoftime",e.g. "ganggyitshe-
+1103
+ Discerning the Original Language of the Tibetan Versions of (76) Mahayana Sutra (T. MIYAZAKI)
+de'i tshe" or "nam zhig-de'i tshe," common phrases corresponding to "yada- tada" in translations from Sanskrit originals. Probably for the reason that this struc- ture, when translated, is difficult to retain in Chinese, the lack of its appearance can be used as an index that suggests the original should be Chinese. An ideal example for this case can be drawn from the Suv, which has two Tibetan translations, one from Chinese and another from Sanskrit, as shown below.
+Skt yadd samudrika navah sayantrah sapatakikah/
+sthalam aruhya gaccheyus tada dhatur bhavisyati//20//
+Skt>Tib/nam zhig rgya mtsho'i gru bo the//'khrul 'khor dang ni gyor mor bcas/ /thang la byungste 'gro ba na//de'i tshe ring bsrelyod par gyur/
+T655假 令大船舶 盛満諸財實 能令陸地行 方求佛舎利
+Ch>Tib/gal togru chen thams cad las//nor dang rin chen rab bkang ste/ /thang bu skam la 'gro nus na//bcom ldan ring bsrel btsal bar bya/15)
+(2) AjKV
+In the extant Tibetan translation of the AjKV,there are many kinds of relative struc-
+tures, one of which is "the relative clause of time" as mentioned in (d). It will suf- fice to quote here an example from Sanskrit fragments fortunately preserved in the Schoyen Collections.16)
+Sktyada ca maitreyenabodhisatvenabodhihprapta bhavisyatitatra esapunar eva tatas
+sahayam lokadhatau
+Tib gang gi tshe na byang
+par rdzogs par 'tshang
+sems pa chen po mi gyo
+upapadyisyati akhyatavi(...)
+chub sems pa sems dpa' then po byams pa byang chub mngon
+rgya 'gyur bar 'gyur pa de'i tshe yang(...)byang chub sems pa ba zhes bya bar 'gyur ro//17)
+5 Conclusions
+The conclusions reached above were that, first, the colophon suggests that the trans-
+lators of the extant AjKV had no involvement in the projects translating from Chinese texts, second, the existing Chinese AjKV shows no literal agreement with the Tibetan versions, and third, the distinctive condition of Chinese originals lack- ing the clause of time is not satisfied by the extant AjKV Thus, the classification employed by the Pt that must be correct and it is highly likely that the compiler of
+the Dk made a simple mistake in recording the name of the sutra. 1104
+ Discerning the Original Language of the Tibetan Versions of Mahayana Sutra (T. MIYAZAKI)
+(77)
+1) Dk: M. Lalou [1953]"Les Textes Bouddhiques au Temps du roi Khri-sron-lde-bcan," Journal Asiatique #241-3, pp.313-353, S. Yoshimura [1950] "The Denkar-Ma, An oldest
+Catalogueofthe TibetanBuddhistCanons."AjKVLalou[1953]No.257,Yoshimura[1950] No.256. 2) Pt: E. Kawagoe[2005],Mar chang 'Phang than ma. 3) Kawagoe[2005] No.74 4) M. Ishikawa [1990] A Critical Edition of the Sgra sbyor bam po gnyis pa, Studia Tibctica #18 p.1. 5)三 存 三 欠(T2154 629b) 6) D. Ueyama [1968] "A Study on the Life and Works of Fa-ch'eng (Hgo Chos grub), a Translator of Buddhist Texts at Tun- hunang under the Tibetan Rule. Part II" (in Japanese), Journal of Oriental Studies #39,
+pp.119-222. 7) S. Harada [1985] "Toban Yakkyo Shi"吐 蕃 訳 経 史Tonko kogo kenkyu and Ueyama [1968] etc. 8) PurP is not listed under the translated texts from Chinese in
+any catalogue, but it is regarded as the retranslated text from Da baojijing Fulouna hui大
+宝 積 經 富 樓 那 會(T310(17)) as the previous studies indicates (e.g. B. Sakurabe [1930] "Sei-
+zoyaku Daihoshakukyo no kenkyu"西 蔵 訳 大 宝 積 経 の 研 究and Ueyama [1968], etc.). 9)
+Suvch>tib was translated from Jin guangming zuisheng wang jing金 光 明 最 勝 王 經(T665)
+by Fa Cheng法 成. The other two Tibetan versions of Suv (D556 and D557) were translat-
+edfromIndian,andtheSanskritversionofSuv(Suvskts)urvives.SuvsktN:obel,J[19371Su-
+varnaprabhasottamasiitra. 10) D61 173a5-6=T.310(174)36b15-16.Other examples:D61
+184a4-5=T310(174)40c15-16;D61188b7=T310(174)42b22,etc.Theexamplesofgangyin
+pa 'dini:D61170b3-4=T310(174)35b8-9;D61173a4-5=T310(174)36b14,etc. 11)D555 30b6=T665 407b2-4. Other examples: D555 34b5-6=T665408b26-28; D555 39b3=T665
+410a19-20;D555 79b5-6=T665425b22-24, etc. 12) D61 212b2=T310(17)452a26-27. Another example: D61 177a1-2=T310(174)38a24-25. 13) D555 21b1--3=T665403c3-5. Otherexamples:D55526b5=T665405c9-10,etc. 14) D55574a2-3=T665423b1--2. Otherexamples:D55546b4-6=T665413a11-14D;55572b4=T665422c5-6,etc. 15)Su- Vskpt.173-4D556159b5=T655406b24-25=D55528b6. 16)AjKVskHt:arrisonandHart- mann [2000] "Ajatasatrukaukrtyavinodhanasutra,"Manuscripts in the Schoyen Collection II: Buddhist manuscripts, vol.I & Harrison and Hartmann [2002] "Another fragment of the Ajatasatrukaukrtyavinodhanasutra," Manuscripts in the Schayen Collection III: Buddhist manuscripts, vol.II 17) AjKVskNto.12c=P882273b3-4=D216261b3-4.Another example: AjKVskNto.13c=P882274b4-6=D216262b13-4.
+〈keyword〉 Ajatasatrukaukrtyavinodhanasutral,Dem kar ma, 'Pang than ma, the use of relatives in Tibetan translations
+(Graduate Student, Tokyo University)
+1105

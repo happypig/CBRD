@@ -1,0 +1,158 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+印度學佛教學研究第59巻第1号 平成22年12月 (187)
+Mahavastu における人称代名詞の一 考察 平 林 二  郎
+Edgert L 問 題 の 所 在   本 稿 は F . 
+i) 。 n の 著 書 Buddhist H ソbrid Sanskrit Grammar  
+(BHSG )に挙げられる人称代名詞の一つ である ‘haipmi，  ahammi ’ とい う語形につ い て ， Mahavastu(Mv.)の 用例か ら再考する もの で ある.考察の 方法として は湯
+山明氏によっ て出版2)されたMv.唯一の貝葉写本であるSa写本，
+それに準ずる
+Sb写本を用い またE. Senartが校訂本3)作成の際に用い た諸写本を再度見直し ，，
+対応するP蕊li文献と比較することで明らかにしてい きたい .
+2.BHSG における代名詞の項目 BHSG の人称代名詞項目では， 僅かしか
+使用 されて い ない 用例が扱われて お り， それ らの 多 くはMv .だけが典拠 とされ
+てい るものである.EdgertonはBHSG でMv.を扱う際に， 主にSenartの校訂本
+を使用 して お り， Prakrit的な要素の 強い もの につ い て は，  R. Pischelの Grammatik
+) 5〕
+−
+der PrakritSprache4 E. Hultzschの Inscriptio nofsAsolon   などを参照し 写本や
+，，
+内容などから校訂本の是非などに触れつ つ 訂正をなしている.しかし，項目によっ
+その まま
+3 . Mv .の 写 本 Senartは Mv ，の 校 訂 本 を作 成 す る 際 に ， 当 時 入 手 可 能 で あ っ た6写本6)を用いてい る.しかし実際にこれら6写本を使用し校訂が進められ たのはMv.の vo1.1193.12までである，それ以降のvoLI 193.13からvol.II I47.9ま ではB， C写本の2写本によっ て校訂がなされ， voLIII  47.10以降はC写本の代 わりにM 写本が用い られ校訂がなされてい る.
+ 2001年， 湯ll!明氏によっ てMv.唯一の貝葉写本であるSa写本とSb写本(紙写 本)が出版された.筆者は現在この 2写本をRomanize してお り，  Sa写本には Senartが使用した6写本にはない部分が数行書写されてい るなどを明らかにして い る 7).また， Sb写本につ い ては大正大学図書館に収蔵されてい るマ イクロ フ ィ ルム T自kaoka A63と同一であることを確認している.
+4.ha叩mi， ahammi(BHSG §20.36.)につ いて 本稿で扱うのはBHSG §20.36. 一 346一
+問題があることを把握しつつも， 注意を喚起するだけに留まり，
+て は，
+解説をなしてい る部分がある，
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+(188) tVfahava .gttt における人称代名詞の一考察(平 林)
+においてigt. lec. sg.として記載されているhammi， あるいは， ah闘 豆についてで ある.この語形はSenartの校訂本におい て 1度しか使用されてい ない ものである.
+こ の 代 名 詞 が 使 用 さ れ て い る 偈 頌 を 内 容 上 ， 相 当 す る と 考 え ら れ る D 〜g 肋 1 蹴 卿 (DN.)と比較し， 考察することで明らかにしてい きたい.また考察に際し，本稿
+におい てはfa Sb写本， Senartが 「卜地」(vol.1 193.13)以降校訂に使用したB， C ，
+M 写本の 5写本s)を用い ることとしたい 。  問題となる掲頌Scnart ¢d， vol.1]1， 216.4−8.(一 とド線は筆者が付した.)
+s毋・a匙・y韻顱masya up跚 stasya me satah〜 (2)agni  prajv瀏1i丘o 巨si 謡acirapaエicchado 〃
+tat・hapami p・再d些 如曲m巨k壟Sa・証ta・・!
+yasya Srutvjahfim鵬i
+ vgcarp  
+ 
+}
+ ca 
+a m 蔑ka叩 9rhatp kevalam 〃
+EdgeitOii」. Jones 平岡聡氏は，  Mv .該当箇所に相当する話が DN .19に見られ ，，
+ることを指摘9} してい るd 比較の対象部分は以下である.DN.2 PTS 244.3−6. (一 と下線は筆者が付した.)
+q)‘upavuttassa  mc  pubbe  yutthuk註〔且 assa  me  sato
+(2)aggi    alito 豆si kusapattaparitth.ato pajj
+tato 璽 brahm 巨P盃tur i迦 brah皿 alok 亘S...manti 璽 ・
+t「’ り                                                                                          
+鮭)so me   pafih単a
+ viy 浸ktisjta鵬 sutvfi na  
+ rame .
+ 
+gahe
+部分 Senartが sarvat 。 と校訂して い る部分は C写本以外で は sarve ・ te となっ て い る.DN.ではmc  pubbcとなっ ており， これをSanskrit(Skt.)化するとme 両rve となる.sarve とp“rve は写本では似たような文字になっ てい る場合があり， 文
+字によっ て この内容が伝承される段階になっ てpitrveがsarve と誤っ て伝承され てしまっ たと推測される.teとm 。 の部分につ い ては明確な根拠を示すことはで きないが， 餌rveがsarve となっ たことで， その影響から差異が生じたと筆者は
+考えて い る.
+部分 問題となるのはku≦aci脚 ariccllado 言1吩である. Sa， M写本の読みでは
+’「‘’
+C写本の kuSariraparicchadoでは 悪い体を纏う となり内容
+理解がで きず
+には適さない .Sb，  B写本の読み はktisaciraparicohadoとなっ ており， この 読みを
+い ば
+用 れ 校訂本通り
+’ −
+は ‘クシャ草の衣を纏う’，
+，
+ crchiada kuSaciraparicchaciでo 問題 は ない 。しか し ‘kUSacirapa
+，
+とい うBahuvrlhiであると考えられ， agni を修飾する
+ことになっ てしまう.クシャ草の衣を纏う火から，火の周囲にクシャ草が置かれ てい ることを推測することはできるが， DN.のkUsapattaparittha(tクoサ草の葉を周
+一 345一
+一
+NI工I工-Elleoetcrotniroonic Liibrbaryary Service
+  
+，
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+Mahavastuにおける人称代名詞の一考察 (平 林) (189)
+囲に敷いた)とい う読みの方が内容としては適してい る.写本から考察し， DN.
+と比較すると， paricchadoとparitthatoは書写する際に間違い易い 文字であり，
+Mv.が写本によっ て伝承される際に誤っ て伝えられた可能性がある.そうであれ
+ば (敷く)から  cchado (纏う)に変わる影響を受けて，内容を整える paritthato pari
+為に sapatta も kugaciraに変えられた と説明が可能で ある. 部分 ScnartはM写本の読み方にしたがっ てhaipmiと校訂le)しているが， M
+写本haipmi部分のanusvEra は他のものより小さく母音記号と重なっ ている.し
+M写本の読みはhaiprniあるい はha mi である.また， M写本以外の
+たがっ て
+写本はす てharlpiiとなっ ており， 読みには問題があると考えられ .
+，
+べ このる  EdgertonはSenartのpradurahu部分について， BHSG §32.28.において写本を参
+照しprfidur+ザbhOの3rd. sg. aor.がpr5durahiであり， Senartの校訂が誤っ てい ることを指摘してい る.この部分をpradurahi， あるい はpradurahum が韻律など の理由でahuになっ たと考えれば1st.の動詞として使用できる可能性もあり‘ham
+，
+pi(私も)’ をlst. nom .で使用することが可能である.また， hamを中性名詞の
+ahan (H)として読むことも考えられる.すべ ての写本におい て pr5durahiとなっ
+すべ きであり， 何れにしても問題のあるM写本の読みであるhamiを根拠に
+‘’ ‘’
+てい るが， ahi につ い ては の asi の影響を受けて誤写された可能性も考慮  
+ sgでいること べで 1st...用 は避ける きある.
+ この 部分の再校訂案を2案下記に示す.
+tato harp pi prEdurahu brahmaloke saliEtane ノ(それから私も永遠なる梵大世界に現れた)
+taLo haxlimi    brahmalokeSanatarifa(そ れ か ら 日 中 に 私 に 梵 天 か ら 10  SanStanaが 現   pr5durahi    
+れた)
+部分 該当部分のDN.とMv.を比較すると， DN.においてna gahe rame (私は 家を楽しまず)など， ザram が使用されてい る部分が3回ともMv.では意図的に 違う文に書き換えられており，韻律が合わない ものとなっ てい る.また， Mv. 部 分 は 該 当 箇 所 の 前 の 偈 を 参 考 に し て 書 か れ た も の で あ る と 考 え ら れ ， ca kevalarp部分は不要で ある可能性が高い .
+5.結論 該当の偈願を考察した結果， me  pubbe (Skt. purve me )がsarve  teと誤っ て 書 写 さ れ た こ と ， paritthatoが paricchado と 書 写 さ れ Mv .伝 承 の 段 階 で 内 容 が 変 わっ てい っ たこと， pradurahu(or ahi)のギ語が曖昧となり伝承されてきたこと， ザram が使用される句を書き換えた部分の韻律が合っ てい ない ことなど， この該 当偈 頌 に 多 くの 問題 が あ る の は 明 らか で あ る . 他 の 写 本 と 異 な る 読 み で あ る M
+  loc
+一 344
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+(190) 盈痂yα翩 における人称代名詞の 考察(平 林)
+写本の ha叩mi 部分だけを根拠とし使用するには問題があり， M 写本，もしくは M 写本が書写される前の段階でham piがhammiに書き換えられたと考える方が 妥当である.したがっ て， Senartの校訂本においてhanllniが使用されているのは 該当箇所だけであることから， 他にも使用例が見つ かればさらに検討を加える必 要があるが， 現時点で は，この該当箇所を根拠として BHSG §20.36.で解説され
+てい るhampmiをlst. loc. sg.で使用することはできない と考えられる.  湯山氏の出版したSa写本は他の写本と比べ信頼性の高い ものであるが， 岡野
+潔氏は 「しかしこの原本写本にもかなり誤写があっ たことが予想される」と指摘j2) してい る.本稿の 該当箇所は，Sa写本もしくはそれ以前の伝承の 段階におい て
+Mv.には不完全な部分があっ たことを示す一例になるものである.
+1)Franklin Edgerton， Buddhist Hybrid SansJoAit(}rammar  and  DictionaF:)，， New Haven ，1953.
+2 ) Akira
+・−
+’’
+Pabn Leafand 3) 亘.Senast， Le五46ん∂レastu ，3vols。 Paris，1882， 1890，1897.
+    − 
+Paf
+Thc ， 
+ 
+ 
+γadfina  
+ 
+ 
+)er  
+ 
+Yuyama ， 」1ie
+in
+Manuscript
+Ccntre
+  
+  01d
+Afahfivasut A
+ 食}rEa ヨt Asian Cu至ture Studies. for Unesco， Bibliotheca Cod{cum  Asiatlcomm 15， Tokyo，2001.
+4 )R.Pische，lCframmatikderPrakritSprache， ，1900.(
+Meicho −Fukyti−Kai ， ，
+ 19. 77 Tokyo.) ，
+Strassburg Repri
+5)E.Hultzsch， lnscrif)tion，s qfAsoka ， Oxford，1925.(Reprint， Meicho−FukyU−Kai，1977，   T 。kyG.丿
+6)Senaltが用い た写本の 詳細な研究につ い ては，湯山明 「Mah巨vastu −Avaぬna − 1亰典批  判的研究に向けて一.」(『国際仏教学高等研究所年報』2，1999， pp.25−29.)などがある.
+7)平林二郎「.・Wa.httvastzにaおける釈尊の誕生の考察 (1)」『大正大学大学院研究論集』   32 号 ， 2008.
+8)Sa写本342b. Sb写本359b 2−3. M 写本362b 1−2. B写本331b 45. C写本225a 17−18。 9 )Edgertonに つ い て は upavusta (BHSG  p。141)， jo目es に つ い て は Tfie il{fahavastu， Vol.3，
+Pal{Text Society London 1956
+ .193.1 聡氏については『ブッダの大いなる物語
+  ，，，p，平岡
+  下 』， 大 蔵 出 版 ， 2010，p .555，6− (2 ).
+]0)Scnartは加 地 層yα3臥 vol。3， p.493の Commentaire によるとHemacandra (IIE， l i6)の  amhammi ， mahammi か らharpmiを想定してい る.  Edgertonもこの部分につ い て Pischel  §415から想定している.BHSG §236.
+ll)BHSG §7.82.且oc . fer abl 。
+12)岡野潔 『イン ド仏教文学研究史1:仏伝Mahaavastu研究史』Mahaavastu avadaana 大  事譬喩.(URL :http:1!homepage3.nifty.com !indology血1ahavastu .html， 第1段落参照.)
+〈キーワード〉 『マハ ーヴァスツj，l仏教梵語，代名詞                       (大正大学綜合佛教研究所研究生)
+343 一
+ nt  
+一
+NI工I工-Elleoetcrotniroonic Liibrbaryary Service
+  

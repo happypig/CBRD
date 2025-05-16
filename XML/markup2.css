@@ -1,0 +1,121 @@
+@namespace xml url(http://www.w3.org/XML/1998/namespace);
+
+* {
+    line-height: 2em
+}
+ref {
+    border: solid 0.01px Blue;
+    background-color: #F0FFFF;
+    padding: 0 4px;
+}
+
+ref:before {
+    content: "R";
+    color: white;
+    background-color: blue;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+
+ref[xml|id]:before {
+    content: attr(xml|id);
+    background-color: white;
+     border: 1px solid green;
+    color: green;
+    font-size: 1em;
+    padding: 0 4px;
+}
+canon {
+    color: red;
+    font-weight: bold;;
+}
+canon:before {
+    content: '藏';
+    border: 1px solid red;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+v {
+    color: #f29e0c;
+    font-weight: bold;
+}
+v:before {
+    content: '冊';
+    border: 1px solid #f29e0c;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+w {
+    color: Purple;
+    font-weight: bold;
+}
+w:before {
+    content: '經';
+    border: 1px solid purple;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+p {
+    color: green;
+    font-weight: bold;
+}
+p:before {
+    content: '頁';
+    border: 1px solid green;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+c {
+    color: blue;
+    font-weight: bold;
+}
+c:before {
+    content: '欄';
+    border: 1px solid blue;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+l {
+    color: #c2080e;
+    font-weight: bold;
+}
+l:before {
+    content: '行';
+    border: 1px solid #c2080e;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+
+ptr[href]:before{
+    -oxy-link:attr(href);
+    color:white;
+    background-color:darkblue;
+    font-size: 0.8em;
+    content: "Link" ;
+}
+
+ref[checked="1"] {
+  content: oxy_button(
+   action, oxy_action(
+            name, '已檢查', 
+            description, 'set checked to 0', 
+            icon, url('icons/ckbox-ch.png'),
+            operation, 
+             'ChangeAttributeOperation', 
+            arg-name, 'checked',
+            arg-value, '0'), 
+    showText, true, showIcon, true, color, blue)
+}
+
+ref[checked="0"] {
+  content: oxy_button(
+   action, oxy_action(
+            name, '未檢查', 
+            description, 'set checked to 1', 
+            icon, url('icons/ckbox-em.png'),
+            operation, 
+             'ChangeAttributeOperation', 
+            arg-name, 'checked',
+            arg-value, '1'), 
+    showText, true, showIcon, true, color, red)
+}

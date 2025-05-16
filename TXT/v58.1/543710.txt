@@ -1,0 +1,133 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+印度學佛教學研究第58巻第1号 平成21年12月 (223)
+『ニ ヤ ー ヤ ・ マ ン ジ ャ リ ー 』 写 本 の 欄 外 注 に つ い て
+室 屋 安 孝
+0.九世紀頃の カシミール地方はニ ヤーヤ学派の活動や思想の展開を知る上で 特別な位置にある.ニ ヤーヤ学派の展開に影響力をもっ た学匠たちの作品の ほと んどが散逸し， 彼らの思想の多くは引用などを通じて間接的に知られるのみであ
+るこ とを考えた場合，
+カシミール地方で活躍したとされるバ ッ タ・ジャヤンタ
+(Bhat婁a Jayanta以下 BJ)は稀有な例外で ある.  BJの 三 篇の著作は忘却 と廃棄を免れ ，
+，
+現存する文献として既に出版されてい る.代表作に数えられる 『ニ ヤーヤ・マ ン ジャリー』(めのα襯 吻砌 「論理学の花房⊥以下NM)が， 作品誕生の地となっ たカ
+シミール地方で長い 間一定の関心を集めながら伝承されたことは， 現存するい く つ かの伝本がシャーラダー文字やカシミール系デーヴァナーガリー文字で記され
+ていること， また以下に述べ る欄外注の豊富さなどから容易に推測されよう.
+1.本小論では， NM 写本研究の一環として，
+本を用い て， 写本本文とは別に欄外に記されたテクス ト， い わゆる欄外注につ い
+て報告する.また欄外注の研究の実際と方法を論じながら， ニ ヤーヤ学派の思想 の伝承過程の考察と， その一事例を提示することを目的としてい る1)，
+Ll .本小論で扱うNM 写本で欄外注を含むもの とは以下の 4本である:1) ASC所蔵写本(Acc. N・. GlO991， Devanagari文字，紙写本， 374枚， 以下C)， 2)SUB 所蔵写本 (Acc. No. Mu I 95，菖f・iada 文字，紙写本，18枚， 以 ドGl)，3)同館所蔵写本 (Acc. N・.Mu lI 26， 詣ad五文字， 紙写本， 18枚)，4)BHU 中央図書館所蔵写本 (Acc. No. CIO15 ， カ シ ミ ー ル 系 Devan 五gari文 字 ， 紙 写 本 ， 80 枚 ， 以 下 V ).
+2.上記写本の欄外注はテクストの層によっ ておよそ3種に分類できる:1)NM 本文へ の付注あるい は注釈， 2)付注とは別の 典籍の 引用， 3)2の 引用典籍へ の 注釈である.欄外注がこの ような複雑な階層をもっ てい ることは， NM が後代の
+パ ンディッ トや学習者など広義の読者， 利用者によっ て研究され学習されてい た 伝統の存在を示唆してい ると考えられる.欄外注の多くは，C写本を除い て， NM 第一日課に集中している.これらには奥書など著者等を特定できる書誌情報
+一 338一
+筆者が利用できたい くつ かの伝
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(224) 『ニ ヤーヤ ・マ ンジャ リー』写本の欄外注につ い て (室 屋)
+がない の で， 付注の作者の 人物像， 複数の 作者の存在の 有無， 著作年代などは明 らかではない .ただし上記4写本の現在までの分析から， 複数の注釈者， 解説者
+それらは伝承の 過程で 一 伝承の 枝分かれに よる細分 化，あるい は同一の伝承経路の中での追加， 修正， 増補によっ て 一 徐々 に多様 化していっ たのではないかと推定される.紙幅の都合で詳細には立ち入らないが， C， V，  Gl 写本の 欄外注は， 付注の 内容や誤写を共有してい るこ とか ら， 明らか
+に同一系統に属する.
+2.1.上述の テクス トの 3種の階層の うち第二 につ い て述べ る.この第二 の テ
+クス トは， 興味深い ことに， 大多数を占める通常の付注とは異なり， 際立っ た特
+ 
+徴をもつ .このタイプのい くつ かのテクス トは“ititika”(以上が注解である)や“atha
+”一 tika(「では注解によると」)とい う明示的な表現を伴い， 転写上の特別なフt マ ッ
+トをもたずに欄外に組み込まれてい る。「注解」として言及されるこの テクス トは， 実の ところめのα〃2碗ノari−Granthibhanga(「『論理学の花房』難所の解明」;ed. Nagin J. Shah， Ahmedabad l972， LDS 35;以下NG)に同定できる.  NG とは十一世紀頃に活躍し たと推定されるチャクラダラ (cakradhara)によっ て記された著作で， NM に対し て現存する唯一の 注釈である.NM 写本の 欄外注にたとえ部分的とはい えNG の 本文が発見されるとい うことは， NM 写本の伝承者 (おそらくパ ンディッ トのよ うな学者)が， 当時カシミールに存在したであろうNG写本をNM 研究に用いた ことを明確に示してい る.
+2.2.NM 写本の 欄外に見出されるNG 本文に限定して言えば， 本文批判をす る上での 重要性を3点指摘で きる.第一に， NG の本文批判に利用で きる一次資
+料が増えるとい うこと.現在利用できる二種の刊本はい ずれも事実上一本の伝本 に基づい て校訂されてい る.第二 に， 欄外注から回収されるNG 本文によっ て， 刊本前半部分の底本となっ たジャイサルメール写本 (写本番号ji.甑 386， Devanagari
+文字，貝葉写本，以下J)の欠本箇所を補うことができる.第三に， 刊本の 「補遺1」 におい て K とい う略号で翻字されてい る貝葉破片 (patraa噸 ni)が， 本来どの 部
+分の写本であっ たのかを特定できる.逆に， 判読可能な破片部分がNM写本の 欄外注に対応する限り， 第二の タイプの欄外注がNG に属することを裏付けるこ
+とになる.
+が存在 した可能性が高 く，
+欠本箇所を補うケース を一例の み以下に紹介し たい.これは筆者が 「断片2」と呼ぶものである.断片2はG1写本(Gl・f.・2v>
+3.上述の NG の断片の うち，
+にしか見出されず，
+初 版 本 に 部 分 的 な 対 応 箇 所 (補 遺 1， 一 337一
+順 に K13B3 ， K15A3 −6，
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+『ニ ヤーヤ・マ ンジャリー』写本の欄外注につ いて (室 屋) (225)
+K15B3)が知られるのみである.ここで再構成された本文はNGの一つ の注釈全 体に相当すると考えられる.
+3.1.NGの再構成テキス ト (断片2):
+“ved巨rthopayogipad且di<a>vyutp 巨danadv五reqa”(NM I!6，9−10=Kataoka 2007:181，3−4)iti，
+yad 互ha(b>bhattab−
+   yat padavijfi jfieyarp
+   
+串taTp gamyate
+ 
+阜
+tat!
+tavat
+  互nam   .vy巨karaena 
+kaScit 巨rthabodhaS ca  巨nvay ...it/
+ 
+    pad prakrtipratyay
+lokaVyakaranEbhy5
+ ca    artho  na   /     珥 ye5fini gamyate
+  nimktadv 齏 k5 teS巨m 〈c >arthiibhivyaktir  iSyate!1   sandihyate  hi〈d>s劭皿洫 yarUp互yatr司pi devat亘/
+mantre  tatrapi sA spa  nirukt 蕊d eva    /1
+   kararpasthay5atn 血 諷 udEtt 翫deh svarasya  ca !
+   grast盈din巨rp ca do爭Epfi mSik爭Eta statra nirpayah 〃
+hatitri !    g5yatnb; 写tupkakubu爭4iganu5tubh5m
+   jagaty
+皿
+且de忌ca  vijfifi皿 a chandovic {t孟lakSa飢 11
+uttar百 atranin  tayah !     yapapupyaliatithi$nak
+chayaga4itamargepa  udayadayah  !/    (e >jyotiSEm
+田箪
+laikadeSaSa五kh五 〈f>k   ve( y卑
+  sarvakarmavidhistotramantran
+   sankima  viprakimaS  ca  ved 翫dhyayanadh翫 ap 巨t!
+  k・lp・・atra・ivivi ・y・nt・nyasy ・nt・(h>・a p・atikriy・m 〃 it.i
+ Uariants: a               (Setected 〈>pad5di−]J，K，ef also NM 116，10;padi磁haGl.<b>yad 五ha]Gl;yathaliaJ，
+K.<c>t鄲五lp]Gl;cai頭卑 」， K.〈d>hi]G1;ti J， K.〈e>−m 五rge 耳a]J， K;m5trepa  Gユ.〈f> −de語a献 h翫yi面]conj .; degti[bhUt互]y油鹹 互Gl;†J， K.〈g>−n5ma −]em .;ny五sa G1;†sa J， K.
+〈h>nyasyante ]co 砂 by Jambuvj jayj  i;naSyante  Gl ; †J， K .)
+3.21和訳:「ヴェ ーダの意味・内容に役立つ語などの解説を通じて」に関して， バッタは[次のように]言っ ている.厂[六つのヴェーダ補助学のうち]まず，一単 語の認識は文法学の知識対象である.また単語の 意味に対する特定の理解は， 語 基と語尾の結合に基づい てい る.また一般的用法と文法学によっ て意味の理解さ れない 諸々 の単語の意味を明瞭にする ことは， 語源学を通じてであると考えられ て い る . と い う の も ， [祭 式 で 用 い ら れ る ] 祭 詞 に 関 し て ， [他 の 神 格 と ] 共 通 な
+一
+NI工I工-Elleoetcrotniroonic Library Service
+且蠢ray5 1 帥qaprakarap 車
+五ma 〈9>sam 巨ptayah 1/
+一 336一
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(226) 『ニ ヤーヤ・マ ンジャ リー』写本の欄外注につ い て (室 屋)
+形をもつ [ので， どの神格が賞賛されるべ きか]疑わしい神格は， 語源学によっ てはじめて明確に理解される、その [祭詞]に関して， 発音， 発声部位， 発声努 力[の確定知]， またudatta (高いアクセント)を始めとするアクセント[の確定知]， ま た grasta (不 明 瞭 な 母 音 の 発 音 ) を 始 め と す る 発 声 の 諸 々 の 不 備 の 確 定 知 は ， 音
+声 学 に 基 づ い て い る . gayatri，  brhati，  triStubh，  kakUbh，  u 卸 h，  anuStubh
+，
+また
+jagati 韻律分析学の定義に基づい てい る. を始めとする [他の韻律]の認識は，
+太陽の北進， 吉祥な日， ティティ， 星宿の確定知は，日時計の影の算定とい う道 によっ ている.諸々の天体の出現など[も日時計の影の算定に基づく].すべて
+習と記憶による保持によっ て混合し， また分散してしまっ た [規定文， 称賛， 祭 詞， 名称]は， 祭儀学の諸々の経典によっ て， 祭事行為毎に [混合したものは] 区別され， また [分散したものは正しく]配置される.」
+3.3.筆者はこれまでの ところ 「バ ッ タ」の作品から引用されてい る上記テク ス トの典拠を特定できてい ない.しかしNM やNG における 「バ ッ タ」の用例や
+名称の完全な獲得は，
+あるヴェ ーダ学派における [祭式の]区分や主題に基づい てい る.ヴェ ーダの学
+の 祭式における規定文，
+称賛，
+祭詞，
+例えば 『大注解』(Brha鰍巨)のようなクマ ーリラの散逸 した作品から引用された可能性も十分にありうるの ではない かと考える.
+文脈などから判断して，
+4.本小論における報告と考察は， 筆者が現在行っ てい る4本の NM 写本の欄
+外注の翻字作業をもとにした分析に基づい てい る.関連写本の相互関係 節で述べ た欠本部分の再構成と翻訳， 本小論で扱っ た点の詳細などにつ い ては， 近々刊行予定の別稿を参照い ただきたい .
+1)本小論で使用した写本の使用および複写の許可を与えてくださっ たAsiatic Socicty
+  
+of Calcutta(以 下 ASC )，Niedersachsische Staats− und  UniversitatsbiblioGtOhtetkingen (以 下
+SUB)， 及びBanaras Hindu Univelsity(以下BHU )と， またNGの ジャ イサル メール写本 の 利用許可とコ ピー入手を全面的に支援して下さっ た Muni Shree Jambuvijayj師iに謝意 を表す.第3節で扱っ たテ クス トに関して貴重なご批判とご意見を下さっ た片岡啓准教 授，Elisa Freschi博士，矢野道雄教授，黒田泰司教授，丸井浩教授， Karin Preisendanz教
+授 に 記 し て 厚 く お 礼 を 申 し 上 げ る . (紙 幅 の 都 合 に よ り 注 2 以 下 割 愛 ) (オース トリア学術研究助成基金FWF  No. P19328 による研究成果の 一部)
+ーー 〈キ ワ
+，  Nydyamaij/ari ド〉 Bhatta Jayanta
+，  Cakradhara，ハラめ
+−
+Z Granthibhahga
+経ノα 厂              (ウィーン大学研究員，博士 (文学)
+KumErila，写本， 欄外注
+一 335一
+ノ
+.
+ヴェ ーダの一部分で
+α加 α
+，
+rg
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  2.2
+  

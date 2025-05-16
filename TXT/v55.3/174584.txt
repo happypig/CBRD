@@ -1,0 +1,76 @@
+ (28) Journal of Indian and Buddhist Studies Vol. 55, No.3, March 2007
+Udayana's Critique of the Intrinsic Theory of Validity: With Respect to the Origination of the Validity
+SHIDA Taisei
+SinceMimampsakKaumarila(ca7C)poseda problemaboutwhetherthe validi- ty and invalidityof cognitionare,respectivelyi,ntrinsic(svatah)or extrinsic(para- tah),Naiyayikasand Buddhistsargued overthis problemand generatedtheir own theories,mainlyin oppositionto Kumarila'sIntrinsicTheoryof Validity.
+One of the issuesagainstthe backgroundof this problemis the authorshipof Vedicscripture;whetherweshouldpostulatetheomniscienatuthoroftheVeda,or whetherthe Vedadoesnot haveany authorbecauseof its eternality.
+In this paper,I will clarifythe methodof Udayana'scritiqueof the Intrinsic Theoryof Validity,especiallywithrespectto its origination(utpatti),in the 2nd
+Chapter(stabakao)ftheNyayakusumanja(lNiKus). Udayana,againsttheopponent'sIntrinsicTheoryofValidityd,oesnotputfor-
+wardhisowntheorybutputsforwardinsteadathirdtheoryinwhichtheintrinsic and extrinsicpropertiesare reversed,and comparesit to the opponent'stheory.By doingso, he criticizesthe opponent'stheoryon the groundsthatit leavesroomfor theexistenceof anotherantagonistictheory(*satpratisadhana).
+A similar critique of the Intrinsic Theory of Validity is found in the Tattvasamgrah(aTS)of Santaraksita(ca8C).Howevert,hereis a differencebetween thetheoryof Udayanaandthe theoryof Santaraksitaw; hetherthe antagonisticthe- oryputforwardtotheopponentisarguedattheontologicalevelorattheepistemo- logicalevel.
+1 Critiqueofthe IntrinsicTheoryofValidityinthe NKus
+In the NKus,the svatah/paratahproblemof validity/invaliditiys discussedat
+the openingof the 2nd chapter(k.1a)and in his auto-commentartyhereon.The con- tentisdividedintotwoparts;theformerargumentreferstotheontologicaalspect ofthevalidity(utpattia)ndthe latterrefersto theepistemologicalspectofit (jnapti).
+1056
+ Udayana'sCritiqueoftheIntrinsiTcheory ofValidity(T.SHIDA) (29)
+Among the two arguments, the issue of the former argument on utpatti is, at first, the validity and invalidity of general cognition. Afterwards, the issue is fo- cused on those of verbal cognition. The opponent shows various reasons why the causal factor for the validity is not the guna, or epistemic excellence, but is in fact the absence of the dosa, or fault. Udayana, when he criticizes those assertions, does not put forward Naiyayika theory but puts forward the third theory as the Intrinsic Theory of Invalidity.
+Threetheoriesin the Nyayakusumanjali
+To explain, the opponent'stheory is that the validity and invalidity are ontolog-
+ically determined by means of, respectively,the absence and presence of the dosa (henceforthI referto thistheoryas intrinsic"arising"ofthe validity).On the other hand, Udayana puts forward the Intrinsic Theory of Invalidity which asserts that both properties are ontologically determined by means of the presence/absence of the guna (hencefortihn,trinsi"carisingo"ftheinvalidityB).ydoingso,Udayanashowsthat both theories are compatible whether the causal factor for the validity is the dosa- bhava or the guna. (NKuspp.211.1-217.1)
+Lastly, Udayana, having made the opponent admit that we can establish the two compatibletheories to explain the properties of the validity and the invalidity regarding mundane verbal cognition, then proceeds to a discussion of those proper- ties of the Veda which are not attributed to any author.2)
+■Argument presupposing the Veda as being authorless (NKus p.218.2-4)
+The opponent, presupposing that no-one composed the Veda, proposes a syllogism which leads to the validity of the Veda. For, the absence of the author, which means the absence of the ontologicalcause, implies the absence of the dosa in the cause.
+Against this, Udayana shows the antagonistic syllogism which leads to the op-
+positeconclusiononthe groundsof thethird theory(i.e.intrinsic"arising"oftheinva- lidity).By doing so, he points out that the opponent's theory results in an undesirable
+1057
+ (30) Udayana's Critique of the Intrinsic Theory of Validity (T. SHIDA)
+consequenceof having another antagonisticsyllogism(*satpratipaksa).3)
+■Argument presupposing the generality of the validity (NKus pp,218.4-
+220.2) Then the opponent asserts that we cannot have even any doubt about the validity of the Veda on the grounds of intrinsic validity at the epistemological level, which means that we are inclined to believe or accept what manifests initially on ourcognitionas true (henceforthIrefertothisasintrinsic"acceptance"ofthevalidity).
+NKuspp.218.4-220.2s:vata evapramanyaniscayahk,in to sankamatramanenapaniyate, dosanibandhanatvattasya tadabhave'bhavat,ato nedamanumanavatsatpratisddhani- kartumucitamiti cen na/gunanivrttinibandhanayashankayahsulabhatvat/ [Opponent:T]hedeterminationofthevalidityispreciselyintrinsic.Butonlythedoubt [aboutthe validityof the Veda]is removedby this (i.e. the propertyof not havingthe dosaofthespeaker).For,thedoubtisbasedonthedosa,andthereisnot[doubtaboutthe validityoftheVeda]inthecasethat[theVeda]doesnothaveit(i.e.thedosa).Therefore, we cannotlet it (i.e. thejustificationof the Vedabasedon the intrinsic"acceptance"of the validity)have anotherantagonistictheory(*satpratisadhana)[.Udayana:[]It is] not [cor- rect].Becausewecaneasilyhavedoubtbasedonthelackoftheguna.
+In the above argument, the opponent asserts, first of all, the principle of the intrin- sic "acceptance" of the validity, which means that a cognizer believes or accepts what manifests on his cognition in the meanwhile.4)Moreover,he asserts that the property of not having the dosa of the speaker removes the doubt about the validity of the Veda. Therefore, the intrinsic "arising" of the validity, which means that the validity and the invalidity are ontologicallydetermined respectively by means of the presence/absenceof the dosa, with support from the intrinsic "acceptance" of the validity,rules out eventhedoubtaboutthevalidityofthe Veda.The opponentthere-
+fore concludesthat we cannot make any antagonistic theory against it.
+Then Udayana shows the possibility of doubt about the validity of the Veda based on the theory of intrinsic "arising" of the invalidity.However,he does not
+propose the antagonistic theory against the intrinsic "acceptance" of the validity,but rather states in the above argument that we have doubt about the validity of the
+Veda on the grounds of the absence of the guna; and to come to doubt something implies acceptance of the thing as true in the meanwhile.5)
+Nonetheless, Udayana criticizes the intrinsic "arising" of the validity on ac-
+1058
+ Udayana'sCritiqueoftheIntrinsiTcheory ofValidity(T.SHIDA) (31)
+count that it cannnot prove the authority of the Veda because there remains the pos- sibility of the intrinsic "arising" of the invalidity.
+2 Critique of the Intrinsic Theory of Validity in the TS
+We can confirm a similar critique of the Intrinsic,Theory of Validity in the TS of Santaraksita.What differentiatesthe critique of Udayana and that of Santaraksita is asfollows;whileUdayanashowsthethirdtheory(i.e.theIntrinsicTheoryofInvalidity) only when he argues the ontological aspect of validity, Santaraksita mainly shows the third theory regarding the epistemological aspect. Therefore we can say that Udayana'sthird theory is intrinsic "arising" of the invalidity,and Santaraksita'sthird theory is intrinsic "acceptance" of the invalidity.6)
+■Unrestricted Theory of Buddhists Several Iater texts, such as the Sarva-
+darsanasamgraha (SDS,ca 14C),state that Buddhists asserted the Intrinsic Theory ofInvalidity.7B)utmorethanafewscholarshaverefutedsuchafact.8)Forexample, in the 25th chapter of the.TS, Santaraksitahaving counterposed the restricted theo- ry (*niyamapaksaa)nd the unrestricted theory (*aniyamapaksas)tates explicitly that Buddhists accept the following unrestricted theory; the validity of some kind of cognition is intrinsic, and the validity of other cognition is extrinsic.9)
+TS k.2944p.938.7-8:yenaikaihsvataevetiproccair niyamaucyate/kincitsvato 'nyatah
+kincitparais caniyamo matah//
+For,some[polemicistsa]ssertloudlythe restriction;"[Validityis] presicelyintrinsic."On theotherhand,some[polemicists(]i.e.Buddhistsh)oldthe unrestriction";Some[validity of cognition]is intrinsic,and some[validityof cognition]is extrinsic."
+Incidentally,INAMI[1993]and KRASSER[2003] reported that the prototype argu- ment of this unrestricted theory had been already stated by Devendrabuddhi and Sakhyabuddhi(ca 7C),and that later Buddhists after Santaraksita instead state the unrestrictedtheory almostsolidly.10)
+■Intrinsic Theory of Invalidity in the TS However, the Intrinsic Theory of Invalidityis hypothetically referred to in the TS. For example, verses kk.3000,300I show the Intrinsic Theory of Invalidity,with small parts of Kumarila's verses changed.1T1h)ere,theIntrinsiTcheoryof Invalidiitsystatedas followsI;f Mimamsakas assert the Intrinsic Theory of Validity, then we can assert the opposite inthesame manner.12)
+1059
+ (32) Udayana's Critique of the Intrinsic Theory of Validity (T. SHIDA)
+This Intrinsic Theory of Invalidity in the TS is argued at the epistemological level. It would be, regardless of whether it is valid or not, intrinsic "acceptance" of the invalidity.The keystone of the theory is to doubt the validity of every cognition in principle. Therefore this theory seems to be an extreme skepticism.And it repre- sents the point that differs from the argument of Udayana in the NKus.
+3 Conclusion
+Regarding the svatah/paratah problem, Udayana shows the third theory as the Intrinsic Theory of Invalidityin the NKus, as did Santaraksitain the TS.
+Santaraksita,however,hypotheticallyshowedthe Intrinsic Theory of Invalidity in the TS. His theory is argued mainly at the epistemologicallevel, and therefore seems to be a theory of intrinsic "acceptance" of the invalidity, which is a kind of skepticism.
+Onthe otherhand,UdayanashowstheIntrinsicTheoryofInvalidityonlywhen he argues the origination of the validity, which explains the origination of validity/ invalidity on the grounds of the presence/absenceof the guna (i.e. intrinsic"arising" of the validity).But he does not propose such a theory at the epistemologicallevel. ThismeansthatUdayanashouldhavedifferentiatedclearlythesvatah/paratah prob- lem into the two aspects of origination(utpatti)and justification (jnapti).
+This critique of Udayana disadvantages the opponent's theory in that it leaves
+roomfortheexistenceofanotherantagonistictheory(*satpratisadhana)M.oreover,it
+is estimated that the concept of the *satpratisadhana is somethingwhich has merely
+generalized the concept of having another antagonistic syllogism (satpratipaksa)in the case of inference, which is one of the logical fallacies(hetvabhasa).13)
+〈 Abbreviations & References〉
+NKus: Nyayakusumanjali,Sri Padmaprasada Upadhyaya & Sri Dhundhiraja Sastri (ed.), Kashi Sanskrit Series 30, Varanasi, 1957.
+TS(P):Tattvasamgraha(Panjika),S.D. Shastri(ed.),Varanasi,1968. SASTRI[19281"Forgotten Karikas of Kumarila," The Journal of Oriental Research Ma- dras 1,pp.131-144.
+INAMI[19931"Theory of Truth in the Buddhist EpistemologicalSchool: Devendrabuddhi and Sakyabuddhi(Bukkyo Ronri Gakuha no Shinri-ron: Devendrabuddhito Sakyabud- dhi), Studies in original Buddhism and mahayuana Buddhism: in commemorationof late
+1060
+ Udayana's Critique of the Intrinsic Theory of Validity (T. SHIDA) (33)
+Prof.Dr. FumimaroWATANApBp.E8,5-118.
+ONO[2002]"On anumanabadhitanumanTa:heNyaya'sProcedureof JudgingTwoInfer- encesConflictingEachother(Suiriwasuiriwohaigekisuruka)",StudiesofBuddhisCtul- ture (BukkyoBunkaKenkyuRonshu)6, pp.3-19.
+SHIDA[2006]"On the CausalFactorfor Validityat the Originationof CognitionW: hat arethegunaandtheGeneralCauseofCognitioninNaiyayikasp'aratahpramanyavada?," Journal of IndologicalStudies18,pp.114-136.
+*Asto otherreferences
+, seethosein my articleSHIDA[20061. 1)ThoughIproposethisschemaforthesakeofconvenienceit,mightnotberelevantF.or,
+theactualMimarpsakamsustnothaveneededanycausalfactorforthevalidity.Therefore, eventhe expression"V[alidity]'scausalfactor"itselfmightnot havebeenacceptedby them. 2) Cf.NKusp.217.1-2p:auruseyavisayeiyamastuvyavasthda,pauruseyeto dosanivrttyaivparamanyamiti,... 3) NKusp.218.2-4:tathapivedanimapauruseyatve siddhe,apetavaktrdosatvaedvapramanyamsetsyati,tatahsiddhepri manyegunabhavepi tad iti dosabadvaevahetur akaranamguna iti cenna/ apetavaktrgunatvensaatpratipak- satvaprasangat/ 4) CommentarieosfNKusalsointerpretthattheopponentheredis- cussestheintrinsic"acceptance"ofthevalidity.cf.NKusBopp.235.23-236.1N,KusPra p.218.4-6. 5) Regardingwhethertheintrinsic"acceptance"ofthevaliditymeansthein- trinsicjustificationor not,Udayanawillargueinthe followingsectionof the NKusabout
+jnapti. 6) I havementionedthedemarcationproblembetweentheontologicaalspect(ut- patti)andepistemologicalspect(jnapti)ofthevalidityinSHIDA[2006]. 7) Cf.INAMI
+[1993:p.1131.8)INAM[I1993]H,ATTOR[1I997]K,RASSE[R2003].9)Cf.TSPadTS k.3122p.981.12-15I,NAM[I1993:pp.86-88],HATTOR[1I997p:.3681. 10)Cf.HATTORI [1997p:p.368.6b-369.6]. 11)TSkk.3000,3001:tasmatsvatopramanatvamsarvatraut- sargikam sthitam/badhakaranadustatvajnanabhavad apodyate//tatha bodhatmakatvena buddhehpraptapramanata/yatharthajnanahetuttahpaogduynaatjecn/fa/n,SaVdck.53, SASTR[I1928]. 12) Cf. TS k.2999 p.954.1-2: anayaivopapattya syad apramanyam api svatah/ tatrapi sakyate vaktumyasman nyayo yam idrsah// "Invalidity wouldbe intrinsic too just in the same logic. For, [we] can state the following logic regarding it (i.e. invalid- ity)." cf. TS k.2845 p.911.11-12. 13) Comparing the two concepts of satpratipaksa and satpratisadhana, the former means that an inferential syllogism has another antagonistic syllogismwhich leads to the opposite conclusion(cf. ONO[2002]).On the other hand, it
+is supposed that the latter means we can establish two compatible theories, both of which have no deciding clincher. At least, we can safely say that Udayana takes something dif- ferent from inferential syllogism into account, because he let the opponent state "unlike inference(na... anumanavat)."
+〈Key Words〉 Udayana, pramanyavada, satpratisadhana, Nyayakusumanjali
+(Part-time Lecturer, Tokai University, D.Litt.)
+1061

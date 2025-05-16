@@ -1,0 +1,187 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+印度學佛教學研究第58巻第2号 平成22年3月 (231)
+Tattva binduにおける語の 分節につ い て 川 尻 道 哉
+1. 問題提起
+i)
+vacaspatimiS r9a  Tattvabind u 似 下 TB ) に お け る 語 意 認 識 に
+ 筆 者 は こ れ ま で
+関する議論につ い て検討してきた2).具体的には， V5caspatiはKumErilaに依拠
+，
+して， 言語的認識は根本的には音素(van〕a)に基づくとする主張を支持し， それ と対立するところの，言語が不可分の実在であるとするス ポータ説を批判してお り， TB における議論は， 仮想的なス ポータ論者を立てて， その主張するところ
+を音素論の 立場から論難するとい う構造をなして い る.
+ 語意の 認識が生じるためには， 語を構成する複数の音素を聴い た人間が， それ
+らの 音 素 を他 の 音 素か ら分 節 し， さ ら に な ん らか 単一 の も の と把 握 し な け れ ば な
+らず， VRcaspatiはそのような分節および単一性を確保する要因をス ポータでは なく，外的限定要素 (upEdhi )であるとしてい る.そこで本稿では， TBにおい て 展開されるス ポータ論者と音素論者との仮想的論争を特に語の分節とい う観点か
+ら再検討し， vacaspatiによる語の分節のプロ セスに関する理論を解明すること を目的とする.
+2.
+ これも筆者が既に考察したように3)， VEcaspatiの言うupfidhi とは，「一つ の認 識の対象であること(ekav 晦 navi爭ayata )」および 「一つ の指示対象の理解の原因で あること (ekabhidheyapratyayahetuta )」であり4)， 複数の音素が何らかの まとまりを
+持 つ 一 つ の 厂語 」 と し て 認 識 さ れ ， か つ 一 つ の 意 味 を 表 示 す る と い う 現 実 の コ ミ ュ ニ ケーショ ンでの現象が 「語」の単一性を保証するとするが， Vscaspatiの言及 するス ポータ論者は， この upZdhi とい う考え方を論難する.まず， 外的限定要 素が知られてい なければそれによっ て分節された認識は生じず5)， 第二に， 単語 ごとの節目(avadhi )は， 、単語とい う形が成り立たなければ意味の指示に貢献し
+NI工I工-一Elleoetcrotnlroonic Llibrbaryary Service   
+外的限定要素と相互依存
+一 886 一
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(232)
+Tattvabinduにおける語の 分節につ い て
+結局意味と外的限定要素は相互依存( 誘raya) に るから paraspar 関係 あ
+ない ために
+，
+である6).連続する音からある単語が分節されるにあたっ て，意味が分からなけ れば音の分節は不可能であるの に， 音が分節されなければ意味は理解されない .  vacaspatiが TBにおい て，ス ポータ論者による論難として言及する， こうした外
+的限定要素による語の 分節とい う考え方を相互依存であるとする言説は， Mai1danamiSra がSphogasiddhi似下∫∫)7)で述べ てい る内容に対応する8>. Mapdana は∫∫ にお い てまずこう述べてい る.
+ある論者は語について 一 一
+， つ の認識によっ て把握されること，意味が つ であることに
+基づいて単一性をいうが，〔本来単一のものと，外的限定要素(upEdhi )によっ て単一で あるとされたものの閭の〕区別の原因がない ことから，あらゆるものにつ いて 〔本来の
+単一性を〕放棄するもの となろう9).
+ この ように， Marpdanaは外的限定要素に関して 「一つ の認識によっ て把握され ること(tadgr巨hya)」および「意味が一つ であること(ekirtha)」とし， このような
+外的限定要素によっ て単語が分節されるとい う主張に対する批判を展開してい る，
+ 実に， 語の形の節目(avadhi )を知らない ものは， 意味を理解しない .他に節Hを把握  するとい うことが縦令あっ たとしても， 音素には意味の理解はない から.そこで， 意味  の理解によっ て特定の語の形の節Hを想定するものは， 相互依存とい う難問に人り込ん  でしまうtまた， 音素の単一の意味との連関説も，語の単一性をもたらすものではない.  語とい う形を持たない音素は，それ自体意味を理解させるものではないの で.関連して  いない ものの関連を説くことは不適切だからであるIO)，
+ この Mapdana の批判を， 上述の ようにV互cag. patiはスポータ論者による外的限 定要素論へ の 論難として念頭におい て い ると考えられる.
+  外 的 限 定 要 素 に よ る 語 の 分 節 を 相 互 依 存 だ と す る 批 判 に 対 し ， vacaspati は こ のように述べ る.
+〔音素の〕連結の認識は単語 (pada)による限定に基づくものではなく，単語の認識こ そがそれ自体に基づくのである.なぜならpadaとい う語は「それによっ て知られる」
+と い う (語 根 pad に karakaを 示 す 語 尾 lyutが 付 与 さ れ て 作 ら れ た も の で あ る )語 源 を 持 つ ので， 特定の行為主体として 〔意味を〕表示するものだからである11).
+ すなわち，単語(pada)が一つのまとまりを持つのはその意味によっ て分節さ れるからではなく，それ自体が意味を表示するユ ニ ッ トとしてあらかじめ分節さ れたもの として世問的に知られてい るの だから， 音の分節が意味に依存するとい
+うこ とはない ，とい う趣旨である.たとえば軍隊は象， 歩兵， 戦車などの複数の 要素の集合であるが， それらを包含する総体として 「軍隊」とい う単語の用法が
+885 一
+(川   尻 )
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+Tattvabindにuおける語の 分節につ い て (川 尻) (233)
+世間的に確立してい る.「軍隊 (sena )」とい う単語が 「軍隊」とい う意味を表す の は ， そ も そ も 能 記 と 所 記 の 関 係 が 本 源 的 に 成 立 し て い る と い う前 提 に よ る も の
+であっ て， のである，
+その前提はヴェ ーダに遡る以上， ス ポータ論者もまた共有してい るも
+ vacaspatiは以下の ように述べ る.
+ そのように 〔単語という形をとる〕音素が， そのような異なっ た本質を有するもの (単  語)であることは， 異なっ た音素， 数 (分節される範囲)の異なる音素， 数は同じで順  序の異なる音素に基づくものではなく， 最終的な認識を生じさせる 〔音素が単語である  こと〕は意味の理解の以前には生じない.そのように〔生じない〕ものは， 特定の結合  の構成要素が把握されない場合に特定の結合の構成要素を指示しない の である.一方，  他の形態を有する もの と，それら最終的な認識をもたらすもの の 区別につ い て，我々 は  以下に述べ よう12).
+  こ こ で い う 「特 定 の 結 合 の 構 成 要 素 」 は 意 味 で あ り ， 音 と 意 味 が 結 合 し て 一 つ の言語記号が成立する.記号における音は分節を伴っ て単語とい う形を取るので
+一方で 「最終的な認識をもたらす もの」は音素である.ga的とaSva のように全く異なる音素， nadi とdinaのよう
+に順序が異なっ ていたり， あるいはvrsaとvr串abhaのように数の異なるような音 素からは意図される意味の理解は生じず， 特定の順序を持っ た音素が単語として
+構成されて初めて音素は意図される意味を伝えることができる.単語が単語たり うるのはupadhi によるのだが， それによる単語の分節は既に述べ たようにあら
+かじめ知られたものであっ て， 意味に依存して分節されるのではない.  そしてvacaspatiは述べ る.
+ 一つ の指示対象の理解の原因であることが決定したそれら〔音素〕が，しかる後に 「単  語(pada)」という名称で呼ばれることが妥当ではないということはない 13)，
+ したがっ て， 「単語」が 「単語」とい う名称を獲得する， つ まり複数の音素が
+単語として一つ の認識の対象になるの は 一
+， つ の指示対象の理解の原因となっ た
+後の ことであり， 言い 換えれば一つ の 認識の対象になる際に指示対象の理解には 依存しない ので， 相互依存とい う論理的欠陥は成立しない とい うのがvacaspati
+の 主張なの で ある.
+3. 結論
+ 以上見てきたように， VEcaspatiは (M衂ana をおそらく念頭に置い た)ス ポータ
+論者による，外的限定要素という発想は相互依存に陥るという論難について 一 ，
+あり，
+「他 の 形 態 を 有 す る も の 」 が 単 語 だ が ，
+一 884 一
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(234) TaUvabinduにおける語の分節につ いて (川 尻)
+つ の意味の理解の原因となることが一つの認識の対象となることに先行するとい う順序が確定してい るの で， この 二 つ は相互に依存する もの ではない と反論して
+い る.ある単語がその形態を持つ ことはあらかじめ知られた事柄であり， その単語と意味の 関係もまたあらかじめ定められた本源的なもの である.した がっ て， 意味を知らなければ単語の分節が行われない とい うこ とはない，と vacaspatiは主張してい るのである.
+ しかしながらvacaspatiは， 意味を表すものが音素であるとい う立場を堅持し
+ながら， 単語を「それによっ て意味が知られるもの」とも定義しており， すなわ ち 複 数 の 音 素 が 単 語 と い う l 彡l を 取 ら な い 限 り 意 味 を 伝 え る こ と は で き な い の だ か ら， 単語を音素と意味を媒介する概念として位置づ けてい ると埋解することもで
+きる.
+ 言い換えれば， vacaspatiは外的限定要素というプロセスを強調することで単
+語に一定の独立性を付与し，その主張は 「従前の音素から生じた潜在印象に伴わ れた最後の 音素が意味を表示する もの (pratyayak)aである」とい っ Sabarasv五min のテーti 14;， と必ずしも一致しないのではないかとも考えられる. vacaspatiの批 判の対象となっ てい る総合的認識に基づ くス ポータ説を他所で見出せない こと15〕
+と併せて，TBにおいて展開されている語意認識のプロ セスに関する議論はかな り独特のものである可能性がある.その点につ い てはさらなる精査が必要である と考える.
+1)本稿は [Sastr，i1991(reprint )コに某つ く. 2)[川尻， 2003」，[川尻，2007]
+3)[川尻， 2007]
+4 ) TB .， p.50， U.3−4.
+  up 互dhih khalv ekavijfi 巨navi 畢ayat 瓢va  l)haved ek 翫bhidheyapratyayahet uvfti f1i 5)TB.， p.50， Z.4−p.51， Ll.
+  apratitopadher  upahitapratyay 巨yogEt f
+6 ) TB .， p.51， ll.3−4.
+  uttarasiminn  api pak$e paτaspar 酷rayaprasaktir  durvar訌ノna khalv aviditapadarUp 夏vudbir   artham  avaiti  1
+7) 匚Sastri， 1931]
+8) [丿li尻 ， 2007]
+9) SS.， p.183， 〃.1−2.
+  tadgr巨hyaikfirthEbh巨yrp ca Sabde呂u vadat 翫kat翫皿 f
+  
+  vivekahetvabh 亘vena sarvatrots 蕊ritEbhavet〃
+一 883 一
+そして
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+TattVabindにuおける語の 分節につ い て (川 尻) 10) ∫∫，p.186， ∫∫.4−p.188， 1.1.
+    na  khalv aviditapadar 【ip...ivadhir
+apratyayEt  / tatr巨rthapratlt蕊y       padar
+(235)
+    互vi 自ati !na  caikarthasambandhakhyanam
+    anaSritapadari ]panain apratyayakatv
+11) TB .， p .55，1.1− 3.
+    na  hi pad 巨vadh 翫rap 翫dhln的 sambandhabodhah     kdTakabhed5bhidhe hyi padalp padyate’neneti vyutpatty 翫1 12) TB.， p.56， i.1−p.57， 1.2.
+訊m 蕊p5dayati ， va ゴ畷 tmanam
+    na  ca  svarUpabhedas
+t5d≦as 
+tarebhyo
+t互vadbhyo
+v 蔑  
+’t訌d      ;gbhyo
+hedagrahe     
+互皿  na  sambandhibhedo 皿
+arthapratyay
+巨t  百k na   !
+pr prathateyena
+ sa 皿 bandhib−
+  ; ’ntyuvijfiEnoparohi4
+ 
+    cararnavijfi蕊nanive6in互rロvi6e爭am agre vak爭y 油/ 13) TB .， p .57，〃。3−4.
+    pUrvavamajanita田sa ’ 15) [川 尻 ，2003]
+〈参考文献〉
+[1] Sastri， V 。 A . R . ed .: 躡 μ レ α
+ ado ah / 口 Pratyyaka ity $
+ 
+  Ma
+ 
+yMadras (1931).
+in
+sUniverstiy Sans t Sehes
+Madras
+ artharp    avadhyantaraparigrahe pratyeti
+ta伉ve ’pi var 阜諷n 蕊m
+  [ipfivadhiviSaem  upakalpayan  duruttaramitareta≦raEyam
+亘t asambandhin ，
+balld田lidiyahiEyog1at
+t匿vat巨1丶/an n巨 varp亘且 口 頂 即
+’
+ va tfivadbhyas
+skarasahito ntyo var ah  巨  
+b跏ゴ〃
+    Tatn，avibhavana  of Parames ”varα， No.3in A皿namalai  University Sanskrit Series， Navrang，
+AMc酉ryama44anamis
+h
+’ 忽 々R’
+(
+ 
+  
+ira
+. ， Universit ，
+qブV召caspatimis
+γ
+   Now Delhi(1991(reprint ).
+[2]川尻道哉:「TattvavabindにuおけるanusamihErabuddhi につ い て」， 『印度學佛教學研究』，
+   Vol.51， No .2， pp .71−75 (2003).
+[3]川尻道哉:「Tattvαvabindu におけるanusamiiarabuddhi とupEdhi」，『.東海大学総合教育
+ セ ン ター紀要』，VbL 27， pp.53−59(2007).
+[4] Sastr， iS。 K . R. ed .:
+ 舜1疏膨 鼠No.6
+’
+Tavira (rittr SJ
+‘丿 31諾融 ゴ iputraparameSivarakrtag一o “
+[5] Nyayaratna ， P. M . ed 、; Tli eApkorisrns(〜f the anm 面msa  by Jaimini with  CommentaXy of     r −
+(東海大学准教授)
+   SabaTasvimin ， VbL  45 10fBibliotheca加 4たα ， Biblio Verlag， Osnabrttclk(1983 (reprint )). <キーワード>sphota ， upadhi ， 相互依存
+一882一
+筝  ekapadat
+知 sa 皿
+ kin tu tadadhlnalp  padajfiEnam !
+ir廿 !  tu tebhyah  teSEm  eva pyate prakEr5ntarabhyas
+    samavadlUtaikEbhidheyadhihetubhAv 翫n五m ca paSc巨t te諏甲 padam  itivyapadeSo
+    伽 pap ab  11
+正4) [Nyayaratna， 1983(reprint )， p.13， 11.15−16]
+)
+’
+ra ; edited  with  the commentar
+ 
+ 
+ 
+NI工I工-一Elleoetcrotniroonic Library Service

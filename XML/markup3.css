@@ -1,0 +1,135 @@
+@namespace xml url(http://www.w3.org/XML/1998/namespace);
+/* 
+參考以下網頁 css pallette 修改
+
+1. Qualitative color palettes @ D.2 Essentials of color @ Data Science for Psychologists
+https://bookdown.org/hneth/ds4psy/D-2-apx-colors-essentials.html#qualitative-color-palettes
+
+2. pal_unikn_pref # color palette of 9 preferred colors
+Color code of Viewing color palettes with seecol() @ unikn, DS package for R
+https://hneth.github.io/unikn/#viewing-color-palettes-with-seecol 
+
+並運用以下工具轉換顏色RGB值為HEX值
+RGB to HEX Color
+https://www.rgbtohex.net/rgb/
+*/
+
+* {
+    line-height: 2em
+}
+ref {
+    border: solid 0.01px Blue;
+    background-color: #F0FFFF;
+    padding: 0 4px;
+}
+ref:before {
+    content: 'R';
+    color: white;
+    background-color: blue;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+ref[xml|id]:before {
+    content: attr(xml|id);
+    background-color: white;
+     border: 1px solid green;
+    color: green;
+    font-size: 1em;
+    padding: 0 4px;
+}
+
+canon {
+    color: #e0607e;
+    font-weight: bold;;
+}
+canon:before {
+    content: '藏';
+    border: 1px solid #e0607e;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+v {
+    color: #0a9086;
+    font-weight: bold;
+}
+v:before {
+    content: '冊';
+    border: 1px solid #0a9086;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+w {
+    color: #3e5496;
+    font-weight: bold;
+}
+w:before {
+    content: '經';
+    border: 1px solid #3e5496;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+p {
+    color: #8e2043;
+    font-weight: bold;
+}
+p:before {
+    content: '頁';
+    border: 1px solid #8e2043;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+c {
+    color: #f29e0c;
+    font-weight: bold;
+}
+c:before {
+    content: '欄';
+    border: 1px solid #f29e0c;
+    font-size: 0.5em;
+    padding: 0 4px;
+/*     font-family: Arial, Helvetica, sans-serif;*/
+}
+l {
+    color: #efdc60;
+    font-weight: bold;
+}
+l:before {
+    content: '行';
+    border: 0px solid #efdc60;
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+
+ptr[href]:before{
+    -oxy-link:attr(href);
+    color:white;
+    background-color:darkblue;
+    font-size: 0.8em;
+    content: "Link" ;
+}
+
+ref[checked="1"] {
+  content: oxy_button(
+   action, oxy_action(
+            name, '已檢查', 
+            description, 'set checked to 0', 
+            icon, url('icons/ckbox-ch.png'),
+            operation, 
+             'ChangeAttributeOperation', 
+            arg-name, 'checked',
+            arg-value, '0'), 
+    showText, true, showIcon, true, color, blue)
+}
+
+ref[checked="0"] {
+  content: oxy_button(
+   action, oxy_action(
+            name, '未檢查', 
+            description, 'set checked to 1', 
+            icon, url('icons/ckbox-em.png'),
+            operation, 
+             'ChangeAttributeOperation', 
+            arg-name, 'checked',
+            arg-value, '1'), 
+    showText, true, showIcon, true, color, red)
+}

@@ -1,0 +1,678 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+印度學佛教學研究第 57巻第 2号 平成 21年 3月
+   Buddhaguhya と Anandagarbha の
+『一 切悪趣清浄儀軌』の 註釈構造につ い て
+中 島 小 乃 美
+はじめに
+ こ の 『 切 悪  Sarvadttrgatipaordhiasnakalpan δma D.No.483.ta P. 一趣清浄儀軌Jl’ .(，
+No.116、ta)は瑜伽タン トラ (y・ )に属 る 軌1)である.これには gatantra す 経 大部な註
+釈が5本あり， 「大凵経」と 「金剛頂経』を註釈したBuddhaguhya 似下， BG)の
+字義釈，『金剛頂経』と 「理趣広経』を註釈したAnandagarbha(以下， 入G)， その 他にKamadhenu，  vajravarmanと著者不明の ものがある.
+ チベ ッ トの 高僧ツ ォ ン カバ (Ts・ng kha pa B1・ bzamg grags pa’i dpal， 1357−1419)もこの 経軌に対する割り注を残しており，その冒頭でこれらの註釈につ い て以下のよう
+に述べている.「BGのものは， BGのお言葉をノートしたもの， 入Gのものは， チベ ッ ト人によっ て書かれ， 入Gの名前を借りたもの...」(IHa sa.2b， bK・a shis lhu皿
+p・ .2b)としており， これらの真偽につ いては先行研究でも検討されてい る2〕.続 い て ツ ォ ン カ バ は ， 「こ れ ら の 著 作 に は 不 適 当 な と こ ろ も あ る が ， イ ン ド の よ い
+ところも多く残しており，
+shis  
+lhuui・.2bとべ い
+だけでは片付けられない ものがあり， ころが多いことがわかっ た.
+ 
+p ) 述 て るように
+実際に読み 進めて みる と
+瑜伽タン トラを理解するヒで示唆されると
+それらを吟味して理解すべ きである」(IHa sa.2b， bKra
+，
+，
+単に真偽の 問題
+これらの註釈中から主に 入Gの註釈を取り挙げ， BG の註釈と比較す LAnadagarbha の 註 釈 と Buddhaguhya の 註 釈 との 違 い
+ 今回は，
+るこ とでその構造の特徴を明らかに し， 経軌理解の一助としたい .
+， uttaratantra ， uttara −uttaratantra の三つ から成り， 合わせて
+ 本 経 軌 は ， malatantra
+12のマ ンダラを説く.普明ヴィル シャナマ ンダラを説くmutatantra の解釈では，
+BG が 『大日経』寄りの深秘釈を示してい たの に対し， AGは 『金剛頂経』寄り の 解 釈 を 示 し て い る 3 ).
+NI工I工-一Elleoetcrotnlroonic Llibrbaryary Service   
+一 1036 一
+(107)
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(108)Buddhaguhya と入nandagarbha の『一切悪趣清浄儀軌1の註釈構造につ いて(中 島)
+ また入Gは， 註釈のはじめに科分を示し， マ ンダラごとに三三摩地 (第一瑜伽， 内心マ ンラ最勝土三摩地 羯磨最勝土三摩地)’1) として解釈することを示してい る (表
+1を参照).この ’:;t摩地とい う悉地にい たる次第が説かれるの は よりもむしろ本経軌と同様に釈タン トラとして知られる Vqira.“ekha アamahaguhy α一
+P.No .113， nya ) に お い て で あ る 5).  AG は 『金 剛
+  yogatantra(以下， V氤 D.No.480. nya ，
+『理趣広経』の 註釈でも同様に三三摩地を用い て註釈してい る6).BG も Tantrarthavatara.(D.No.250].’i， P.No.3324. dzi)のrl iでVSを引用してい るため， 経典
+の存在は認識してい たはずだが， 本経軌では三三摩地としての解釈を示さず字義 釈としてい ることから， 意味を理解することに主眼をおい てまとめられたもので
+頂経』，
+ある と考えられる.
+ 更にAGは註釈の中で 『大日経』，
+「金剛頂経』，
+『理趣広経』，
+『金剛手灌頂タン
+VS の
+抜 き， 20 カ 所 ほ ど に 見 ら れ る 7). そ の ほ と ん ど が mUlatantra の 解 釈 に 当 て ら れ ， 次い で uttaratantra の最初に説かれる釈迦牟尼マ ン ダラの 解釈に僅かに見られ， そ
+れ以後は引用表現その もの が見当たらない . 2.註釈の配分とコ ロ フォ ン
+ AGの註釈は，最初の科分ではuttara−uttaratantra までの三三摩i地が示されてい たが， 実際の本文はuttaratantra までで終わっ てい る (表1を参照).そして通常，
+巻末に見られる著者名がuttaratantra の科分の後， uttara−uttaratantra の科分の後， 而 latantraの註釈の最後に，そしてuttaratantra の註釈の最後， すなわち本註釈そ のものの最後の計4ヵ所に見られる.その最後のコロフォ ンに見られる著者名が
+北京版ではBudahEnandagarbha， 「slob dpon sangs rgyas kun dga’ snying pos mdzad  pa rdzogs so11」(P，114b)となっ ている.
+ また， 註釈の配分は根本マ ンダラの普明ヴィルシャナマ ンダラが説かれる mUlatantra は63葉 (約64.9%)，釈迦牟尼マ ンダラから天部のマ ンダラ，合わせて
+10のマ ンダラが説かれるuttaratantra は34葉(約35%)であり， マ ンダラの説か れる割合からすると， ひどくバランスの悪い構成となっ ている.
+ 
+D.N・.496. da P.N・。130.da い
+トラ』( ， )などを引用して るが
+，
+中で も
+引用は群を
+一 1035一
+，
+『金剛頂経」
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+BuddhagtLhyaと入nandagarbha の『一切悪趣清浄儀軌』の註釈構造について(中 島)(109)
+尸
+艦
+雪H§
+H円
+雪
+鬥
+ゆ 雪雪H
+養掴 認 專 ρゆ 8N 專 專磁 ρ鬥 ρN18
+櫪1 ゚QI』H マ1ゐゐ18 − 亠お邸
+α鬥
+瓠 日£專 £磊o  ゚D三Σ雪 σq
+藁 牽尊 e 佃  、  拯薀  恥  鰥 
+爨  (も、疑 駄
+侵     製 巛駆胆 劉八 、
+齷G    繍山 ぎ  e ト  培  壷 驪  十八 . 品 る、  薄  螺 郎  .蝋鼠 (難 辺 測 
+  e4蟹藩.糯e 剣 
+屡 八  椅黏置 逗洲 田     糴 転  e刃・() 鋸 鑿  い  o ゼ( 掣甑)善怒龕鑼 嗜  転  中団 駆羅 枳醍彊潔・邸轄暴か( 八 
+ん
+叢 輕≦智 劃鰹梶暉 轟蠻妹貍 レ 
+ゆ 語輙)余榊畷賢即鑾入暉1
+八黌劃蕪 焔
+% 螻旧繕誌 鏗釈匿諠鼎転緬綜卜” 罵血慈 一り
+転  韻ム 
+屡
+e (帽 堅 =邸 余霞 魯 臥み
+O 愚 e 葛目 ト bo 任 宕 示
+るレ  望、  ∀    
+O邸 藁巨勘
+轟糊)鋸 畷掣臥
+<= eO 恥 憂 鞄 最 恥 齢 入
+ゐヤ 轟鮮転”レ 宀b 暉1八e坦
+刃
+就
+曳 転 罫 簿. 譲. 卜 駆 血.
+=島韓椅洳 HN 岬 一
+疉O琶溢 ρ ゚っ 寺 三 轟 ミ 鴎雪ト
+一 騒ヨρ一
+飼圏齶ゆ
+1 ム
+H
+干
+ 山籠 爲ムゆ1 ゐ ー
+ ゚う 斗覊鵡 認畠
+、. 駐 壓 e e い ミ 
+髑 箪 営 晦 臥 ャ  e 、 龍  ふ b 
+(恥琿駅.斌 °
+ ト罫 躰  う (  
+虫費転 爨  、  、H 
+e樋
+凄崑ム騨暉醫甘  潭準 )  長 ・    
+e帽ト川.濫
+駕 N 壷  鞄勾斡掣蓐 
+邸雇嚇 e. 、(司 轟e爬顎邏( 拑日勘  誕盛監疆 糊鋸 牟 岶伽 虞忘埀ハ“ eOm) あ  鰹騨醒黜 藩)慣 藩. 孤は 幅 邂堰臥黙
+恥段鰹. ee謎 理闘N る、 覇黶e(A
+亠ヤ
+軸  轡榔柵湘憧握鞠憧.eN 9鍵イレ卜
+、
+鳶毎 肝’聴い鰹琿姻 癢霆蚕 譴 橙. 鑁囲艇ぐ弔
+転霽哩【み網ト・劉靼・糶も細鰹 睡k駕覃キ 終珈藩八體八........
+爨H垣鰹 製潔
+欄智贏心
+H °う 擘唆.寸ゆO卜
+一圦圦 一
+一 1034 一
+一
+(
+)
+田   鑿(
+駆
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(110)BuddhaguhyaとAnalldagarbのha『一切悪趣清浄儀軌』の註釈構造につ い て (中 島)
+響  I     
+°。     豊 
+( も剖
+  ，
+I
+l
+ 
+ 
+I  剰  
+I
+ 
+  」
+I 
+I
+ 
+  紺 ■
+嬖
+I  I 冬  
+I   ミ ■ 
+I  枢 1 
+1  慧  
+1  
+1 
+−
+ 無 1 
+ 瓜  
+1
+  e
+」濯  
+闘
+  盍
+蓮 瀬 翔
+. 喫
+悩
+. ゆ
+1 田 缸    
+1鳳賠蟄 区  鰹轡
+I  降
+l  
+，  
+I  
+I  
+【  
+i  
+I  
+「  
+I  
+ l I
+  l
+I    
+ 川思 鰹  3  灣       〕 慧  簑 
+1
+1  臥
+ 
+1
+ 駆
+   入 轡 圏  》
+ 
+    慰 o
+ 卜  
+  魁   臣
+ (細 滋 蛭 櫛   司 曜    継
+I
+   .輩 周 
+  」
+(
+I
+■
+ 〉濯 蟄 慧
+駆   e   貼
+   焔楚 鯉
+ I
+−    
+脚舞 罐剤隆
+   舞 羅 駆   覊 l
+纒
+  卜   .帚 絽
+〕
+I
+1    
+蕁羅翠
+〔
+ 
+ ロe転割悍聾鍵 綜  薩
+ 螺蓄八碧課蓮司 蔦.匚 如細
+  .
+ I □ べ 籾
+ζ卜齢章、灘 .綜 月 [
+  遷 コゆ 鰹 畿 I
+  魁
+  誕遷e川e蠏簑穩 マ巡 喫
+I  ζ誉     、恒 G
+闘
+ ζ、H蘇蕁蘇纒 雌 恒樫罧 裏
+  I噸 る 匿 駆   癬燮灘
+ 
+ 慶憂畏整邏、誕ゆ 怒樫蝋拳銀
+I
+岳 ∀ 姻 臥
+鋼囁区最直赴賢船逓
+  八
+囎  恥
+〕
+薄 .ヤ
+〔
+  . . . . 。 d
+°う
+1
+【暈 曵
+1  
+犀N灘
+鴒ぜ崘O隆報
+印  レ  
+1I図
+一
+ 
+鬥
+1
+I
+ 
+  D 8 8專 £ε
+湛  ゚っ 遇
+匡
+儒
+α
+ヨ
+1 
+ 扁寅
+ 
+1 1 1 18 18− 1
+  ρ
+』
+ ゚q18
+1
+鴇 薗
+丸
+閑
+£ 8 爭 05一  HN一 一 °qeqっ ゚っ
+1 O
+』 邸 ρ
+1  
+臼Nσq曷 斜
+1
+[    
+ずq N
+ 鈩     e1
+「
+I
+ .如   )
+°っい賢噸経 響 験
+I
+ 舞 
+ 癖   
+ ..蚤
+  田
+ □   .鮎O融 来   O断 凝
+1
+  1
+1
+。二自自 繭
+  八  蜑畢.溢  
+糂寵   .コ、寵e為
+)  要     樫
+1
+ e拳 .蓐隆避岬い櫛
+ 
+  ζ e 卜 郎 °。
+1艦     冬 1
+ 
+ 
+1
+ 黨    豊
+鹽ハe転.缸  劃牌
+斜
+σqN NNI  ゚っ
+、 艇   卑
+，※
+ 
+I 韆 臥臥 盡
+   卜  邏 .3
+I
+ 
+  萇 
+■
+ e 八 、八  騨
+    嘩 雪 (  蘇憩
+I
+  恥  
+I
+ 邸 卜 淘レ 畄  .
+  慧 寵
+ .ヤ
+  駄  O
+ 姑   e 紘  e  婚 陬
+l
+l
+  虫
+謎
+I  (  櫛  (  嘩 e. 善 鰹
+ 鴇鴇   購 匹   卜 緬擺翼穉 総駆
+箆輝鰹鰹
+み くe
+卩
+  臥八 劃
+I舶樋 疑べ唄 断 月
+ 
+  八
+  揖綴翼さ陣暉
+  八 9 、 舶 I置レ蕎鰹冬
+I 置 ぜ  や、1緬理   望御疊鉱
+■
+ 
+ 鯛 卜.く序%...騾ミ. e
+鯛 . .ぞ，
+I
+  . . .
+〇 °q°っ OHトαQ
+I一  
+艇N駆而蕪恥一
+蕁
+疹
+蝿曾単 專
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+印 卩
+一一
+一一
+     1 図
+一 1033
+」
+癬
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+BuddhaguhyaとAilandagarbのha「一切悪趣清浄儀軌』の 註釈構造に つ い て (中 島)(lll)
+3.Buddhaguhyaの註釈の影響
+ AG の mUlatantra の 解釈は，  BG とほぼ 同様の 形式を採 りながらも 『金剛頂経』 的な解釈を示していた.しかし， uttaratantra 以降， BGの註釈を.ド敷きにして，
+そこに三三摩地を加えるとい う註釈形式をとっ てい るように思われる.  九仏頂マ ンダラの解釈では， 「タン トラ説示者の特相」8)に同一表現が3カ所
+あり， 特にマ ンダラ諸尊の解釈は， 広範囲にわたっ てほとんど同じである (頁の 関係上，この部分の引用は省い た).更に 「天子無垢光の前業の異熟による請問」も ほとんど同じ表現が見られ， この部分から各マ ンダラごとの同一箇所をあげると 以一ドのようになる.なお表記中， ゴチッ ク体は経軌の文，下線は同一表現， はBGにあり， AG にない所を示した.
+【九仏頂マ ンダラ】「天子無垢光の前業の.異熟による請問」 〔le nas (P. nas −)tshangs  pa la sogs  pa’i lha rnams −
+〔〕
+sdug  bsngal gyi
+bu gyur’   
+’’
+nas lhar sk es ai don bstan to〃lhai          1 /1  ’ ’dbangponyon cigggS_p{Lg1g...E⊥彑一 旦』旦
+’
+dbang
+一
+  du
+snif nor 
+  k
+la
+kyi
+i〔ngan   smin 
+i〕
+ cig ci P.  zhig   rkyen (gcig) gi
+gyis塑
+rang  rang  bde
+ldan
+ゴl
+    〔
+skyi
+   7hes   a i
+bar i
+dri
+is
+sci 
+ 
+ 
+ 
+ sn on 
+ 
+ rnam    smin  
+par pa par pa 垈迦
+lan  
+’
+ 
+ 
+ 
+   skyes  zhes par
+ 
+ mam    smin par
+ ma  med aTod  
+! 〔ma  bngs〕yang  dus las’das so −
+’  as zhos  ao〃
+11as
+ba
+pa〕 ma  n es a’i don bstan te〆1〕ras bu n a皿 song  du s  e r   la srk en dran sron  dan  hrad
+dang
+bar sni la
+         phrin :!]991 P g−bs 1 ag それから梵などの諸天から苦の 目撃者までは， 無垢光の光明を以て以前から何をしたか
+’ zhes ai bar is ni sn on Ias mthun a i   las kyit l bt te!，
+とい うこ と.時に世尊がから未来時より超えるまで は， 業の 異熟因が説かれ， 同時に何 かの縁によっ てからおのおの喜楽を伴うものに生まれまでは， 〔業の異熟の〕未決定の 義が説かれ，果として悪趣に生まれ，因たる業縁として仙人と遇っ て天に生まれた意味 が説かれた.天主よ聴けからこれら天の 眷属であるまでは前業に一致する御作業の 相連 (因果関係)が説かれた.(D.75a−b，P.86b−87a)
+【断無量業障マ ン ダラ】「i名讃と勧請と許可」
+danitshedamedlasklsrib  abr  n (P.r n cod a’i〔rnaO.da]agyi 〕donbstan te!旦皇
+一 1dpag med  ni− ba’o〃las ni一
+鍍 Ω〃 sgrjb  pa ni nam  mkha 口d   (  −)   ’
+皿as a la s.rin isP.is osa  
+dan dra bar n
+zhi  la rto  a lo bur bas s rib (P. bs ribs) a’o 〔pa’i tha tshig go〕 !ノrgyun  gcod pa ni gnyen
+po las(P. lam)gyi ye shes kyis mi mthun  pa’i phyogs rgyun  geod ’ ggd
+壘 1/’khor ni − !de bshad a’i h jr zhu  ba la so  s aston
+亙91/
+今度は断無量業障 〔マ ンダラ〕義が説かれて，それに関し，寿とは智慧である.無量と
+一1032 一
+ 
+b
+pa o!  f dkyil ni gdpag.lpgg −d
+一
+NI工I工-Elleoetcrotniroonic Liibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+(112)Buddhaguhya と入nandagarbha の 『一切悪趣清浄儀軌」の註釈構造につ い て (中 島)
+は 一 切 法 を遠 離 し て い る こ と . 業 と は ， 善 悪 の 二 種 で あ る . 障 と は 明 浄 な 虚 空 を 雲 が 覆
+うに等しく， 阿頼耶を客塵分別が障碍すること.相続を断ずるとは，対治の 〔聖〕道(P.を 採っ た)の智 〔力〕によっ て ， 不一致の 見解の相続を断ずるこ と.mapda とは無量なる
+そ の 法 性 で あ る 。 la と は 寿 で 四 智 の .眷 属 で あ る . そ れ を 示 さ ん が 故 に 請 問 な ど が 説 か れ た . (D .75b，P.87a)
+【四天王マ ンダラ】冒頭部.
+de nas rgyal  po chen po bzhis LhLggLp−g11 ide nas  ni tshe d a med  irti ntho s su b un ba
+’byung ba’i   na  de nas  zhes  bya’o〕〆1rgyal   chen  po bzhi− 魎  〔 phyir   po
+P幽 〜〃
+次いで四天壬がとは， 次いでとは無量寿の後に出ているからそういう.四天王とは， 天
+の .下 で あ る か ら で あ る . (D .80a−b， P.93b)
+旧護法マ ン ダラ， 八大曜星マ ンダラ， 八大龍マ ン ダラ】三三摩地の みの 解釈で あるため， 同.一表現なし.
+【八大畏怖マ ンダラ】冒頭部. −
+bshad del de yang l−
+lha
+kyis> bdag
+  po’jigs
+  byed
+bshad
+brgyad bud mcd  chcn  po brgyad kyis bskor bas 1lh1−ggss!1ggs−1g!t壟 (P. de)ni gong gi幽 一 pa’o!!nas  ni − pab!11ha
+ 
+ rnams  
+do!ldc
+ nas 
+ chen   po
+kyi (P. 
+   par
+  pa
+ chen   po
+chon    m 乱ms  kyis P. kyi)zhes    nV  lha chen     tu11rts g rnams  so 〃 de la hg
+po
+(
+ 
+do〃 bud
+pa
+ponyl−s! −gglg
+鯉  chen  mo  brgyad ni maha de bai chung  ma
+仰せられ， それは前の 八大龍の後ろに続い てい るからである.からとは.八大.畏怖の 冒 頭 を 引 き 継 ぐ こ と . 大. 天 た ち の と は ， 二 . . 二 十 一 ・ 大 天 た ち で あ る . そ の な か ， 主 と し て 申 さ
+れたのは八である.女人とは自らの八大妻，mah 五devaの妻の...(D.86b， P.]Ola)
+【八大天マ ン ダラ】同一表現なし.
+【摧壊死魔無量寿マ ン ダラ】冒頭部.
+’ ’’口’
+ 
+SIII!g11{Lgi−lt2{1gy bher ma  dang1...
+ med
+垈塑 」旦g
+’
+ 
+旦
+d
+L型
+’
+bda ioms da ni di ni nas tshe d  a  med chl    
+  dc!de
+dus
+dkyil’khor 
+一 phyh7  gEggs−1tg  nus     phyag
+!de bcom ldan’das 
+nyid  kyi ’khor ky idkyil’kh(，r la kun tu gzigs nas /’dzum pa mdzad  pa dang〆麺
+それはまた天の悪星 (graha)などを息滅せん
+今度は，八大畏怖のマ ンダラが説かれて， ために説かれた.次いで大天たちの主が入大畏怖， 入大畏怖女によっ て囲繞されて， と
+   ai
+dk
+  il
+khor
+  bshad
+ ma  na rdo rje
+’ ’ ’ i’khor idki’ thu s an dag ai eshes  ta ssk es ai h a na rdo  e n id k        lkhor sna tsho s
+kis kun du zi  s nas  zhal  mdzum
+一 ’ ’yu
+’
+d
+babs 一 1031
+ a ldan inas
+ 
+    n isk
+・
+i tshul mn on
+gyur to zhes  a ni     
+ 
+     
+’’
+.
+la!rtshe d  a  med   idk  i lkhor bshad ar bzhed P.bzhes nas lan   
+ a ser k  i kho do lt abu mdzad
+  rtell i
+〆.....rmad  kyi
+du  te/Indzad
+’jigrten  du
+bar
+ nas mi{ [du
+      ochenoi
+lta
+   mtshan  
+ ma  
+a bcu
+ snang  
+  yang
+ sems  can  
+ a’i   鹽  
+ od isi
+ stan   s
+一
+NI工I工-Elleoetcrotniroonic Liibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+Buddhaguhyaと入nandagarbha の「一切悪趣清浄儀軌』の註釈構造につ いて(中 島)(113)
+一 gis sems  can  gyi don byas pa’e11
+今度は これら摧壊死魔無量寿マ ン ダラが説かれ，それはまた有情が非時死によっ て恐怖 する故にマンダラが仰せられ， 次いで具徳金剛手は自身の衆会を普くご覧になられて微 笑なされたこ とと，とは，清浄智の 意か ら生 じた金剛手自身の種々 の衆会に無量寿の マ
+ン ダラを説 くことを望まれて， 像の 瞥見で普くご覧になられて， 面は黄金の色彩の ごと き微笑をなされて， 光明を以て一切世間を照らされた.。..多くの 希有なるもの を世間 に 顕 現 さ れ と は ， 十 二 の 御 作 業 の 理 趣 と し て 現 等 覚 さ れ た こ と の 同 義 語 で あ り， 有 情 利
+益 を な さ れ た こ と で あ る . (D ，91a，P .1 6b− 107a)
+ 以上， BG とAG の 同一・箇所を見て きたが，
+れたのかとい う勧請と許可の解釈部分に多く見られることがわかる.
+ また護摩 (h・ma )の解釈では， 息災護摩の解釈に共通性が見られ，まとめると 以下の表の ようになる.
+表 2 AG と BG の護摩炉の 解釈
+サ イズ ・形 入G BG
+下 一肘 所取・能取の両者を遠離して住してい 所取・能取の二相を遠離している る象徴 象徴
+中 二肘 方便と般若の二資量道と加行道に住し 方便と般若の二相を具えている象
+てい る象徴
+三肘 加行道の 四智を具えて い る象徴
+徴
+四無量心を具えてい る象徴
+物の辺(二辺)を離れた象徴
+上
+このように，
+次い で ， 増益護摩で は解釈に一部，
+丸炉 勝義真実を具えた象徴
+同じところが見られた.
+D.  P112b (95b. )
+−
+D  P245b246a
+こ れ をみ る と冒頭部分，
+何故説か
+.) BGのものに少し解釈が加わり， ほぼ同一の解釈が示されてい る.
+mkhas  pas rgyas  pa bya dgos te塾 mkhas  pa 堕 LpΩ 〔cho  ga〕− 1鯉 /!一 ’byor pa 〔gzi b尊id〕’phel ro 〃
+賢者は増益すべ きでありとは，賢者とは瑜伽者であり，作業と所作に巧みな者である. 増益とは， 吉祥と財産を増長させること.(D.96a， P.113a−b)
+ また敬愛護摩につ い ては同一箇所は見当たらず，ほとんど経軌の文章をその ま ま用い てい る部分が多い.降伏護摩につ い ては， BG の場合は 「説かれなかっ た」
+とい う記載があり， チベ ッ トの訳経事情によるものか判断しかねるが， 入Gの場 合は他の 三種護摩と同レベ ル で 解釈されて おり， 特に翻訳一トの制限はなかっ たも
+の と見られる.
+ 経軌は続いてuttara −uttaratantra を説き， 入G自身もこの部分の科分を示してい
+，
+1030 −一
+(.207b ，
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(114)Buddhaguhyaと入nandagarbha の1一切悪趣清浄儀軌』の註釈構造について(中 島)
+るが， 実際の註釈はここまでで終わっ てい る.
+考察
+ 以上，BG と入Gの註釈を比較し，入Gの註釈構造の特徴を指摘した.これら をまとめると， 先ずBGの註釈は， 仏教が共通に持っ ていた悪趣を清浄にすると
+いうテーマが， 大乗から密教へ と変化していく中でどのように位置づけられてい く の か ， と い っ た 義 (意 味 ) の 部 分 の 理 解 に 主 眼 を 置 い た も の で あ る . そ れ は ま た ，
+BG のmUlatantra の解釈が， 出世間の眷属やマ ンダラ諸尊に 「大日経」的な解釈 を示してい ることからも， 悪趣を清浄にするとい う意味が， 天部の神々の力を活 か し て 世間 的 な 苦 し み を 除 き な が ら も ， 目指 す と こ ろ は 世 間 的 な 幸 福 で は な く無
+自性 空 の 悟 り に あ る こ と を 明 確 に し よ う と し た も の だ と 考 え ら れ る ，  一方入Gは， mUlatantra の出世間の眷属やマ ンダラ諸尊の解釈に五相成身観や，
+金剛界の諸尊を当てていることと， 更に同じ瑜伽タン トラであるVSを20ヵ所 ほ ど 引 用 し ， 三 三 摩 地 の 概 念 を 用 い て 註 釈 し て い る こ と か ら 『金 剛 頂 経 』 的 な 解
+釈を示してい る.
+ 更に，註釈全体でBG の文章をほぼその まま11カ所ほど引用してい ることから，
+BGの註釈を知っ た.Eで，その一部をド敷きとし， 悉地(siddhi)に至る瑜伽次第 として三三摩地を取り入れて解釈してい ることが指摘できる.またこの三三摩地 として解釈する方法は， 入Gの 「金剛頂経』や 「理趣広経」の註釈にも同様に用
+い られており，実際に観想しマ ンダラを描き，修法して行くことに主眼を置い た ものであり， そのような意味においてもチベットで重視されていっ た経緯が窺え
+る.
+ ところで， この註釈にはi著者名が4ヵ所に見られ不自然である.malatantra の
+註釈スタイルはBG とほぼ同じであり， 『金剛頂経』的で詳細な解釈をしているが， uttaratantra 以降に BG の註釈と同一箇所が 目立ち， 最後の uttara−uttaratantra の註 釈が見られない ことからも，mUlatantra までは入G本人か， 彼の著作を熟知して い る者によっ て作られ， uttaratantra はBG をド敷きにして註釈書の形を整えるた
+めに著された よ うに思われる.
+1)経軌とい う言葉は，これが経典と儀軌とを併せ持つ タイプの もの であり，名称が  satra やtantraではなくkalpaであることからこのように略称した.何故kalpaであるか  につ い ては，諸註釈の中で示されてい るが， おおむね 「諸仏の無分別智から分別され  たもの としての諸説示である」と解釈されており， これは 『金剛頂経』の 「諸仏無分
+1029
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+BuddhagtLhyaと入nandagarbha の 『一切悪趣清浄儀軌』の 註釈構造につ い て (中 島)(115)
+ 別大智 是智所生法常住 無分別後起智門 此分別説無分別 由無分別我分別 此分  別巳分別生 金剛薩」垂大士尊 説彼分別為方便」(T.18.p，441b)とい う教説を一歩進  めた形を取っ ていると考えられる.またこの部分につ いては， 北村太道「瑜伽タント  ラにおける 「教理」につ い て」「平安仏教学会年報』4， 2006年， pp.1−2に詳しい .
+2 )A .Wayman
+ COMMENTARIES
+: THE   DISPUTED
+ ON  THE  SA 工VADUEGArlPARIIiODHANA
+ OF  TIBETAN −TANTRA
+  CANONICAL
+. r雲井記念論集』， −tantra :Elimilation
+3)拙稿 「入nandagarbha の 『一切悪趣清浄儀軌』観」『密教学」39， 2003年にて詳細は指  摘した.
+4)三二摩地は，第 ・瑜伽 (g.byorbadang )とマ ンダラ最勝工 (dkyi’
+ 1985 pp，201−213.お よ び  T.Skorupski:77ieSan7adurgαtiparis’odhana
+，，
+ 
+ ofAll Evi1DestiniesNew Delhi MotilalBanarsidass.
+        ，    ，
+kyi
+ cho  ga)とある.
+5 ) VS  lこ{ま， 「dang Po sbyor  baj iting’dzin mchog
+’
+ 内心のマ ンダラF摩地 (nang  sems  
+dkyi
+ nge   dzin)とあり
+  AUTHORSHIP
+     po  1khor rgyal  po)，
+本経軌で は  羯磨最勝王とい う名称はAJい ず，阿闇梨の 作業次第儀軌 (slob  dpon gyi las ky irim pa
+dkyil’khor
+hog!/de
+ jug bya!ノde nas las rgyal  !1」(D.170aP.192b)とあり これ
+  pQ
+ 
+ 
+ 
+，
+  yang po ，
+ 38， 2002年， p.44を参照.
+6)『金剛頂経』の註釈 (D.No.251〔Lshi， P.No.3333.zi)では， 第一瑜伽， マ ン ダラ最勝王
+ 三摩地， 羯磨最勝王三摩地としており(D.3b， P.4a)，堀内寛仁『梵蔵漢対照 初会金  剛頂経の研究 梵本校訂編』密教文化研究所， 1974年では， 章立てにこのス タイルを  用いている.また 『理趣広経』 の註釈 (D.Ne.2512.hi， P.No.3335.yi)では 「第一瑜伽三  摩地， 第二の三摩地， 第三の三摩地」(D.13b，15a)としている.
+7)引用の 詳細は， 拙稿 「Anandagarbh著a 『一切悪趣清浄儀軌』に見る VaJ’raSekharatantra  の引用につ いて」『密教学」43， 207年を参照.
+8)「 」は科分で示された名称.
+ 本稿をまとめるにあたり，種智院大学名誉教授 ・北村大道先生にご示唆を賜っ た.ま た日頃，ともにVSの翻訳研究に取り組んで下さっ てい るタン トラ仏教研究会の皆様に
+末筆なが ら深 謝申し上 げる.
+<キーワード>DurgαtipariSodhanakaipa ，ブッ ダグヒヤ，アーナンダガルバ ，註釈構造               (奈良県立医科大学医学部看護学科講師，博士 (文学)
+ nas   ni 
+ については， タントラ仏教研究会「『金剛頂大秘密瑜伽タントラ』和訳(4)」『密教学」
+ rgyal   m。
+，
+一 1028 一
+lkhor
+’
+  gyi
+ting
+〆1rnalコt)yor bas ni snyams
+NI工I工-一Elleoetcrotnlroonic Llibrbaryary Service   

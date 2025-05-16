@@ -1,0 +1,23 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+canon = element canon { text }
+v = element v { text }
+w = element w { text }
+p = element p { text }
+c = element c { text }
+l = element l { text }
+
+ptr = element ptr {
+  attribute href {text}
+}
+
+ref = element ref {
+  ptr?,
+  ( text | canon | v | w | p | c | l )+, 
+  attribute xml:id {xsd:ID},
+  attribute checked {text}
+}
+
+start = element root {
+  ( ref | text )*
+}

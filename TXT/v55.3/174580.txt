@@ -1,0 +1,155 @@
+ Journal of Indian and Buddhist Studies Vol. 55, No.3, March 2007
+(15)
+Gopadatta' Jatakamala
+On the first complete edition of its 16 extant legends
+Michael HAHN
+1. The Gopadatta hypothesis
+It is now almost 30 years ago that I raised the 'Gopadatta hypothesis,' i.e. the at-
+tribution of at first 14, later 15 Buddhist legends, transmitted anonymously in the BuddhistSanskrit literatureof Nepal1)and written in the campu style,to Gopadatta, author of a Saptakumarikavadana which is available as a separate text both in Sanskrit and Tibetan. I also contended that these 15 legends were taken from Gopadatta's Jatakamala whose existence is known from Somendra's postscript to the Bodhisattvavadanakalpalata composed by his father Ksemendra. A fragmentary manuscriptof Gopadatta'sJatakamala was purchasedby GiuseppeTUCCIin Nepal around 1930(cf. his note in the WinternitzFelicitationVolume)but seems to be lost for good. For the details cf. my booklet Haribhatta and Gopadatta, Tokyo 1977 and 1992.
+I would like to emphasize once more that the Gopadatta hypothesis is proved be-
+yond doubt only for the Svajataka (No. 10in the list below)from which Sarvananda
+quotes half a stanza in his Tikasarvasva, marking it with the words iti Gopadattah. However,by the "argument of vicinity", i.e., the fact that the legends in question
+form groups of 3, 5, or 10 (11)legends in the secondary or tertiary sources (see below),andby self-quotations(inthecaseofthe*AjatalatrvavadanandthePunyarasya- vadana)allthe remaininglegendsaredefacto includedinthathypothesisexceptthe Maitrakanyakavadana and this has been subjected to a separate study by Konrad KLAUSwhoregardsGopadatta'sauthorshipasvery likely.
+2.The16legendsattributedtoGopadatta-The currentstateofresearch
+The 15 legends which I attribute to Gopadatta can be found in four secondary
+sources and one tertiary source:
+1043
+ (16) Gopadatta' Jatakamala (M. HAHN)
+1) Jatakamalavadanasutra (JMAS):11legends
+2) Avadanasarasamuccaya(ASS):2 legends(plus3alreadycontainedinJMAS)
+3) Bodhisattvajatakavadanamala (BJAM):1 legend
+4) A fragmentary palm leaf manuscript from Tibet microfilmed and published by
+Rahula SAMKRITYAYANA
+5) Asokavadanamala (ASS): 1 legend, plus 2 already known from BJAM and
+JMAS
+For the details of these sources cf. again HAHN 1992.A primary source in the strict sense of the word would be a complete or fragmentary manuscript of Gopadatta's Jatakamala like the one mentioned by TUCCII.n our context, a second- ary source is an extract of one or several legends in more or less unaltered form, placed in a new environment, while a tertiary source is the extract from a second- ary source,againplacedin anotherenvironment,howeverthistimewithsubstantial changes. The last case includes additions to, and deletions of, the original source, transformation of the prose portions into verse and other deliberate changes of the original wording. This is what generallyhappened when older sources were embedd- edintheso-called"Buddhistpuranas" orAvadanamalds.Forastructuralanalysisof these works I refer to the recent paper by Kiyoshi OKANOentitled "Subhasitama- haratnavadanamala ni tsuite"2)and to my analysis of the Mahajjatakamala. These are the 15 legends which I attribute to the author of the Saptakumarikavadana; they are given here in the order of their sources:
+No. Title
+1. Suprabhasa
+2. Rsipancaka
+3. Sarthavaha
+4.Sarvamdada
+5. Jnanavati
+6. Kapisvara
+7. Megha
+8. Matrposahastin
+9. Naga
+10. Svan
+Location
+JMAS 0.3 JMAS 35 JMAS 36 JMAS37 JMAS 38 JMAS 39 JMAS 40 JMAS 41 JMAS 42 JMAS 43
+Parallels/Tertiary sources3)
+MJM 7
+ASS 1 (identical) ASS2(identical)S,AM4 ASS3(identical)M,JM45
+BKAM 33
+MJM 8 1044
+ 11. Matsarananda
+12. Bhavalubdhaka
+13. Maitrakanyaka
+14. *Ajatasatru5)
+15. Punyarasi ? AAM 13
+Additional abbreviations:6)
+Gopadatta' Jatakamala (M. HAHN) (17)
+ASS4
+ASS 5
+BJAM 11
+palm leaf ms. from Tibet; cf. JBORS xxiv (1937)
+ARM25,SMRAM20/24,DA(T)204) AAM 12
+DA 38, JMAS 54 (identical)
+ARM Avadanaratnamala (unpublished)
+BKAM Bhadrakalpavadanamala (unpublished)
+DA(T) Divyavadana(TokyoUniversityLibrary,ms. No.170) JBORS Journal of the Bihar and Orissa Research Society SAM Sambhadravadanamala(unpublished)
+SMRAM Subhasitamaharatnavadanamala
+Between 1980 and 1996 all but three of the 16 'Gopadatta' legends (the
+Saptakumarikavadaniancluded)were edited (or re-edited;Nos. 13and 14),one of them
+(No.5) in a so far unpublishedM.A. thesis. Six of these editions are accompaniedby
+English translations (Nos.2-4, 11,12, 15),four by German translations(5, 7, 9, 13).7)
+Thethree legendsnotyet publishedaccordingto theirsecondarysourcesareNos. 1
+(Suprabhasa),8 (Matrposahastin)a,nd 10(Svan). Nos. 1 and 10 are already known from their tertiary source, the Mahajjatakamala. However,there is a great differ-
+ence in their respectiveadaptations.While the Svajataka is preservedquite faithful- ly in the Mahajjatakamala with all its stanzas the Suprabhasajataka was handled extremely freely. In the Mahajjatakamala version we find less than half the stanzas of the Jatakamalavadanasutra and even that version seems to be mutilated in the beginning and end. Thus the published text of the Mahajjatakamala gives only a rather imperfect picture of the original story. The Matrposahastijataka contains the longestandmostdifficultprosepassagesofallthe 16legendsandalsothegreatest number of textual corruptions. This is the main reason why it has so far not been published.
+3. The current research project
+The current research project entails an edition of all the 16 extant legends in one
+1045
+, pp. 149-58.
+ (18) Gopadatta' Jatakamala (M. HAHN)
+volume, accompanied by an English translation. Apart from the practical aspect of having the extant parts of the work in one volume,there are two major reasons for winding up the research on this work at this time. The first reason is that it seems to be fairly sure that the only primary source, the manuscriptmentioned by TUCCI about 75 years ago (uncertain;see below,footnote8), is now lost for good. Our col- leagues in Rome have made great effort to secure and describe what is still avail- able of TUCCI'scollections. While some works have unexpectedly turned up, like Sarvaraksita'sManicudajdtaka, if only in microfilm, others, like Dharmatrata'sA- bhidharmasamuccayakdrikdor Gopadatta's Jatakamala, were not found. Thus the previously nourished hope that access to TUCCI'sfragmentary manuscript might verify (or evenfalsify)the Gopadatta hypothesis, provide us with intelligible readings for the many corrupt passages in the secondary and tertiary source and even give us a number of new, so far unknown legends has evaporated.8)The second reason is that over the years a greater familiarity with Gopadatta's style and train of thought has been achieved,which makes it possibleto improveupon the text and translation of several of the legends. Of great help is the fact that in a digitized text the search for possible parallels to difficult words and expressions becomes incredibly faster and also much more reliable.
+The starting point of the planned edition and translation of the 16 extant legends is the manuscript of the Jatakamalavadanasutra which is dated 1690 AD and con- tains 11 of the 16 extant 'Gopadatta' stories. Its owner, the Ryukoku University in Kyoto,has already publishedan excellentfacsimile edition of the wholemanuscript9) and is supporting the current editorial project through a Numata Fellowship.It will be supplementedby two stories from the Avaddnasdrasamuccaya,one from the Asokavadanamala, one from the palm leaf manuscript from Tibet, and by the Saptakumdrikavadanawith its three independent sources (Sanskrit,Tibetan,commen- tary)plus the secondary source of the Asokdvaddnamdld.
+Only recently I tried to determine the percentageof Gopadatta'swork that is still extant in the sources described above. The result is quite surprising. From the colo-
+phon of TUCCI'smanuscript we know that the size of the whole work was 3,300
+granthas or 3,300x32=106,600 syllables.In order to determine the size of the ex- tant parts we have to count the syllables,i.e., the vowels of the computerizedtexts
+1046
+ Gopadatta' Jatakamala (M. HAHN)
+(19)
+which is, in fact, a simple task. All one has to do is to replace the vowels, starting with the diphthongs ai and au by an arbitrary place-holder, e.g. nothing, and make a note of the number of replacements of each vowel. Their total is the number of syl- lables which in Indian texts are defined as open syllables, i.e., syllables ending in a vowel, no matter whether this is etymologically or morphologically justified or not . In our case the number of lost or inadvertently omitted aksaras had to be included which are indicated in my files by the respective metrical symbols of a long, short or metrically undetermined syllable. The result of the calculation which includes also the titles of the stories as given in the secondary sources is 98,636 aksaras or 3,127 granthas. There is a certain degree of uncertainty because some of the stories may be either incomplete or, on the contrary, contain additions of the compiler, as is certainly the case with the Punyarasi and Suprabhasa stories. But the variance should most likely be within the limit of 50 granthas so that the exact number of granthas of the 16 stories lies between 3,077 and 3,177. Since the average length of the stories is 3,127/16~195 granthas that means that only one or two stories would
+be missing. The missing story (or at least one of them) could be the Drdhadhyasayavadana that accordingto TUCCI'scommunicationwas the last story of the work. In fact, the number of stanzas in the 16 extant 'Gopadatta' stories (1,288)isonlyslightlylessthanthatinAryasura'sJatakamala(1,430)a,ndthesizeof Aryasura's whole work is also 3,300 granthas. The consequence is that my former assumptionthat the number of stories in Gopadatta'sJatakamala was 34, like those of the Jatakamalas of his two predecessors Aryasura and Haribhatta, cannot be cor- rect. My assumption was based on the tacit presupposition that the work follows these two models both in its internal and external structure.
+This presupposition,however, is obviously wrong, because the similarities that one notices during a first perusal of the stories are only superficial. Already in HAHN1977 I came to the conclusionthat the external structure of Gopadatta's work deviates from that of his predecessors. We do not find the regular structure of the introductory and concluding section that we are used to from Aryasura and Haribhatta and also the use of metres is at variance, as I have shown in a separate paper.10O)negainstheimpressionthatonthestylisticlevelGopadattaisbothan eclecticist and syncretist; he freely uses and combines the literary devices which he
+1047
+ (20) Gopadatta' Jatakamala (M. HAHN)
+finds in the works of his predecessors and deliberately abandons their somewhat rigid structure.
+In the next section we will see that also the internal organisation of Gopadatta's work is different, and therefore there is no need to assume that only in the number of legends he should strictly follow the model of Aryasura and Haribhatta. That Haribhatta sticks to the number of Aryasura can easily be explained as a token of his admiration since he expressly mentionsAryasura as the great and unsurpassable master of the genre in the introduction to his own work.11F)or Gopadatta who had more than one predecessor in the field there was no need to do this.
+I will not conceal that there is one weak point in my reasoning. It is again based on a certain presupposition, namely that all the 16 legends which I attribute to Gopadatta are from his Jatakamala and not from any other work. The sceptic might argue that the title of the work is Jatakamala, not Avadanamala, and hence one would expect it to consist only of real Jatakas, i.e. stories about the bodhisattva. As we shall see in the next section, there are six stories among the 16 which do not ful- fil this criterion. My counter-argument is the group-wise occurrence of the legends, above all the 11 legends in the Jatakamalavadanasutra. Since chapters 1-34 are the complete ,Jatakamala of Aryasura, and chapters 44-53 are taken from Haribhatta's Jatakamala it would only be naturally if chapters 35-43 that bear such a great sty- listicresemblancetoeachotherwerealsotakenfromoneandthesamework.12A)nd a second counter-argument is the above-mentionedDrdhadhyasayavadana whose title proves that Gopadatta did not make a sharp distinction betweenjatakas and avadanas.
+4. Structure and content of Gopadatta'sJatakamala
+Unfortunately we know nothing about the internal organisation of Gopadatta's
+work. In the cases of the Jatakamalas of Aryasura and Haribhatta it is obvious that their legends are meant to illustrate the six moral perfections. In Aryasura's work the first three decades seem to be devoted to giving or dana (1-10),morality or sila (11-20),and forbearanceor ksanti (21-30).The situation is somewhatunclear with re- gard to the last four legends. In Haribhatta's work we find the following distribu- tion: giving or dana is illustrated in legends 1-11,morality or sila in legends 12-17,
+1048
+ Gopadatta' Jatakamala (M. HAHN)
+(21)
+forbearance or ksanti in legends 18-21,striving or virya in legends 22-25, medita- tion or dhyana in legend 26, and wisdom or prajna in legends 27-34. Particularly in
+Haribhatta'sJatakamala themoralperfectionsaremostclearlymentionedoralluded to in the mottos and epilogues. The situation is different with regard to Gopadatta's work. In one case, the Prabhasa legend, I have a vague suspicionthat it might have been the opening story, as in the works of Haribhatta and Ksemendra, since it de- scribes the future Buddha's first bodhicitta, thus marking the very beginning of his bodhisattva career. This is what the stories (herearrangedalphabeticallyt)hemselves disclose:
+No. Title of the legend Motto Epilogue Content
+1. Ajatasatru (As) - missing ?
+2. Bhavalubdhaka(Bh1) The dangers of the longing for existence (bhava)
+3. Jnanavati (Jv) virya
+4. Kapisvara(Ki) dana, krpa
+5. Maitrakanyaka(Mk) sila(?)
+6. Matrposahastin(Mph) sila(?)
+7. Matsarananda(Mn) dana
+8. Megha(Me) The illusory character of nature
+9. Naga(Na) ksanti ksanti
+karuna, dana sila
+sila(?) sila(?)
+dana
+ksanti
+11. Rsipancaka(Rp) Thedangersofbirth(jati) [silainHJMXV!]
+10. Punyarasi(Pr) The unreal nature of things
+12. Saptakumarika(Sk) -
+13. Sarthavaha(Sv) dana
+14. Sarvamdada(Sd) dana
+15. Suprabhasa(Sp) -
+16. Svan(Sv) (tyaga)
+(vairagya) -
+dana dana
+dana dana (bodhicitta) (karmasvakata) (tyaga) (parahita)
+The attributions given above are only tentative. A more detailed analysis might
+yield slightly different results. And it should be emphasized that sometimes the con- nection between the content of a legend and the moral perfection it is meant to il-
+lustrate seems to be quite arbitrary. This, however,would be the topic of another paper. One can see that six of the legendscannot be pressed into the pattern of the
+1049
+dana, virya dana, sila sila(?) sila(?) dana
+ (22) Gopadatta' Jatakamala (M. HAHN)
+six moral perfections:1.Ajatasatru, 2, Bhavalubdhaka,8. Megha, 10.Punyarasi, 11. Rsipancaka, and 12. Saptakumarika. They are neither jatakas nor avadanas in the conventionalsense of these terms, but they relate some historical or quasi-historical incidents or consist of philosophical discussions. In this respect they resemble parts
+of Kumaralata's Kalpanamanditika Drstantapankti (alias Asvaghosa'sSutralamkara) on the one hand and Ksemendra'sBodhisattvavadanakalpalati on the other hand.
+This is perhaps Gopadatta's most important innovationto the campu form as de- velopedby his two predecessors Aryasura and Haribhatta. In a kind of (over)simpli- fication one could claim that Aryasura expanded well-knownstories-the content of which he did not change substantially-by the embellishmentsof kavya, includ- ing long niti and subhasita portions. Haribhatta then took the liberty of reworking the plots so as to create a logically structured story, organized very much according to the Indian drama with which he was obviously quite familiar. Gopadatta finally frequently focusses on ethical and philosophicaltopics which he elaborates prefera- bly in the form of dialogues. This is mostly done in verse, which may account for the substantial reduction of the prose portions in his stories as compared to the works of his predecessors.
+1) With the exception of the Ajatasatru story; see below.
+2) 3) 4)
+In: Minamiajia kotengaku, 1, 2006, pp. 1-19.
+Metrical adaptations, if not stated otherwise.
+The metrical adaptation of the Matsaranandavadana can be found in various manu-
+scripts of the Avadanaratnamala or Ratnavadanamala cycle, in one of the Divyava- dana manuscripts and in a separate manuscript. For the details of all these manuscripts and their mutual relationshipcf. Ratna HANDURUKANDFEiv,e Buddhist Legends in the CampuStyle,Bonn 1983,pp.(10)-(11).
+5) The title of legend No. 14 is reconstructed. It is not given in the legend itself.
+6) For the details see HAHN1992and OKANO2006.
+7) All the bibliographicaldetails can be found in HAHN1992,except for the following
+two papers that were published after 1992: 1)Michael HAHN,"Der duldsameNagakoig. Gopadattas Nagajataka",Berliner IndologischeStudien 8 (1995),pp. 87-135;2) Mi- chael HAHN,"Die Einladung der Pratyekabuddhas. Gopadattas Meghajataka",Berliner Indologische Studien9 (1996),pp. 157-201.
+8) According to Giuseppe TUCCI, "Animadversiones Indicae. 8. Sankarasvamin, Sivasvamin and Gopadatta", in: Festschrift fur Moriz Winternitz, Leipzig 1933, pp.
+1050
+ 9)
+In Sanskrit Manuscripts of the BuddhistSutras from Nepal, ed. by Taijun INOKUCHI, Kyoto 1990 (Facsimile Series of Rare Texts in the Library of the Ryukoku University. 9.), pp. 69-250.
+Gopadatta'Jatakamala(M. HAHN) (23)
+243-6, the colophon states that the manuscript "was copied by the Bengali upasaka sriMuktidasa in the year 1810, 10thmonth, 19thday from parinirvana." This is not suf- ficient to determine the date exactly, however, according to what we know about the dating of Buddha's parinirvana in Bengal at that time (for which the year 543 BC is a likely candidate)the date given in the colophoncould correspondto Friday,20 January 1268 AD. I owe this precious information to Dr Karl-Heinz GoLZIO,Bonn. This date would make it a rather old and presumablyprecious manuscript.
+While reading TUCCI'spaper again, I noticed that due to a possible misunderstanding of a crucial passage I might have looked for the manuscript at a wrong place all the time.TUCCIwrites:"AfragmentarycollectionofAvadanasinthekavyastylewasfound in Nepal by me while examining the manuscripts recently purchased." (p. 246) I had al- ways understood this sentence as "purchased [by me, i.e. TUCCI]."However,it is equally possible, or even more likely, that TUCCIactually meant: "[by the (then) Bir Library]." Such a manuscript, however, is mentioned neither in Buddhisagara Parajuli's catalogue of the Bir Library nor in the title list of the NGMPP. In this connection it might be worthwhileto relate a story that I once heard about TUCCfIrom someone who knew him well.ItsaysthatTUCChIadpurchasedsomepreciousmanuscriptsinNepal.Thisleaked out to the Nepalese authoritieswho approachedhim in his hotel and demandedthat he shouldreturn the manuscripts.AllegedlyTUCCIbecamefuriousand repliedthat he was now the rightful owner of the manuscripts and would rather burn than return them. Was this perhaps the fate of the sole manuscript of Gopadatta's Jatakamala?
+10) "Zur Verteilung der VersmaBein der buddhistischenCampu-Dichtung",Zeitschrift der DeutschenMorgenladischenGesellschaft,SupplementV,,XX.Deutscher Orientali- stentagvom24. bis29.Maz1980inBerlin,AusgewahlteVortrage,herausgegebenvon Fritz Steppat, Wiesbaden 1982 (1983),pp. 245-252.
+11) acaryasuraracitani na jatakani karta ksamah samatayapy anugantum anyah|
+satamsur eva kumudapratibodhasaktas taraganah samudito py asamartha eva ‖2‖"No
+other author is able to imitate in a similar (high) standard the jatakas composed by the teacher (acarya) Sura. Only the 'cool-rayed' (moon) is able to open the night-lotuses, while even the whole group of stars is unable to achieve this."
+12) TheseparateplacementsofSuprabhasaatthebeginning(chapter0.3)andMaitrakan-
+yaka at the end (chapter 54) are determined by other factors (content and incorporation of the complete Bodhisattvajatakavadnamala).
+〈Key Words〉 Gopadotta, Jatakamala, complete edition
+(Professor, University of Marburg)
+1051

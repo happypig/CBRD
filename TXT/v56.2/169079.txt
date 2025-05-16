@@ -1,0 +1,231 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+印度學佛教學研究第 56巻第 2号 平成 20年 3月
+『サ ン マ テ ィ タ ル カ プ ラ カ ラ ナ 』 に   見られる非絶対論につ い て
+原 田 泰 教
+ 
+0 . 序 ジ ャ イ ナ 教 の 学 僧 シ ッ ダ セ ー ナ ・デ ィ ヴ ァ ー カ ラ (SiddhasenaDivalcara
+450−500AD 】)はその 著書 『サ ン マ テ ィ タル カプラ カラナ』(Sampmatitarhaprakararpa ，
+以下STP)におい て， ジャ イナ教の中心的概念である非絶対論 (anekiintav5da ，
+syEdvEda )を論じている.一方，白衣派の学僧ハリバドラ・スーリ(後8世紀頃)も『非 絶対論の勝利の旗」(Anekdntajayapatii)kaや 『非絶対論入門』(AnekantavddapraveS)a
+におい て非絶対論を論じてい るが， 両者の手法には違い が見られる.すなわち， ハ リバ ドラの著作ではほとんど触れられることのない ナヤ説やサプタバ ンギーの
+シ ッ ダ セ ー ナ は 詳 し く述 べ て い る . 存 在 と 非 存 在 ， 常 住 と 無 常 な ど ， 相 矛盾する属性の共存をニ クシェ ーパ の観点を利用して体系的に論じるハ リバ ドラ
+シ ッ ダセ ーナは伝統的手段を利用 して 非絶対論を論じようとする.本稿 では，彼の主著であるSTPに着目し， ハ リバ ドラとの論点の違い を視野に入れ つ つ ， シ ッ ダ セ ー ナ の 立 場 を分 析 す る . こ の 作 業 に よ り， デ ィ グ ナ ー ガ や ダ ル マ キール ティの影響を受ける前後の 「非絶対論」の表現方法の変化を解明するこ と が本稿の 目的である.
+1.1.著者問題につ い て STPと並んでシッ ダセーナの著作と見做されてき た作品として， 『ニヤーヤ・アヴァターラ』(彬軅翩伽， 以下NA)が挙げられる.
+しかし， これらの 2作品が同一著者によるものかどうかにつ いては疑問が持た れてい る.近年， 藤永博士やBalceroWicz博士の研究により，  STPとNA は同名
+異人によっ て書かれたと考えられてい る2).藤永博士の主張の第一の理由は， 一著者が同じ哲学文献を記すのにプラークリッ ト(s皿》)とサンスクリッ ト(NA)
+を用いるのは通常考えられないから，という点である.ハ リバ ドラはプラーク リッ トとサンスクリッ トを用いて作品を残したが， 彼は哲学作品をサンスクリッ
+概念を，
+に対し，
+非哲学作品をプラークリッ トで記すとい うように使用言語を使い 分けてい る3).第二の理由として， STPがプラマーナを五知(mati，9皿ta， avadhi， manabparyaya
+，
+kevala)に分けるのに対して， NA では五知に分けることなくpratyakSaとparokSa 一804一
+トで，
+(233)
+同
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(234)  『サンマ ティタルカプラカラナ』に見られる非絶対論につ いて (原 田)
+に分類する点が挙げられてい る.プラマ ーナの分類方法からしても， 作が同一著者によるものとは考えにくい 4).また， STPではナヤ説が盛んに論じ
+られるのに対し， NAではそれが論じられることがない，このような理由からも， STP とNA の著者は別人であると結論付けられてい る.同様にt Balcerowicz博士
+もシ ッ ダ・lr 一ナニ 人説を説き  
+Vyavahdra  
+6abda tiusntra )
+，
+空 で は 七 五 に samabhjriidha  evambhfita を え る 衣派種(種 ， 加)
+，
+，
+，  STP の 著者 を SiddhasenaDivakara
+，  NA の 著者を
+ い
+SiddhasenaMahimatiとして区別して る.さらに 両者の間に活躍した人物とし
+，
+て， DignZlgaとDhaIm副drtiを置き， Siddhasen aMah5matiがDh缸makirti の影響を 受 け て い る こ と を 論 証 し て い る 5 ).
+1. 2.
+ナヤ説を中心に サプタバンギーやニ クシェ ーパを用いて非絶対論が述べられる ，
+(全54偈).第二 章は知と見の関係につ い て述べ られ， 伝統的な認識論が展開され る (全43偈).第三章はより細分化された議論がなされ，基体と属性が全く同一
+STP各章の主題 STPは三章から構成され，
+第一章は，
+ジャイナ教の
+全く異なるか等の議論が行われ， い ずれも極端な説に陥り， 双方と
+であるか，
+も成り立たない ことを論証する.他学派との議論を取り扱う章である (全70偈).
+本稿では特に第一章を扱い， STPにおいてどの ようにしてナヤ説等を用い て非絶 対論が論証されるかを検証する.
+2.1. ナヤ説 STP著述の 目的はジャ イナ教の anekantavada (syadvfida)を宣揚
+シッ ダセーナはまず最初に，ナヤ説を用い てい る。ナヤ説には種々の分類があり， 七種の ナヤが広く知られてい るが， STP はく実体を主とするナヤ (dravyarthikana，y以a下dan.)〉とく様態を主とするナヤ (paryiyErthika・・aya， 以下pan.)〉とい う二分類を採用する.この二つ のナヤと他のナ
+ヤとの関係につ い て， シッ ダセーナは次の ように述べ る.
+ ティール タン カラの言葉の概略と詳細を覆い 尽くし， 根本的に説明するものは， d■ .と  pan.である.残りのもの (ナヤ)は両者の下位分類(vikalpa)である.(1−3>
+ STPで述べ られる存在論の根幹には， 実体と様態の関係がある.常住不変の実 体と生起 ・消滅を繰り返す様態は不可離関係にあ り， また， い ずれか一方だけ
+が完全なもの では ない ，ナヤに関して も存在物の あり方に合わせ て. dan.とpan. が考えられてい る.
+ では， STPで言われる下位のナヤには何種類が存在しているのであろうか. TAAS (白L34;空1.33)によれば， ナヤは白衣派では五種(naigama ， sarpgraha ，
+す る こ と に あ る . そ の 手段 と し て ，
+が設定されている.STPで述べ られるdan.とpan.という二種のナヤと， これら 一803一
+これらの著
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+『サンマ ティタルカプラカラナ』に見られる非絶対論につ いて (原 田)  (235)
+五種・七種のナヤとの関係はどのようになっ ているのであろうか.シッ ダセーナ はまず， 以下の ようにdan.の下位分類を示す.
+dan.の本質は，純粋なものであり， 〈まとめる見方〉で対象と説明されるものである. さらに， 諸個物において， 言葉の意味内容を決定する， それ(dan.)につ いてのく実践
+的な [ナヤ]〉がある，(1−4)
+ 次に， pan.の 下位分類としてく現在の事柄〉を叙述する言葉による区別を挙げ， さらに下位の分類として， 〈語に由来する見方〉等を位置づける.、
+pan.の うち， 根本にあるもの はく現在の事柄〉を叙述する言葉による区別である，一方 で それ (〈 現在の 事柄〉)には，〈 語に由来する見方〉等の 枝 ・小枝である微細な区別 がある，(1−5)
+ 以上の ことか ら， dan.の うち本質的なものが samgrahanaya であり， ものがvyavah 酖跏 aya であるとい うことが分かる.一方， pan.のうち根本にある もの は rjusatranayaで あ り，  Sabdanaya 等が存在する.
+ ここで問題となるのは五種あるい は七種のナヤのうち， naigamanaya 他， STP で述べ られてい ない ナヤの 存在である.一般に，七種の ナヤの最初に挙げられる naigamanaya はdan.に含まれるが，  STP 1−4では sarpgrahanaya とVyavah五ranaya に つ いてしか言及されていない.また， STP全体でみても， naigamanaya は登場し ない.宇野匸1990: 38]においても， ナヤの数をnaigama を省いた6種とする例 として STPを挙げてい る. STPにおい ては， naigamanaya はいずれかに含まれる
+ため， 重要視されてい なかっ たと考えられる.また， samabhir暉ha， evambh 章taに ついても，STPで明確に述べられていないため， シッダセーナは承認していなかっ
+た可能性がある.その一方で， 1−3におい てはdan.とpan.以外のナヤを 「残りの もの」としてまとめている.この「残りのもの」が何を指すかについて， 注釈者
+アバヤデーヴァは 「naigama 等」と述べ てい る6>.しかし， シッ ダセーナとアバ ヤデーヴァ の問には， 500年程度の 開きが考えてい るため，両者が同じ立場にあっ たと考えるのは困難である.したがっ て， 上述のようにdan.に二種， pan.に二 種の合計四種がナヤとして認められていたと考えられる.これは， 白衣派・空衣 派い ずれの 学派とも異なる列挙の仕方である.藤永博士は，シッ ダセーナはヤー パニ ーヤという第三の学派に所属したとする説を提示されている7).承認するナ
+ヤの 数が学派決定の要因となりうるとすれば， を 示 し て い る こ と は 重 要 で あ る 8 ).
+ここで シ ッ ダセーナが四種の ナヤ
+一802 一
+付随的な
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(236)  「サンマティタルカプラカラナ』に見られる非絶対論について (原 田)
+2.2.ニ クシェ ーパ STPではニクシェ ーパについても言及されている.ニ クシェ ーパ のそれぞれの項目に関して詳しく述べ られることはない が， 上述の 根本的な二つのナヤとニ クシェ ーパの四項目との関係が述べられることは特筆す べ きであろう.つ まり， 共通性を特質とする名称， 形態， 可能相はdan.であり， 現実相を特質とする現実相はpan.である.こうして， ニ クシェ ーパ の四項目は，
+根本的な二つ の ナヤに対応してい ることが分かる.
+ 名称と形態と可能相のニ クシェ ーパはdan，の観点からの ものである.一方で， 現実相と  いうニ クシェ ーパはpan.の観点から述べるものである.これが真実である.(1−6)
+ ニ クシェ ーパ には聖典期以来種々の変遷があり， その数も変化してい るこ とを， Bhatt氏は指摘してい る9).その うち， もっ ともよく登場するの は<
+draVya kSetra
+せであろう.前者は藤永博士が 「萌芽形」，後者は 「基本形」とされる.「萌芽
+   kE[la bhava>と〈nama  sthZpan 氤 dravyabhava>とい う組み合わ
+  ，，，，，，
+形」は古層聖典の他に，
+ヴァスナンディンのA−ptamimampsavrttiやハ リバ ドラの
+Anehantaalyapataka   でも けられる み合わせである .「基本形」はウマ ’ep見受組10) ー
+ス ヴァ ーティの TAAS 等で見受けられる組み合わせである11). STPで見られる
+のは「基本形」のほうである.つ まり， 名称と形態と可能相という最初の三つ の
+ニ クシェ ーパ はdan.に属し， 最後の現実相だけがpan.に属することになる.
+  こ こ で 注 目 し た い の は 第 三 の ニ ク シ ェ ー パ で あ り， か つ dan.と し て も使 わ れ ているdravyaという語である.〔lravyaを含む三つのニ クシェ ーパをまとめてく 実体を主とするナヤ〉と呼んでい るのであるから， 両方のdravyaには何らかの 差異があるのではない かと考えるこ とが出来る.宇野[1990:33]では， ニ クシェ ー
+，
+パ の dravyaとい う語に 「可能相」とい う訳語が充て られ，  bhavaに 「現実相」と い が てられている.また もdravyaを と している12).
+英訳者 potentiality訳
+う訳語 当
+これはdravyaというニクシェ ーパは「過去において生命をもっ たもの或いは将
+来に生命をもつ であろうようなもの」(宇野 [1990 : 30])とい う意味を反映したも の である.王の例をとれば， 昔王であっ た者， あるい は， 将来王になるであろう 者である.ところが， ハ リバ ドラが採用したニ クシェ ーパ におけるdravya解釈 は全く異なっ ており， dravyaはあくまでも「実体」そのものを指し， 壷は地元素
+所造のものとしてく有〉であり， 水元素所造のものとしてはく無〉であるといっ た類の視点(ニ クシェ ーパ)である13).
+ 以上のことから， STP 1−6で言われている二種のdravyaの意味内容は異なっ て い ると考えるのが自然であり， また， 「萌芽形」に含まれる(travyaと 「基本形」
+NI工I工-一Elleoetcrotnlroonic Llibrbaryary Service   
+一801一
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+『サンマティタルカプラカラナ』に見られる非絶対論について (原 田)  (237)
+に含まれるdravyaとでは， 何らかの差異があり， dravyaとbhavaが二組のニ ク シェ ーパに共通すると言っ ても， 単純にそれらが残り， 他の項目が入れ替わっ た
+と言い切れない面があるのではない かと推測で きる.なお，STPには 「萌芽形」 ニ クシェ ーパ を意識した記述が見られない わけではない .
+相違 (bheda)
+ これらの組み合わせがどのような背景を持つ かは不明であるが，
+クシェ ーパが意識されていることは聞違いない.シッダセーナは「萌芽形」と「基
+本形」双方のニクシェ ーパを知っ ていた可能性が高い.
+2.3.サプタバ ンギー  STP では
+教では七つ の支分からなる文章の組み合わせによっ てジャイナ教の立場を証明し
+ようとする.STPでは第一章eg 36−40偈におい て記述されている.  ところが， STPにおいては表現面での特徴が見られる.すなわち，
+タバ ンギーでは，不変化辞としての “ syat” が各支分で用い られ それが 「ある点 ，
+では」とい う立場を表示してい る14>.しかし STPにおい てはこの‘‘syat” とい ，
+う語を使わずにそれぞれの支分が述べ られる.一般的な型と異なっ てい るサプタ バ ンギーの存在が明らかになっ たと言えるであろう.
+3. まとめ STP で は， ジャ イナ教の非絶対論を表現するために考案されたナ
+ヤ説 サプタバンギー ニ クシェ ーパがすべて使用されていることが判明した. ，，
+結合 (samyoga )，  に依存して，正しく諸存在を知らしめる様態がある.(3−60)
+  実体，
+場所，
+時間，
+状態，
+様態，
+範囲，
+Aptamim∂η1sd with  巧tt.i ed. by PJain， San豆tana Jaina Grantham5157 ，
+αmtimdm
+・  by
+Vasu
+.[2003]
+C the ReIationshi pof the Nya ∂vaMra γ
+ 
+，
+皿andin see入M Ba正cerowicz  P
+stbrtti ， .
+，
+サプタバ ンギーも解説される.ジャイナ
+中でも根本的なナヤとされるdan，とpan.が詳細に述べ られ， はあまり記述がない.本稿では詳細に触れなかっ たが， 二つのナヤがいずれか 片方では完全でない こと， 両者には住み分けが為されることなど， 根本ナヤを丁 寧に述べ るこ とによっ てジャ イナ教説を広めようとい う姿勢がうかがえる.ニ ク シェ ーパについては， 名称・形態・可能相・現実相という「基本形」と呼ばれる
+項目が述べ られ， これも二 つ のナヤに対応することが述べ られてい た。サプタバ
+ンギーについては 一般的な記述と同じ支分が述べられていたがSyatという語 ，，
+を使用しないことにひとつ の特徴があると言える.
+【文献表】AVP :AnekantavadaρraveSa ， by Haribhadra sfiri， sa(ipρanakab ， Patan， 1919.入M :
+・ 1914.  AM > :Apt −
+:
+and  the Sa彫mati−tarka−prakara4a，ノhdologica Taurinensia 29， 29−79. Bhatt， B. [1978] :The
+CanonicalNikSepa， StUdiesilJainaDialectic. s Band 5， Leiden. STPSaηa一
+ 
+ 
+ 
+ 
+sindologia Beroiinensi ，
+:
+一8eo一
+「萌芽形」ニ
+一般にサプ
+下位分類につ い て
+一
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+(238) 『サンマ ティタルカプラカラナ』に見られる非絶対論につ いて (原 田)
+matitarkoprakara4a ; (a) Siddhas劭 a  Divakaras Sanmati  Tarka hy s.Sanghavi and  B.D
+紅anslated 丘om  GqlaratbiyA. B Athavteand  text and  commentary  byA. S. Gopani edited  by ≡  ; ;
+D.Malvania，1939.(repr. Pt. Shri Sukhala罰i granthamala;no.5，2000)  〈b)Sammai Suttam
+− In
+Siddhasenaedited  w 韮th
+  TranslatioEnxplanator
+oAnppen出ces and   introducti， 
+， 
+ 
+  ，
+， 
+Hindi
+of 
+dex， by D.K. SbStr，i1978， Neemuch . (c) Siddhasen aDivakara:Saηpmati−tarka−prakarana with
+ 
+AbhayadevasfisnTattvabodhavidhfiyi.niEdbyS.SaqLghavaind BJ)oSi 1924−1931 (rqpr. voLl &
+”
+; 
+ 
+    :  see  :
+ 
+ 
+ 
+’ ・
+・shi
+2 RBTS 6−12， Kyote1984).TBV − 一
+  Nyotes
+Tattvabodhavidha STP (c).TAAS Tattvdrthjd
+   yini     
+，，，
+勉gα彫α3励・α by UmEsvati The Sacre dBeoks of the Jainaボsvol.21920.宇野惇[1990]:「ジャ ，，，
+イナ教のナヤ説」『仏教学研究』45/46， 29−50.藤永伸 [1999]:Distinguishin gthe Two Sid−
+Journal oflndian  and  BuddhiSt Studies 48−1 567−572. [2001]: 『ジャ イナ教の 一切
+dhasenas ，，
+ 
+;
+知者論』平楽寺書店， 京都;[2006]: 「ニ クシェ ーパ」『ジャイナ教研究』12， 1−16.
+1)生存年代については未だ決定していないが， 後4，5世紀とされている.その理由 は， 後6世紀頃の人物とされるJinabhadraが STPを引用してい るとい う点と，  STPが後 2世紀頃までに成立した 「古層聖典」に言及してい る点からである.藤永 匚2001:78コを 参照した.また，Balcerowicz[2003:73]は450−500 AD とする.    2)シッ ダセー ナ以外の，ジャイナ教学僧に関わる議論として，ハ リバ ドラ・スーリの存在が考えられ る，ジャイナ教作品の写本情報を記載したJinaratnakoSにaよれば， 同じハ リバ ドラでも， Y削dniputra(あるいは， pupil of Jinadatta)と呼ばれる人物とブリハ ッド・ガッチャに属
+するジナデーヴァの弟子 (  ofJinadeva  of the B1hadGaccha)と呼ばれる人物がい るの
+pupil
+である.   3)ジャイナ教聖典へ の注釈や，肋就跏吻砂岬磁 航等の哲学書はサンス
+クリッ トで書き， Dhfirtlikhydi，n Paaficavatthuga ¥の非哲学文献はプラーク リッ トで著述
+してい る.    4)藤永 匚1999]を参照した.   5)Balcerewicz [2003]を参照した.
+6)TBVp .2721，4.アバ ヤデーヴァ はヘ ーマ チャ ン ドラ (A.
+D.1088−1172)の 師である. 7)藤永 [2001:78コを参照の こ と.    8)さらに， 宇野 [1990:38]にはナヤの
+数として 「6種.naigama を省い たもの」とい う記述が見られるが， この根拠は明示さ
+，
+・
+れてい ない 。また，「3種.Sabda
+ samabhiriidha  evambhUta を ，，
+に包括させ る とし rjusUtra 」
+て STPI−5を根拠としておられるが， これはdan.にsamgrahanaya ， vyavaharanaya を認め， pan.をrjusロtraだけとした場合で あると考えられる，やや説明不足であり，本稿とは異
+なる立場である.    9)Bhatt[1978]を参照せよ.    10)蓋MV ad AM v.15 11)TAAS (白・空1.5):namasthEpanfidravyabhavatas  tannyas的 〃  12>STP (a)
+の該当箇所を参照せ よ.   13)AVP p.9， L13−p.10，1.8を参照せ よ，   14)c£ SarvadarSianasampgraha ed . by Abhyankar， p。82， 11. 368−370.
+<キ ー ワ ー ド> Siddhasen aDivEkara， SaηpmatitarkaprakOra4a， naya ， saptabhahgr ”， nik ，gepa                          (九州大学助教，博士 (文学)
+NI工I工-一Elleoetcrotniroonic Liibrbaryary Service   
+一799 一
+ 

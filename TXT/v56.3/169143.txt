@@ -1,0 +1,483 @@
+ Thhee JaapapnaesneAessoeciaAtisosnociation off Indidainan andnd Buuddhdishtist Studuidesies
+(100) Jborrnaogfk7diandnBucldhist StudieVsbl.56,No.3,March 2008
+A MinimalModel of viruddhavyabhicdrin UEDA Noboru
+[O] Introduction
+As iswell known, a viruddhivyabhiearin or antinomy can be caused by two inferences each of which satisfiesthe three conditions of logicalreason (iingahe,tu).The fbllowing inferenceAs and B which are given by Dignaga give riseto an antinomy, while each in- ferenceby itselifsvalid by thecriteria of thethreeconditions stipulated inhisPramdua- samuccaya.
+Sound isnon-eternal
+(A) (Sabda) (anitya),
+becauseofbeing 1ikea prochiced(krtabutvat)p,ot(giiala).
+(B)Sound iseternal (nitya),
+becauseofbeing audible likesound-ness (SravageatvaD, (,"abdotva).
+Because bothinferencesA and B are valid according to thethreeconditions (1.hetu exists
+inthepaksa,2.hetuexistsinonly sapaksa, 3.hetudoesnot exist invipaksa), itisimpossiblteo
+determinewhether a sound isnon-eternal or eternali) . Here,however,theexample (dlfri;nst,a)
+intheinferenceBisnot aceepted byBuddhistsbutbyNyAya-Vaigesika schools (c£ Kitagawa,p.194).DignEga states as fo11ows:
+Forone who accepts etemal universals, bothbeing-produced-nesansd being-audible-nemsakse
+2).
+L`sound-ness"
+inconclusivreasons ahoutwhether a sound iseternal or non-eternal
+accept the "eternal
+universals"? 3) In factK,itagawa tp.36th,.49)says when thereissomething wrong inthe outleok on the
+the inferencAe isconsidered valid by bothBuddhists of the inferenceB, namely the antinomy, isapproved
+Then, isitnecessary
+and their opponents,
+only by those who
+thatthe antinomy "can arise only
+universe," and concludes thatthemetaphysical standpoint-there exists a universal, and it isperceivedby a sense organ-, which issupposedly required to establish theeternality of sound, iswrong.
+thatalthough the validity
+-1136-
+NII-IE-leEctlreoncitcronic Library Service
+ Thhee JaapapnaesneAessoeciaAtisosnociation off Indidainan andnd Buuddhdishtist Studuidesies
+AMinimal ModelofviruddhduF,abhicarin (N.UEDA)
+However,we can make a mathematical example of viruddhavyabhicarin
+us to the conclusion thatthe phenomenon of virudtthdio"abhicbrin has itslogicarloot in
+theDignaga'slogicof thethreeconditions of hetu5) The presentpapershows a necessary
+cendition of viraddhfigyabhicarin and presentsa minimal model of viruddhaz7abhicdrin.
+Themodel will us a clear view ofthe logicasltructure ofvirudtihfiio,abhicarin. gives
+[1] AnecesSaryconditionofviruddhaiv,abhicdrin
+Letus suppose that thefo11owingpairoftwo valid inferenceressults ina virudcViavyabhi- carin.
+(Al)Thereexists S inp,becausoefH. (A2)There exists T in p,because of G.
+Herethe Hand Gsatisfythethreeconditiens ofhetuintheinferencAeland properties
+A2respectively, and thepropertiesSand Tare incompatibl(evirocVt)ha)ti,stosay,Sand Teannot exist inpatthesame time.Then we can provethatthepaksapistheonly locus
+that hasbothH and G. Bcfore imo the sorne rematks are to be made. (dhamiin) geing proog
+InDignaga'sPramaeasamuceaya whether thebasisof inferenceisthesecond condition
+efhetu, thethirdconditien, orthehetu-sddhyraelationshiptvatr...atatva...) isnotsoclear.
+J.F.Staal = 19g8) took thehetu-sad]iryealationship, which he temns as theba- <1962 vyEipti,
+sis of inferencaend fbrmalizeditas x) . A(s,x)),which reads: fbrany locusx if (x)(A(h,
+hexistsinxthensexistsinx.AlthoughStaaldealtwithDharmaklrti'lsogicw,e cansafely
+apply hisfbrmalizationsinessence
+JapaneseBuddhisttraClitionatlerm
+ga'smeaning of"io,byJti" is,itseems
+toDign2ga'slogic.Inthefbllowing,Iuse theChinese-
+"example-body
+insteaodf"i{yliptr' since Dignii- (kt2)t"s
+to me, ambiguous.
+Staalprovedsuccessfu11y that thethird condition of hetulogicallyimpliesthe example-
+body ...tatra...)b,utfaileidnthe of theimplicationof theexample-body bythe
+tvatra proof
+second condition of hetu.The presentpaperwill show the implicatiolnater.For the pres-
+ent, we also taketheexample-body as thebasisofinference6) , and tryto obtain a necessary condition ofviraddhawabhiedrin.
+Anecessary condition ofviruddhas{yabhicdrin isthatthepaksapistheonly locus(dZrarnzin) thathasbothH and G.The preofisas fo11ows.
+SinceSand Tare incempatible,fbrmulas
+x) . r- A(T, x)) amd (1)(x)(A(S,
+-1137-
+.
+4) Thisfactleads .
+(101)
+NII-Electronic Library Service
+ Thhee JaapapnaesneAessoeciaAtisosnociation off Indidainan andnd Buuddhdishtist Studuidesies
+"-
+A(S,x))
+that the
+means
+" denotesthe
+S exists property(cZharma)
+inthelocus x. The (dharmin)
+AMinimalModeiofviruddhai{yabhica-rin (N.UEDA)
+(102)
+x) - (2)(x)(A(T,
+hold.Here A(S, x)
+---
+- x) - A(S,x))] (3)(x)[(xtp) (A(H,
+(4)(x)[(x#p)- (A(G,x) ---A(T,x))].
+Thefbrmula(3)reads: forany locusx ifxhasthepropertyHthentheiecusx hastheprep-
+erty Son thecondition thatthe,locusx isnot thepaksa.Read the fbrmula(4)inthesame
+manner.
+From and we obtain a necessary condition of viruddhavyabhiearin: (1)(,2)(,3), (4)
+akya isthe onl locus ctharmin thathasbothH and G.
+<Prooft> Supposethatthereare some locithathaveboth H and G besidesthe properties
+Thatistosay,suppose thathefbllowing holds: paksa p. proposition
+i x((x7tp) A A(H, x) A A(G,x)), (Adenoteasconiunction)
+andname one ofsuch]oci"a". Thenthefbllowingformulaholds:
+A A(H,a) A A(G,a). (5()a;p)
+Itiseasy to see that(3)and (5)yieldA(S, a), and (4)and (5)yieldA(T, a), hence A(S,a)
+Consideringthenecessary condition obtained intheseetion we can make a minimal [1],
+negation, and theuniversal propositional (x)
+Thenthe quantifier.
+symbol "
+fbrmula (1)reads: forany locusx ifS exists inx thenT doesnot exist inthelocusx, and (2) reads: fbrany locusx ifTexists inx then Sdoesnot exist inthelocusx.
+Next,we fbrmulatetheexample-bedies ofAl andA2 as and respectively:
+A A(T,a) holds.But the propositionA(S,a) A A(T,a) and Consequentlyitmust bethepaksa thathasbothH and G.<q.e.d.>
+[2] Minimalmodel
+model of viruddha-?abhicjrin.
+The fbllowingtable exhibits
+sadhya-dharma hetu sT HG
+themodel.
+sapaksa
+HSGT GTHS
+1) ([lable
+inference MlM2
+paksa p
+pakga pp
+vipaksa
+=
+HG...=
+a locus thathasH, G and others. <ctharmin)
+HS = a locusthat hasH and S has neither (}nor T) (but
+==
+GT alocusthathasGand T hasneither Hnor S)
+(but
+S and T are incompatibleproperties(cZharmas).
+-1138-
+(3) (4)
+(1)or (2)contradict each other.
+NII-IE-leEctlreoncitcronic Library Service
+ Thhee JaapapnaesneAessoeciaAtisosnociation off Indidainan andnd Buuddhdishtist Studuidesies
+AMinimalMedelofviruddhailyabhicliri(nN.UEDA) <103)
+(Ml)ThereexistsSinp,becauseofH, 1ikeHS. (M2)Thereexists T inp,becauseofG, likeGT.
+Itiseasy to see thatbothhetusH inMl and G inM2 satisfy thethreeconditions ofhetu.
+The universe of discoursceemprises threeloci HS, GT}, where (c"iarm{iHnCs)}...,
+"HG..."
+isidenticawilth thepaksa.
+We can extend theabove minimal model to any size. The fo11owintgable shows which anypairofthereferences givesrisetoavintddhaio?abhicarin.
+2)inference' (Tlable
+pak"'a Ml p M2 p M3 p M4 p
+-+- t--
+sa-dhya-dhamia hetu sapaksa
+s H HS T G GT U K KU v J rv
+--- --- -tt
+a model in
+vipak,ga
+GT,KU,.JV,... HS,KU,JV,... HS,GT,JV.... HS,GT,KU,...
+---
+paksap = HGKJ...
+Universeof disceurse {p,HS, GT, KU, JV, ...}
+=
+The sadhya-ciharmas S, T,U, V, etc. contradict each other, thatisto say, they are incompatible.
+ltiseasytoseethatanypairoftheinferencesinthetable2resultsinanantinomy (viracb dhiiyyabhicarin).For example, Ml and M3 give rise to an antinomy while the logicalrea-
+sons H and K meet the three conditions ofhein inMl and M3 respectively.
+Aminimalmodel represented byconcrete termsisgivenasfbllows.Supposethatthefbl- lowingstatemervt holdsas tothebaseball Nomura, Nagashima and Ou:
+players,
+Nomura isa playerLmanager,Nagashima isa manager, and Ou isa player,
+Given a universe of discourse Nagashima, Ou}-a real baseball {Nomura, game
+more thanthreemembers, of course-, letus make theinferenceMsl and M2.
+Nomura isnot able to stand inthe batter's
+(M1) lp) box(S)b,ecauseof beinga manager (H),
+likeNagashima (HS).
+(M2) (p) Ou (GT).
+Nomura isable tostand inthebatter's
+a 1ike player(G),
+-1139-
+box (T)b,ecauseofbeing
+requires
+NII-IE-leEctlreoncitcronic Library Service
+ Thhee JaapapnaesneAessoeciaAtisosnociation off Indidainan andnd Buuddhdishtist Studuidesies
+<104) AMinimal Model ofviradtihZtvlyabhiclirin (N.UliDA)
+3)inference (Tlable
+paksa
+Ml Nomuranotableto
+standinthe
+batter'sbox M2 Nomuraabletostandin
+hetu manager
+sapaksa Nagashima
+Ou forthetable1,itisevident
+player Sincethe tEtbl3e isobtained by substitutions ofconcrete
+Nagashinia
+that the inferenceMs1
+'s
+stand inthe batterbox
+and M2 inthetable3 result inan
+antinomy
+(Nomur=a p,not able to
+siZdhya-dharma
+vipaksa Ou
+thebatter'sbox
+== S,able to stand inthebatter'bsox=:T,manager
+H,
+= p]ayer
+G,Ngashima
+- HS, Ou == GT).
+[3]Deduction ofexample-bedy fromthesecond conditien ofhetu
+Inthepreviousection, we constmcted a minimal model of virudtVleayyabhicdirin
+basisof thenecessary condition (ofvinuddhdvyabhidcerdirviendf)romtheexample-bodies in
+theinferencesH.owever,thephenomenon of virttdcthfivyabhicarin arises frem the pairef inferenceesach ef which isyalid according to thethree conditions ofhetu. Therefbre,itis required toderivelogicalltyhe example-body fromthesecond and thirdconditions ofhetu. Theforrnadleductionofexample-body <io,Eifprtoim)theth,ircdondition ofhetu was essen-
+-
+tiallymade by J.F.Staa[E 1988 especially Only a slight modinca-
+(1962, pp.93-108, pp.93-97). tionofStaal'sformalizationsuthces toderivetheDignaga'sexample-body frornthethird
+condition of hetu.So,we leaveitaside now.
+The second condition ofhetu (sqpakseva sattvam: [heinex]ists only insapaksa) was formal-
+.=
+izedbyStaalas(y)(A(yH),tysapaksa)). Andhemade use ofa restricted-variable tode-
+note sapakFa, withtheresult ofthe fbllowingformalizatiofnthe secend conditien ofheim
+1988, (Staal, p.94):
+.- <y)(A(yH), (y a x((xtp)
+the restricted-variable (Ingeneral,
+A A(S;x)))).
+to handlesapaksa
+ofx such that
+a x ismade use ofto ffx)
+denoteany
+ffx)S.taalused the restricted-variahle
+deducethe fbrmulaof the example-body (io,iipti()A-(Hy.y) --bA,(S,y))-from the above formula.Buthisproofwas defectiv(ec£ Staal,1988,Introductiopn.,23;Ueda 2001,pp.98-99). Now, wc present a fbrmal dednction of the example-body from the sccond condition of hetu.Inthe fo11owing,thenext symbols are used.
+A(S-,x) :---A(S,x), (S-denotestheal,sencoeftheproperty S)
+--114e-
+terms
+of the values
+as a term in a propositionH.e) intendedto
+on the
+NII-IE-leEctlreoncitcronic Library Service
+ Thhee JaapapnaesneAessoeciaAtisosnociation off Indidainan andnd Buuddhdishtist Studuidesies
+AMmimalModelofviruddha-io,abhiedrin(N.UEDA)
+K(S,x): A A(S,x) (x#p)
+K(H,x) : (xA)A)ACH,x)
+S,H :variahles todenoteproperties.
+O :biconditionanlam,ely, logicaelquivalency. We formaliztehe second condition ofhetu as
+(105)
+K(H, x) . (x)(
+K(E[,x) (6()x)( .
+x = strpaksa), namely,
+(This any locusx ifH exists inx and x isnot x-: a zK(S, z)). reads: fbr
+thepaksa, then x issapaksa.) The formultao bederiveids:
+(3)(x[)(xlp)- (A(Hx,) - A(S,x))]. (C£ section [1]) We introducean axiom:
+- azi<(S,z)Oxfaz z)V=
+(x)(x (K(S-, (zp))).
+Intuitivelthyi,s axiom means thatsapaksa isneither vipaksa nor thepaksa, and wh,ich isneither vipaksa nor thepaksa issqpaksa.
+The deductionisas fbllows:
+thata locus
+K(H,x) (6)(x)(
+-.
+x
+:-
+a ZK(S,z))
+O z)- x; az z)V =p))) axiom) (x)CK(H, (K(S-, (z (above
+(z p)))(equivalenfcfyx:) g(x) ffx)
+in bothformulasmean thatthereexist some locithatsatisfy g(x)) general.7()Intuitively,
+O 'v KCH, x) V x # a z (x)(
+(K(S-,
+V g(x))
+(
+i x)(K(H,
+z) A x-
+z z) V == ] ,x) and (K(S-, (z p))) ((x)ftx)O('v 'v ffx),
+== -
+z) V O---
+O'--
+de Morgan'slaw).
+Ithinkwe can cenclude that(i x)(x -- a zffz) A g(x))isequivalent with (I x)(ffx) A
+'f g.) x)(K(H, z) Ax
+-- (
+--(
+both and Hence, we derive ] z)(K(H,
+(K(S-,(zp))) - (
+a z ilz)(K(H, z) A
+z) V
+(K(S-, (z= p))).
+z) V
+(K(S-, (z= p)))
+:=
+a
+O ] z)([K(H, z) A K(S-,z)] V z) A = law)
+-- ( [K(H, (zp)]) (distributive
+-'-(( O ( [K(H,aj (z p)])(( aj(ffzg)(z)) ( z)ffz) V (I z)g(z))
+-
+O Iz)[K(H, AK(S-,z)]VIz) A I V OI
+O A- (i z)((K(H, z) A K(S-,z)) ((i z)[(K(H, z) A (z=p)] means( l z) [(zifp)
+O
+--
+K(H, z)
+--
+and deMorgan's law) NII-IE-leEctlreoncitcronic Library Service
+A (z)(
+A(H, z) A
+(z= p)],and the tmth value ofthis
+K(S-,z)) x)ffx) O V -s- ( (I
+-1141-
+fbrmulaisevidently false)
+z) ・A
+=
+z) V from I
+--
+(x) ff,x),
+ Thhee JaapapnaesneAessoeciaAtisosnociation off Indidainan andnd Buuddhdishtist Studuidesies
+(106) AMinimalModelofviruddhauyabhican-n(N.UEDA)
+O z).-- - O- (z)(K(H, K(S-,z)) ( ffzV)g(z) ffz)g(z))
+HereK(S-,z) means A A(S-,z), namely, A A(S,z), therefbre, (z;p) (zA))--
+---K(S-,z)O (z- p)V----A(S,z)O (z- p)VA(S,z).
+Hence,
+(z)(K(H,z) - --- K(S--z,)) O (z)(K(H,z) . (z- p)V A(S,z)). ReplacingK(H, z) with A A(H, z) inthe right side formulaw,e
+A A(H, z) V A(S, z)). (7)(z)((zXp) . (z- p)
+O AA(H,z) . -
+(7) (z)((zlp) (zXpV)
+A(S,z))
+- ((zp)
+O -
+(zitlp)
+thefbrmula: get
+(zp))
+--
+(z()(#p) ((zlp) ( ffx)g(x) ffx)g(x))
+-.A(S, ...
+O (z)((zlp)(A(H,z) z))) ([RA P. (R Q)]O [R CP Q)]).
+Replacingthevariable z with x, we obtain theforrnuloaf theexample-body
+--+
+O A A(H,z) - A(S,z))) V O -
+. - A(S,x))]. (3)(x)[(xle{p()A(H,x)
+(Ctsection [1])
+Incidentallyw,e can derivethe formula(3)fromthe fo11owingformalizatiofntheseeond
+condition ofhetu.
+(8)(x)(x=a zK(H, z) -x= a zK(S, z)) 8).
+In the fbrmula a zK(H, z) isa restricted-variable to denoteany of thelociwhich are (8),
+heta-similar-instaanncdesarenot thepaksa.Chinese-JapanesBeuddhistlogiciantsermed
+a locust'hathashetu"hetu-similar-instance(
+p"n which *M )';,
+avM
+uMm
+)".(Alocusthathassadhya-ttharma was
+"sadhya-similar-instanee(
+is,sapaksainfact.C£ MurakamhSakaino, p.147.)
+termed
+The dednctionof(3)
+from(8)isstated inthenote 9) .
+[4] Concludingrematks
+We haveobtained a necessary condition of virttddhdivyabhicjrin on the basisof theexam-
+And we haveshown thatthesecond condition of hetulogicalliympliestheexample-body
+implicatiobnythethirdconditien ofhetu was already shown byStaal)t,herefbrewe can safely (the
+say that the above necessary condition applies to the Dign2ga's logicof the threecondi- tions of hetu.In connection with our argument, note thatwe do not need the concept of
+clqss or set tojntexprtehtesecond (andthird)condition ofhetu.
+Bibliography.K = Kanakayarman'sversioll of PSV. PSV == Pramdeasamuccaya-vrtti -- -1142-
+ple-body(ryliptil
+,
+and made a minimal model of viruddhaio,abhicarin using the condition.
+:
+NII-IE-leEctlreoncitcronic Library Service
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+A Minimal Model of  viruddhfivyabhicari
+刀 (N， UEDA)
+(107)
+Kitagawa 1965. Rosser J.B .1953 Logic
+Mathematician
+when
+  inference
+the
+based
+the
+agama
+ 
+2001 p.79  n.57.
+，，
+，
+discours
+ 
+ bhicarin ’
+ 
+saエe made  fer
+ supcr −sensiblc  oboeets 
+for
+  
+ 
+−
+互962Contrapositioin Indian Logic in Logic Methodoiogy and  Philos〜ρ彑ソqj’Sc’ience
+Proceedings qf the 19601hternatina Clongress， PP.634−649， Stanford(reprinted  in Staal
+ 〔’ ，，，
+1988 93−108).Staal 1988 UniveTsals− Studiesin lndian Logie and  Linguistics The Uni−
+;   ，，，
+Chicago Studi.esv Of ancient lndia − f’
+versity  of   Press. K董tagawa l 965，  、  nlogicthe system (〜
+1)1g煎傭 1∂’o in Japanese北川秀則『インド古典論理学の研究一陳那の体系一』鈴木 gg( )(
+学術 財 団 (臨 川 1985).Murakami!Sakaino  1932 B 4拗 競 10gた (in Japanes)e(村 上専 精 ・境 ， 
+野黄洋 『仏教論理学』丙午出版社 第三版(fir sptublishe din 1918). Ueda 2001， Dignaga， his
+logi・ ー ー
+ cand  apoha −theory(in Japanes)e(上田昇『ディグナ ガ，論理学とアポ ハ 論』山喜房)，
+1)Cf. PSV ， pA95 K，
+2) rtag  pahi覗露 khas blans pa la mh αn par bγa ba fiid daR bツαs pa fii d、ggra  la ci
+ rtag gam mi rtag ees the tshom gyi rgyu アin no. PSV P.505 K
+3 )According ’ inferencAe is by t!be −
+〃
+ to基s『因明入正理論疏』， the       conducted      VaiSe5ikaschoel
+against the Sound−produced−school (声生論)，while  the inferenc Bo is conducted  by the latter aga 血st the former(c£ Taisho 44，126b3−7). Incidenta.11y， the inference B.− the. example “sound −
+ness ” is replaced  by ∈ self−admitted  sound −ness (自許声性)” − as is conducted  by the Sound−  produced−sehool  against  the Buddhist sis considered  to be ofne  effect (cf， ibid.116a27).
+4 )We defin
+ ae universe  of 
+ aes a sot which  comprises 1the
+ 
+ (2)multiples  of 20 which  are not multiples of 3， and (3)皿uヱtiples of 3 which have the prgPerty
+，
+hiples of 5. Here S means  the   ofbeing  a number  whese  remainder  is l
+，
+ when  dividedby4. That l s to say， the universe of discour.ge ={60}U{20，4080，100]40，_} ，，
+，
+Sand  are 覧ot  
+property
+   
+  ∪ {9， 21， 33，57， 69， 81， 93， 正17，，.}.Then， it is easy  to see  that the foltowin ignferenc eCs and D   r’ise to a Viruddh∂ .C Ueda 2001 82
+  give りyabhictiri.n(£
+ (C)60is a multiple  of4 ， because of  be血g a mUltipl .e of  5， lik e2 .
+    sapakSa :20，40，80， 100， 140，_vipaksa :9， 21， 33， 57， 69， 81， 93， 117，_
+ (D )60has the property S， becaus eofbeiug  a multiple  of  3， 1ik e9.
+    sapakSa :9，21，33， 57， 69， 81， 93， 117，_. vipaksa :20， 40， 80， 100， 140，. −
+5)KamalaSila denies followingDharmakirti， that th巳re occurs  a viruddhi )O，abhica rin when
+ 
+ inference sare based on fact(vastu ). And Dhamiakr”rti ad皿 it sthat there can be a yiruddh ∂}p・a−
+ 
+ on 
+ tradition 
+( ).
+  Ueda
+ ple−body in the inferunce of  thrce parts to be identic wailth  the second  condition  of  hetu(c£ PS 。h.3観喩似喩品， k.1<cf. Kitagawa， p.239−241> ‘two conditions (thc second  a:id third con −
+ 
+ditionsare shown  by ごゴ’ 基 『因 入正理 Taisho44 109c27 .
+ Cf .
+6)It seems  to me  tha tDign巨ga and  the Chinese−Japancs cBuddhis tlogic正alls consider  the exam −
+，
+，
+) 伽御; 明 論疏』 ， 「陳那巳後説因  三相即摂二 喩.二 喩即因..倶顕宗故」;ibid.110a4 「喩体実是 因」;善珠 『因明論明燈抄』
+一1143一
+p.)
+sMcGRAW HILL. 
+StaalJ.F . ，，
+∫ natural number .60 ()pakSa(     )
+NI工I工-一Elleoetcrotniroonic Library Service
+，
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+(108) AMi血nal Mod.el of virt{ddん屍脚施c凌吻 (N，UEDA) Taisho 68，289cl 「軌師云.因後二:相.即是二喩」).
+7 )In the  ， the symbol α stands  
+fbllowing for(()= g ( =
+αzfz).≡ヨx(x α〈(x)⇔ ヨx)(xα
+  〈9( a )(since x= α ，9(x)⇔ 9( a ). In x= α ， xand  α are twQ names  ofthe  same ubject ・
+・  Therefbre(ヨx)(x=a〈g(a)means(ヨxXヨα )(x=a〈g(α ). And(iヨa)(x=α
+  〈 g(α )⇔ (fてx)〈 g(x)(c£ Rosser I 953， p.166， W .1.7(a)， hence， (≡ヨx)(ヨ a )(x= α 〈
+‘‘ ”
+α ⇔ ≡lx f x 八 x . Resser Chapter 6 The R.es 廿icte dPredicat Cealculms deals
+ g(  ) ( )(() g() (
+−
+，
+ with  the re9. trictedvariables under thenotations Dther tha
+those
+by
+Staa1. )
+     
+皿
+ used  
+ 
+  (   8)Althoughthe meaning  of theforrnul8a)is rather  much  differefnrtomthe original  meaning  of
+  
+ the second  condition  ofゐe跏 the formula(8)i sdecisiveldyifferen丘tom theformula(3)in that
+，
+  (8)contains 柚 e notion  of  similari .ty(−similar −insta¢ne)whi ]e (3)does not . We  find an (8)−like in輝P「etation  of the second  condition  ofhetu  in a JaPanese皿 onk ’s work :不離宗同.必有因
+ 同.故云定有性.所以爾者.因第二相.其体即是 (善珠 『因明論明燈抄』Taish，o 68， 267a25−26).Here， 宗同and 因同mean 宗同品and 因同品， respectively .
+9)If the equ量va[ency of(ヨx)(x; αzf(z)〈x=αzg(z)with (ヨx)(f(x)〈g(x)is shown
+ 
+血 ， then the for皿 ula 3 can  be derive dinthe same  man 駕 r with  the deductio nof (3)
+   general ()
+ p.94):(aF (x)G(α xF (x)⇔ (x)(F(x)→ G(x)(rule 1)， (ヨy)(y=α xF(x)⇔ (ヨx)F(x)(rule
+ 
+  倉om (6).]ro show  the equivalency  we use twQ rules concerning  restricted −variabl .es (cf. Staal
+，
+，
+ 2).The deductlo nis as f)cIlors.(ヨx)(x=αzf(z)八x=azg (z)⇔ (≡ヨx)〜(x= a zf(z.)→
+圦
+x≠ α zg (z)⇔ 〜 (xXx =α zf(z)→ x≠azg (z). We redefine  x=α zf(z)and  x=α zg as
+  P(x)and Q(x)， respe(洫vely. Then〜(x)(P(x)→ 〜Q(x)⇔〜(αxP(x)〜Q(α xP(x)(rule ，
+    1)⇔ (≡ヨ a xP(x)Q( α xP(x)⇔ (ヨ a xP(x)( α xP(x)=  α zg(z)。Si皿ce the lastfbnエェula
+  means  that among  lociwhich  satisfy  P there exist  some  locithat satisfy  g， we  may  conclude  that (≡ヨ α xP (x)( a xP (x)= α zg (z)⇔ (ヨ  α xP (x)9( α xP (x) (This equivalency  is  obtained  when  we  restrict x and  y to the loc iwhich  sati sfy P in the schema  of the rule 2.)(ヨ   α xP(x)9(αxP(x)⇔(ヨx)(P(x)〈9(x)(see*be1・w)⇔(ヨx)(x− azf(z)〈9(x).   And， as is stated in the note 7，(ヨx)(x=azf(z)〈9(x)⇔ (ヨx)(f(x)〈9(x).  *(ヨx)(P(x)〈9(x)⇔ (ヨx)〜(P(x)一レー−9(x)⇔ 〜(x)(P(x)→ 〜9(x)⇔ 〜(α xP(x)   〜9(α xP(x)(rule 1)⇔(ヨαxP(x)9(axP(x).
+〈Keywords > 相違決定， 同品， 喩体， 遍充i sapaksa ， Staal
+                                    (Professor
+  
+一1144一
+，
+ 
+ 
+Universit， 
+Mejire
+yD .Lit.t)
+NI工I工-一Elleoetcrotniroonic Liibrbaryary Service   

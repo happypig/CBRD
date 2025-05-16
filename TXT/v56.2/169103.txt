@@ -1,0 +1,228 @@
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(114) 印度學佛敏學研究第56巻第2号 平成20年3月
+、
+はじめに
+  − PramanavarttikaIII192 193 に
+護 山 真 也
+つい
+て
+ ダル マ キール ティ の Pram的av5rttika (Pv)IIIは
+PV の梵本を校訂出版して以来， 戸崎宏正博士の 『仏教認識論の研究』(大東出版 社，1979，1985年)にいたるまで多くの研究が積み重ねられてきた.その結果， PV IHの思想内容の解明は進んだものの， テクス トの批判的校訂とい う観点からは， 一次資料となるPVならびにPV注釈文献の写本へ のアクセスが閉ざされていた
+ために， 未だ不明瞭な個所を残したままであっ た.しかし， この研究状況は， 近年，
+大きな転機を迎えつ つ ある.渡邊重朗博士によるPV 注釈文献写本の facsimile
+ 
+edition の出版(1998年) E. Steinkellne rH. KrasserH. Lasic博士によるジネーン
+− ドラブッ デイの Pramduasamuccayatika (PST)の校訂テクス ト出版 (BeijingVienna，
+，，，
+2005年)， E. Steinkelln博er十による Prα配 勿αy’庸 α 脚
+年)により， PV IIIの批判的校訂を可能にする状況が整っ た.すなわち， これら
+の新資料を用いることで 従来不明瞭な解釈にとどまっ ていたPV・IIIの幾つ かの ，
+詩節を再校訂 ・再解釈する道が開けたので ある.本稿は，その一例 として，PV
+II I192−193 を取 り上 げ ， こ れ らの 詩 節 の 従 来 の 読 み を訂 正 し， そ の 解釈 な ら び に 思想史上の意義について， 若干の考察を加えることにしたい.
+1.従来の PV III 192−193解釈の問題点
+ ここで問題とするPV II I192・193は， 戸崎博士による科段では， 「1.量の数」， 「II. 現量の定義」に続く「II.I現量の名称」とい う箇所に属す.知覚は対象(Visaya) と感覚器官 (aksa )の 両者に依拠して生じるに も関わらず， それはなぜ pratyak5a
+とだけ呼ばれ， prativisayaと呼ばれない のか.ディグナーガのPramdyasamucc)7a (PS)14abならびに同詩節へ のP[rttiで論じられる内容を注釈して，ダルマキール ティは次のように述べ る.まず戸崎博士が採用した読みと翻訳を提示する.
+一923一
+，
+1938年に R. SEnlcpty5yanがa
+1， IIの校訂テクス ト出版(2007
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+Pramd”avarttika  lll 192−193につ い て (護 山)
+sEkEc cet 巨najanane  samartho vayo’kavut  呂 jfi お 寧 I
+atha  kasmad dvayidhnajama tat tena nocyate 凵 (191) もし対象が感官と同様に直接的に知を生ぜしめる能力をもつ ならば，
+(115)
+て生じるそれ(= 知)がそれ(= 対象)によって名づけられないのか(と問うならば) ，
+samik 写ya gamakatS」arp hi vyapadeSo  niyzljyate  I
+192
+およそ名称は， (それが所詮の対象を)知らしめるものであることを考慮して定められる.
+tac c5k aVyapadeSe  ’sti taddhar  lds ca  niyojyat5m  
+串 “ ( )
+(い ま現量の名称につ い ては，)感官(とい う語を含んだ)名称(すなわちpratyak$a)には， それ (=知らしめるものであること)がある.またそれ (=知らしめるものであること)
+(によっ て遍充される)法が (名称に)使われるべ きである.
+tato 
+Vyapade jyatE1m
+’
+1ingasvabhEvo tra  ξe niy()  
+ab 193 1 1( )
+nivrttit
+ ここでは， 〈知らしめるものであること〉(ga皿akatva)とそれによっ て遍充され
+ svabhavasya   それゆえに，この場合の名称には，(「現量を知らしめるものである こと」の所遍)自性 である証相が使用されるべ きである.(「対象」とい う語を使用することは)否定される. なぜならば能遍自性 (すなわち「現量を知らしめるものであること」)を否定するから.
+nivarttate   vy5pakasya
+ 
+る法 価ar皿a)との問にある遍充関係を根拠として，
+aksa という語を含む語が使用されるべきであることが述べられている.だが， そ
+の く知らしめるものであること〉によっ て遍充される法とは何かは不明である. 戸崎博士は解説におい て， 「所詮の 対象を知らしめる何らかの法 (dharma)」とは， 現量の名称の場合には， 「所詮の対象である現量を他の知一 「他相続の識」や「意 識」  と区別して知らしめる法， つ まりaksa (感官)とい う語」であると理解
+されているが，aksa という語がpratyak$aとい う語のdharmaであるとはどういう
+ことだろうか.また， いかにPVが省略を含む文体で書かれているとはいえ， 原 文だけからは想定困難な補足をこれだけ多数認めるべ きなの だろうか.
+2.PVIII l92−193のテクス ト訂正
+ このような疑問から， 周辺資料を確認してみると， ジネーン ドラブッ ディの注 釈に， この箇所に対応する以下の 議論を見出しうる.
+PST 40.5−9;ayam  atr蕊bhiprEya.h lokena hy asya  Sabdasy轟sminn  abhidheye  praty巨yanasamartllyam
+’
+astiti   abhisamikSya  Sabdah  . tac ca gamakatvam  indriyavijfianek$avyapa −
+gamakatvam pra刄
+jyate
+de≦asy 互sti na  viSayavyapade 忌asya 。 gamakatvena oa  Sabdaniyogfir互hvaytapt 氏 atas  tad gamakatva 叩
+vi a ade 伽 niv 麒 am 跏 鱒 iy。  api  nivartayati . ato  na  villayair  VyapadiSyata it.i
+町 脚 ghrhatlim 以下のことがここ(=PSV on 1、4ab)では意図されている.実に， 世間の人々は「この
+一922 一
+なぜ両者に依存し
+「知覚」を表示するためには
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(116) Pramduav屍rttika II Il92−193につ いて (護 山)
+  語 に は こ の 表 示 対 象 を 知 ら せ る 能 力 が あ る 」 と (そ の 語 の ) 〈知 ら し め る も の で あ る こ と 〉  (gamakatva)を考察して， 語を使用する.そして， その く知らしめるもの であること〉は，  感官知に関しては， aksa とい う名称にあっ て， visaya とい う名称にはない.そして 〈知  らしめるものであること〉によっ て 〈語の使用可能性〉は遍充されている.したがっ て，  visayaとい う名称から否定されてい るその 〈知らしめるものであること〉は， その (語の)  使用可能性も否定する.したがっ て， v畑yaによっ て (知覚は)表示されない .
+ このジネーン ドラブッディの文章は， 校訂者が注記するようにPV II I192ab か ら の 改 変 を 含 む 引 用 と 193 と の 並 行 表 現 を 含 ん で お り， 全 体 と し て PV  III 191−193を下敷きとして書かれてい る.この 文章を先に見たPV II1191−193と比べ てまず気付くことは， PV において不明であっ たgamakatvaによっ て遍充される 対象が， PST におい て 9abdaniyogdrh磊atとして明示されてい ることである.逓充 関係が明確である分， PSTの議論はpvのそれよりもはるかにわかり易い.では，
+ジネー ン ドラブッ ディは何を典拠として SabdaniyogfirhatEとい う遍充対象を記し たの か.
+も う一 度 PV の 二 つ の 詩 節 を 眺 め る と
+tamとい う動詞一 この存在こそが二つ の詩節の理解を困難にしている元凶であ
+るのだが一一が登場していることに気付く.この二つ の動詞が登場する箇所で， マノーラタナンディンの注釈は次のようになっ ている1).
+PVV (ad  PV  III l92d)176.11(=PVVM β4b2): tasya  gamakatvasya  vy5pakasya  dharmo 順py。bh而t・衂句y・t互(M・.・・iy・jy・軸 。鼠)2)
+PVV (ad  PV  III 193ab)176.14£ (=PVVM 、 34b2): tato vyapak 蕊bh巨v 且t VyapadeSe  dtLarmηi atra gamakatv’e sfidhye  niyojya ，ta (Ms .:niyolyat 蕊lp θの 1 ga〔凱
+ ここで， 写本に反して校訂者がanusvara を加えてい ることが分かる.おそらく はSanlptyayanaは1938年に出版したPV校訂本の読みに従っ て， 意図的にこの加
+筆を行っ たものと思われる.ではPV写本の本来の読みはどうだっ たのか....一つ の手がかりはプラジュ ニ ャーカラグプタの注釈に含まれるPVの読みであるが，
+ そこで，
+− ， そこに:二度に渡っ てniyojya
+やはりそこでもanusvEra はない 3).そして， S劭k算y巨yanaが PV校訂で基本資料としたHemar司a gaan 寄贈の貝葉写本 (PH)は， この箇所を
+写本を確認する と，
+含んでい なかっ たものと推測される4).したがっ て， 残された可能性は，
+シャル 寺で発見された貝葉写本 (PS)に基づい てanusvara を含む読みが採用されたとい
+うシナリオか， あるい は単純な誤記か， のい ずれかである.い ずれにせよ， ここ でこれらの資料を総合するならば，PV III 192−193は次の ように読まれるべ きで ある.
+NI工I工-一Elleoetcrotnlroonic Llibrbaryary Service   
+一921 一
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+P厂砌砌酬々π”加田192−193について (護 山) (1/7)
+saエn止寧ya gamakatvar口hi VyapadeSo niylljyate 「 tac cakSavyapadeSe  ’sti taddharmaS  ca niyojyatE  il(192)
+実に， 名称は， 〈(その表示対象を)知らしめるものであること〉を考慮して使用される.
+それ ゆえに
+，
+，
+=
+感 覚 器 官 に よ る 名 称 (= a ) に は そ れ 〈知 ら し め る も の で あ る こ と “ pratya寧k ” (
+そして
+がある.そして，それ(= 〈知らしめるものであること〉)によっ て(遍充される)属性5)
+が く使用可能性〉である.
+tato li血 蕊vo ’tra   niy〔) 巨 gasvabh VyapadeSe jyat1
+皿 ivartta vtyeEpakasya  svabhEvasya  nivptita 恒1} (193)
+〉)
+この (‘[prativisay”aという)名称に関して，〈使用可能性〉という証因であ
+る本性は6} 能遍である本性(= 〈知らしめるものであること〉)の否定に基づい て否定 ，
+される.
+3.PVIII l92・193の 推論式が意味するもの
+ このようにniyojyata の読みを採用することで， 二つ の詩節は， 先に見たジネー ン ドラブ ッ ディの記述と同様に， niyqjyata とgamakatVa との 遍充関係に関する議
+ダルマ キール ティの術語を用い るならばvyEpakAnupalabdlii を援
+論，
+用した議論として理解で きる.NB II 33で説かれる Vyfipkanupalabdh，iに基づ く推 論式を参考にしながら， PV II I192−193の論理構造をまとめるならば次の ように なる.
+すなわち，
+svabh 即ahetu に基づく推論式
+vyapa
+pak 婁a s五dhya
+s且dhana
+upalabdhi に基づ く推論式
+atra atra  vyapade 爵e
+曲 6ap瓢bh註vaniyojyat 五bh蕊va vτks翫bh5vagamakatv 五bh五va
+paksa ayam s琶dhya vrk 寧a
+sδ曲 ana (1i血ga) 函i螂 apatva
+ayam  vyapade gamakatva niy (オyata
+忌a
+ 以上で二つ の詩節が説く推論式の構造は明かであるが， その意味するところ を理解するためには， この 個所が注釈するPS I 4abとVlntiの 議論を確認してお
+く 必 要 が あ る 7 ). そ の 個 所 で ，
+ではなく ，
+pratya睾k 名 表
+ディグナーガは 「知覚」をprativisayとaい う名称 aの 称で 示するのは akllaとい 語が〈概念を離れたも
+う
+の 〉たる知覚に特有な要素 (asEdhEraipahetu )だからで ある， と述べ た S).つ まり，
+vi$aya は意識(man ・蝉伽a)など他の概念知と共通するが， ak$aは共通しないため， 語源分析からも， 知覚 (厳密には感官知)の非概念知性が導かれる.これに対して，
+ダルマキールティが述べるのは， 「〈対象を理解させるものであること〉(gamakarva) をもつ 語が使用されるべ きで ある」とい う語の 使用に関する原則の 確認にすぎな い .換言するならば， デ ィグナーガにおい て語源分析の問題であっ たものが， ダ
+一920一
+，
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(]18) Pramdwavdirttik aIII 192−193につ い て (護 山)
+ルマ キールティにおいては言語使用の問題にすり替えられたとい うことである.
+その結果， pratyaksaとい う語から， 非概念知性とい う知覚の特質を立証しよう としたディグナーガ説は， PV II l192−193では捨象される.なぜダルマキールティ
+はディグナーガ説を踏襲しなかっ たのか.
+ダルマ キールティの同時代人 クマーリラの議論からの影響があっ たものと推測する9).クマーリラは，菖V
+ 詳細は別稿を期すが，
+筆者はこの点につ い て，
+ 
+120−139において 念を伴 知 (savikalpakapratyaksa )もまた知覚であ ，
+pratyakSa 概 う 覚 ることを種々の点から論じてい る.そのうち，
+次の 三点は PS I 4abの デ ィグナー ガ 説 に 対 す る 批 判 と し て 解 釈 し 得 る 1 °). (1 ) 概 念 を 伴 う 知 覚 は 問 接 的 で あ れ ，
+感覚器官との結合関係に依拠してい るので， pratyaksaと呼ばれる.感覚器官は 概 念 を 伴 わ な い 知 覚 だ け に 固 有 の 原 因 な の で は な い . (2 ) 世 間 の 慣 習 的 用 法 と し て pratyaksaとい う語は概念を伴う知覚も意味することが知られてい る.学者た ちですら世間で周知の事柄に随順するのであり， 周知の事柄を定義によっ て変更
+することはできない .(3)pratyaksaとい う語の語源から知覚の非概念知性を述べ
+ることはできない.概念知の自己認識(PS I.1.7ab)の場合 五種類の感覚器官は ，
+機能していないので， 意(manas )を感覚器官として認めるとすれば， 概念を伴う 知覚を認める者たちにも都合がよい .
+ このい ずれの点も，ディグナーガのPS・1 4abに対する有効な批判であり，
+マ キールティはこの 点に関して決定的な応答を見出しえなかっ たのではない かと 思われる.PVIII l92−193に説かれる二つ の推論式は， 「知覚」を理解させるため
+にpratyakSaとい う語が現に使用され， prativiSayaとい う語は使用されてい ない こ とを述べ たにすぎず， 理解されるべ き「知覚」の内実には踏み込んではいない. ダルマキールティは， pratyaksaの語源分析に関してクマーリラとの直接対決を回
+避した上で，仏教徒が認める 「知覚の非概念知性」につ い て，それは 「知覚のみ によっ て証明される」(PVIH  l23ab)とい う立場を取る.この ような思想史的背景 を考慮するならば， PV II I192−193の意図は， 理論的難点を抱えるPS I 4abのディ グナーガ説を実質的に無効化することにあっ たと言えるのではない だろうか.
+* 本稿は， 2006年冬学期にウィーン大学で開講された John Taber教授によるゼ ミナール での発表原稿を元にしてい る.有益なコ メン トを頂い た同教授に心より感謝する.
+1)使用テ クス トは
+，
+PWI 瓦 S
+蜘 y舳
+a (ed .)Dharinakirts  ，
+ a com −
+  mentary  by  Manorathanandin . Ap ρendix  to J70urnaolfBihar  and  OrissaResearch Society24−26 ，
+Patna 193&1940;PWMs ;S. Watanabe(ed，)，漁 η3繍 漁 5嘲 q勘 ηorα韵 鯲 Pr窟一 一t・919 一
+’
+iPra
+With
+:nErpavarttika  
+    
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+ダル
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+、Pramdeavartti kIaI I192−193につ い て (護 山) (119)
+mdu αvarttikavrttih ， . Facsimile Edition. Patna−Narita 1998. 2)tfiの文字上にある欄外注を指示する印がanusvllra と見間違えられた可能性もある.
+3)S.Watanabe (ed.)Sanskrit Manus PrajnNakaragutap’ ’
+      FacsimileEdition.Patna −Narita 1998fbl.139b5140a2.
+瀬 vδκ倣α醜 α珊 or VlirttikalankarPa
+(
+ 脚 磯y 〜ズヴgゆ砥p
+〜 10) Cf. S’lokavdrttie
+〈キーワード〉 ダルマ キールティ，
+ crip ，y qf   s PramduavitrttikabhEi」b
+，  ;am.
+，，
+4)凡 Si面 t頭yana校訂に よる PV (Apρendix  to JournalofBihar Ori，ssa Researt’hSoeiety
+〔  and    
+24， Patna 1938)の序文から， PH写本は多数の欠落を含み，かつ 10葉程が欠けている  ことが知られる.PV lllに関してPV校訂本では欄外に24aから始まる番号に混じっ て，  16bから始まる番号が振られてい る箇所がある. B. Kellner博・上とのプロジェ クトにお
+ いて，PH写本に同定されうる， G. Tucci・collectionの写本のデ ジタル コ ピー (Francesco  Sfbrra博 士 か ら Kellncr博 士 が 受 領 した もの ) と の 部 分 的 比 較 に よ り， 24a か ら の 番 号  の 箇所が PH 写本に基づ く箇所で あろ うと推定された.  PV  II I191−193は 17aの 番号が
+振られた箇所に属すので， PH写本欠落箇所であろうと推測される.
+5)taddha aの解釈は*Pramd4avtb・ttikapafijika(PVP)， D.4217， fbL l89a2f.=P.5717，
+f()1.220a6£ ならびに PVV  176.11に基づ く，
+6)Cf. PVP  D.189a3=P.220a8f.:go bar byed pa’i rang  bzhin rtags  ni nges  par sbyar   irang
+7)シャーキャブッディは二つ の推論式をPSV・ad・PS I 4abで言及される「太鼓の音」「大 麦の芽」を実例とした推論式にする.戸崎 『仏教認識論の研究 (上)』，p. 292f.， fU.6.
+8)C£ M.Hattor， iDignaga， On.Pereeρtion， p.25f.この個所がAbhidharmakoSiabh9. .yZaa(ad AbhidharmαkoSa・1・45cd)を下敷きとする こ とは，同上 p.86， n. 1.31を参照.
+9)プラジュ ニャーカラグプタはPV III l93の注釈において，盒o左αv々漉∫勧， prat蜘ya  132ab， 138cdを改変した詩節を反論として提示する. Cf. R. S...inlqrtyayan(ead.)，Pra一
+.278.33.
+  ba irtagsnges  par sbyar  ba di (di D :de P )ldog gyur
+bzhin zhes  bya ’ bar’
+ 
+ 
+ 
+Pramduavarttika， 知覚                           (ウ ィ ー ン 大 学 研 究 員
+Ph.
+π 肖撒 αrα
+， kparatyak爭a  120−139 p.156fi同個所の翻訳ならびに解説は，同上pp。96−105ならびに戸崎宏正 「クマ ーリ
+ ラ著『シュ ローカヴァールティカ』第4章(知覚スートラ〉和訳(4)」『印度哲学仏  教学』第6号，pp.75−90を参照.
+， in J. Taber
+， A  Hindu  Critigu
+一918 一
+   ro   n
+(
+ Esptistemology. fBuddhi
+，
+ 
+D .)
+NI工I工-一Elleoetcrotniroonic Liibrbaryary Service   

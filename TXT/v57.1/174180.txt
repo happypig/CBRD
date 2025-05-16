@@ -1,0 +1,144 @@
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+(164) 印 度 學 佛 敏 學 研 究 第 57 巻 第 1 号   平 成 20 年 12 月
+Pramaηasamuc αaya 1 4cdの一 解釈例 吉 田 哲
+0.はじめに ・問題の所在
+ Dignaga は主著Pram吻uasamuccaya (PS :° −vrtti PSV)第一章におい て，認識手段
+，
+(pram巨ロa)を知覚(pratyak$a)と推理(anumana )の二つ とし1)， それは認識対象(prameya) が二種のみだからだとする.そして 知覚( )は 自 」(固有相.
+pratyaksa 「 相
+svalak $ana )を， 推理 (anumana )は 「共相」(一般相， samanyalakSaqa )を対象と し2}，
+知覚は無分別 (kalpanap。dha)と定義する3).知覚が自相を対象とするとい う点は， 知覚が推理と峻別される根拠である.ところがDign互gaは知覚の 一種である感官 知に関し次の ように述べ るの である.
+PS I4cd& PSV :abhidharme  ’py uktam  cak $urvijfiEnasamafigi  nilarp  vijan5ti  no tu iti
+     nllam    arthe ，
+’rthasafijfi ina tu dharmasa亘j而ti/katha tarhi saficitalambanib    vijfianak5yah    tad ekato 叩 pafica ， yadi
+  iti!
+yac yatanasvalaksaqna  tatr査nek 巨rthajanyatvEt  sv5rthe  s巨m 互nyagocaram
+drav 爭 (4cd>〃 anekadravyotpfidyatvfit  tat svfiyatane
+na  vikalpayanti !  c五 【 rat  ete svalaksaqavi a 互na  
+  asvalak anam
+s巨manyavj §ayam  uktam ， na  tu bhinne爭v abhedakalpan [和訳]アビダルマにおいても「眼識を有する者は， 青を識るのであり，『青だ』と〔識 るの〕ではない.事物に対して事物の 想を有するの であり，法の 想を有するの ではない 」 と言われてい る.では，どうやっ て五識身は集積を所縁とするの か，もしそれ (感官知)
+が一つ として分別するのでなければである.また， 識身)は「処の自相」(ayatana−svalaks御a)について自相を対象とするのであり， 「事の
+」とすればである，
+ そこ (アビダルマ)では，〔感官知は〕多数の事物 (aneka −artha)によっ て生じるからt
+自らの 対象の 範囲 内で (svarthe )「共相」を対象 (s五manya −gocara)とす る.
+ それ (感官知)は多数の事 (aneka −dravya)によっ て生起するから， 自らの 処の 範囲内 で (sva−ayatane)「共相を対象 (samanya −viSaya )とする」と言われるのだが，多数の異
+なる もの (bhinna)を同一だと分別する こ と (abheda −kalpana)に よっ てでは ない .
+ この部分は， Dignaga自らの知覚説とアビダルマ とが無矛盾であることの釈明， 所謂 「会通」であるとされる4).確かにDignAgaは説一切有部 (Sarvastivfi)dinの
+一
+NI工I工-Elleoetcrotniroonic Liibrbaryary Service
+_
+409 一
+五t / (p.2 ll.20−26)
+爭
+もしそれ (感官知)は 「それら (五
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+ 1 4cdの ・解釈例(吉 田〉 (165)
+論書『阿毘達磨識身足論』(職身足論』)によっ て5)，
+では認識せず， 語と結びつ かないことを確認する.彼によれば分別 (kalpana)と
+Pramaeasomuccaya
+は 語 と の 結 合 で あ る か ら 6 〕，
+ても妥当とされる.しかしなお 「知覚は無分別」とい うことと， 「五識身は集積
+を所縁」とし， 「五識身は処の自相につ いて自相を対象とするのであり，事の自 相につ いてではない」ということとの矛盾が指摘される.その回答であるPSI
+− ”“samanya −viayam” という表現は， PS自身 ，
+4cd及びPSVの “sam5nya
+の 記 述 に 一 見 す る と 矛 盾 す る . 実 際 ， Mallavadin は ， 知 覚 が 共 相 を 対 象 と す る と すれば対象の点で推理と差異がなくなり，知覚と推理とい う二つ の認識手段の設 定が無意味となる， 等々と批判している7).もしPS I 4cdで用いられる ’sAm5nya ’ とい う語が推理の対象としての ‘sEmanya −lak$arpa’と同じものであれば， Mallavadinの 批 判 は 当 然 で あ る が ， そ う考 え る こ と も 困 難 で あ る . で は Dignaga は こ こ で 何 を し よ うと して い る の で あ ろ うか .
+gocaram $
+1.Dignaga以前のアビダルマ論書の 「処の自相」・「事の自相」に関す   る記述
+ 上に引用したPSV の 波線部はVasubandhu の AbhidharmakoSabha−sva (AKBh )に 含 ま れ る も の で あ る 8 ).
+ そのAKBh の記述は 『阿毘達磨大毘婆沙論』(『婆沙論』)巻127の記述9) にも
+とつ くと考えられる.その 『婆沙論』の記述によれば， 自相には 「事の 自相」と
+「処の自相」とい う一1種があり五識身は「事」につ いていえば多数の事(*dravya) ，
+によっ て生じ， 「処」についていえば自相を対象とし，五識身は「総」と「別」 とをともに取るが， 「共相」を取る とい う過失にはならない とされる.こ れとほ
+ぼ同じ記述が 『婆沙論』巻13にもあるが10)， そこでは五識身も「共相」を縁じ ると表現される.AKBh に先行するアビダルマ 綱要書 『雑阿毘曇心論』(r雑心論』) には， 「事自相者笠境界.入處自相者自相境界」11;i とあり， 『婆沙論』巻13の 「若 依事自相説者， 五識身亦縁塑 .若依處自相説，則五識唯縁自相」と同内容と考 えられるが，『婆沙論』巻13が 「共相」と訳してい るところを 「等」と訳してい
+’’ る.r雑心論』の 「等」と「婆沙論』の 「共相」はともに s5m5nya の訳語であ
+ると考えられるが， 『雑心論』は他の箇所で ’samEnya ’に当たる語を「共相」と
+訳してお り12)，
+中でも， 五識身は 「自相」を対象とせねばならず，「共相」が対象であるとすれ
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+訳語を使い 分けてい る.以上の ように，
+すでにアビダルマ 文献
+一 408 一
+眼識等は 「青だ」とい う形
+感官知が無分別であるとい う点はアビダルマ におい
+  
+ Thhee Jaapapnaesneese Assosoolactlioantion off I工ndldanian andnd Buuddhdlshtist Studuldesies        
+(166) Pramdrpasamuccaya  I 4cd の 一解釈例 (吉 田)
+ば 矛 盾 で あ る と い う こ と が 定 説 化 し て お り ， た と え 「共 相 」 を 対 象 と す る と 表 現 して も問題を生 じない よう措置が取られてい るこ とを確認で きる.
+2 . Dignaga 以 後の 諸注釈例
+ Dharmakirtiを始めとする後代の理解では， 反論者が， Vasubandhu の 「処の 自相」
+DevendrabuddhiやJinendrabuddh等iは， 「『事の自相につ い てではない』とい うこ とによっ て間接的にsamanya を対象とするとい うことが含意されてい るのではな
+い から，過失はない 」と説明してい る14〕，これは彼らが， 上記の Vasubandbu の
+記述によっ て知覚の対象としては相応しくない 意味での 密m ...血ya’ が感官知の 対 象 で あ る と 理 解 さ れ る 恐 れ が あ り， 何 ら か の コ メ ン ト を 付 す 必 要 を 感 じ た こ と
+を示してい る.
+3. まとめ
+ この PS I 4cdに関しては PS Iの VZidavidhi批判におけるDignaga 自身の 記述や， 彼の著作辺α励砌 叩α厂晦∂との整合性の問題が指摘される15)，しかしこの点に関 して注釈者Jinendrabuddhiの発言は示唆的である.それは， 知覚 (pratyak蜘 が
+‘pratyak$a ’ と 命 名 さ れ る 根 拠 16 ) に 関 す る も の で あ る . 彼 に よ れ ば ，  PS 体 系 中
+で用い られる ‘pratyak$a’とい う語は， 語形からはその意味を知ることが出来な
+い術語(sa口}na)であるとい うのがDignagaの本意であり，その命名根拠に関する
+彼の発言は他派を考慮したものであるとされる17)。実際，Dignagaのい う「知覚」
+は外界の対象の実在を前提とした 厂感官」(aksa)とい う点のみから理解し切れる
+ようなものではない.周知の如くDignfigaは知覚に 「意知覚」や 「ヨーガ行者の
+知」等をあげるが18)， それらと感官知に共通する点は 「無分別」とい う点である.
+PS I 4cdとその PSV におい ても重要なのはその点であろう. Dignagaは先行する
+アビダルマ 文献中の議論を彼なりに要約した形で再現し， 五識身の対象としての
+’’
+samanya の意味が自説に抵触しないことを確認してい ると考えられる.
+[略 号 ]
+AKBh :Abhidharma 一κo∫加 肋 みγo ， edited  by P. Pradhan， Patna， 1967. PS/PSV :Dignaga :s
+ Chapter 1 by Ernst Steinkellner2005〈www .oeaw .ac.at!ias1Mat/ ，，，
+ま た Dignaga が PS I 
+とい う語を分別知の対象としての 「共相」と誤解してい ることになる13).また
+と 「事 の 自 相 」 に 関 す る 記 述 を 誤 解 し
+，
+Pramb4asamuccaya
+dignaga_PS_1.pdf>. PST :」’ηεη4rα伽媚乃踏 階∂1δ用01αvα’Z 1)rama4asamucca アa1ikfi Chapter 1，
+一 407 一
+‘’ 4cdで 用 い る samanya
+一
+NI工I工-Elleoetcrotnlroonic Llibrbaryary Service
+  
+ Thhee Jaapapnaesneese Assosooiactioantion off I工ndidanian andnd Buuddhdishtist Studuidesies        
+ 1 4cdの一解釈例 (吉 田) (167)
+Prama4asamuceaya
+Part 」 :Critica Eldjtion， by Emst Steinkellne， rHclumut Klasscr， Horst Lasjc， Bcijin−gVicnna
+2005，PV :Prαmatiavat ・ttika−karika(Sanskri
+ド古典研究』2， 1972，pp.1−219);戸崎宏正 『仏教認識論の研究 上巻』大東出版社， 1979(1戸崎』).PVP :Prama4αvδrttikapafiy’ika(by Devendrabuddhi): デル ゲ版 (D)No. 4217，北京版 (P)No.5717. PVT :Pramduayfirttik at. ika(by Sakyabuddhi):デル ゲ版 (D) No.4220，北京版 (P)No. 5718.
+ atnd  
+by
+ itj。_ 〔p.1〃.16−20).     3)PS I 3c:
+−
+6)PS I 3d&PSV;atha keya叩 kalpana n巨ma . n訌maj 盃ty訌diy〔)jana(p.8〃.8−9).
+7)Dvada.“arana)，acakra (edited  with  critical notcs  by Muni JambUvUay勾’〒，1966)， pp.89−90; cf. Masaakl Hattor，iαg頗gα On Pei’ception ， 1968 (Hattori)pp.90−91.    8)AKBh  p.7〃.
+20−21;cf.桜部建 『倶舎論の研究 界・根品』法蔵館，1969 pp.153−4.   9)『婆沙論』
+巻一百二 1’七 (『大.正」27p.665b).   10)『婆沙論』巻十三 (『大正』27p.65a). ’，，
+11)『雑心論』(r大正』28，p.872c).   12)『雑心論』(『大止』28， p.870c):cf.木村誠 司 「「現量除分別」の経証につ い て」(『平井俊榮博士古稀記念論集 三論教学と仏教諸 思想」春秋社，2000， pp.643−655)p. 644.   13)PV 皿 194:PVP ， D Che l89a5−7， P Che 220b2−5;PVT ， D Nye 198a4−5， P Nye 244a8−bl;PST， pp.431.16−44 L lO.   14)PVP ，
+ 
+DChe  189b7−1.9Oal， P Che 221a8−221bl;PST p.4611.1−3;PVT， D Nye l99a6−7， P Nye
+pratyak學aTp s巨m 酉nyalak 畢aηavj5aya111  anumfinam
+kalpanfipodhar
+pratyak$am   p   
+L7)。
+身足論』巻六:...眼識唯能了別青色， 不能∫別此是.青色...(『大.正』26，p.559b−c).
+   .n1 (.2
+4)Cf.「戸崎」 .294296. 5)『識 pp   
+Tibetan) edited  
+Miyasaka (『イン
+: tatra pratyak§ani anum2na 叩 ca pram5ηe f te dve eva (p.1〃.14−16).
+1)PS I 2ab1& PSV
+2)PS l 2b2c1& PSV :yasmAt lakS叫 advayam  prameya 叩 !._svalak 寧aロavi5aya 甲 ca
+ 
+245b5−7。 15)Hattori .90−91， ，118−119. 16)PS I4ab ; as峩dlharartahetutvfid
+    pp pp    
+ 
+ 
+akSais  tad vyapadiSyate  f(p.21.16)    17) PST， p.39〃.11−14.    18) PS I 6ab:
+mfinasarp  c互rthar 盃g且disvasa叩vittir akalpik 亘1〔p.3!.6);PS I 6cd:y〔レginEm gurunirde一 忌且vyavaki 叩敢tham盃tradrk〃(p.31.10).
+〈キーワード〉 アビダルマ，自相(svalaksarpa )，共相(samanyalak $arpa)，知覚(pratyakSa)，              samanya
+(龍谷大学大学院)
+一 406 一
+YUsho ，，
+ 
+ 
+NI工I工-一Elleoetcrotniroonic Library Service

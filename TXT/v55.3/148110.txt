@@ -1,0 +1,58 @@
+ (40) Journal of Indian and Buddhist Studies Vol. 55, No.3, March 2007
+Jaina's Criticism of Buddhist Theory on stanzas 15-19 of Pancastikayasamgraha
+HOTTA Kazuyoshi
+1. Introduction
+Pancastikayasamgraha (PAS)is one of the works of Kundakunda, a famous scholar of the Digambara-sect.This text is divided into three chapters (Chapter1= stanza1-111C,hapter2=stanza112-161a,ndChapter3=stanza162-181)1S)i.xsubstances are discussed in Chapter 1, especially within stanzas 15-19,the modificationand the identity of reality are dealt with. Though Amrtacandra (about10thcentury),one of the oldest commentators of this text, has not mentioned the specific name of a school as a disputant, Jayasena (about12thcentury)has interpreted these stanzas as a criticism of Buddhist theory.
+This paper aims to clarify the features of Jaina's discussion. For this purpose, the focus is applied to stanzas 15-19,and the criticism of Buddhist theory as seen in Jayasena'scommentary(TatparyavrttiT,V).Then,thefeaturesofJaina'sdiscussion
+will be analyzed.
+2. Discussion on Stanzas 15-19 in TV
+bhavassanatthinasonatthiabhavassacevauppado/
+gunapajjayesbuhavauppadavaepakuvvamti//15//
+Stanza 15ofPASdenied the disappearanceof existing things(bhava)and the oc-
+currence of non-existing things. It stated the occurrence and the disappearance merely in the form of quality (guna)and mode (paryaya).TV has interpreted this stanza as "refutation to an insistence of a pupil who follows Buddhist theory2)," callingtheBuddhisttheory"one-sidedwithmomentary(ksanika-ekanta).A"ndac- cording to Amrtacandra's commentary (TattvapradipikaT,P)3) it has given an exam- ple in which milk (gorasa)is applied to existing things equalling substance (bhava=
+1 068
+ Jaina's Criticism of Buddhist Theory (K. HOTTA) (41)
+dravya),butter (navanita)to a former mode, and ghee (ghrta) to the next mode. In ad- dition, two viewpoints i.e. 〈viewpoint intended for substance〉 (dravyarthika-naya)nd 〈viewpoint intended for mode〉 (paryayarthika-nayha)ave been introduced in order to
+avoid becoming extremism (ekantavada). bhavajivadiyajivagunacedanaya uvaogo/
+suranaranarayatirijyiavassaya pajjayabahuga//16// manusattanennaatthodehi devohavedidaro va/ ubhayattajivabhavona nassadina jayadeanno//17// socevajadimaranamjadinanatthonacevauppanno/ uppannoya vinatthodevomanusuttipajjao//18// evamsadovinasoasadojivassanatthiuppado/ tavadiojivanamdevomanusottigadinamo//19//
+In stanza 16, soul (jiva) is described as an example of the existing things equal- lingsubstancewhileheavenlybeings(deva),humanbeings(manusya)h,ellishbeings
+(naraka),and animals (tiryanc)are described as an exampleof the mode. The content of stanzas 17-19is almost the same as that in stanza 15, but the commentaries on these stanzas are different based on the following points. TV on stanzas 17-18has denied not only "one-sided with momentary," but also "one-sided with eternal (ni- tya-ekanta)4)a"nd pointed out the fault of these standpoints.
+Although the commentary on stanza 19 has stated the examples of the bamboo stick (venudanda)and of Devadatta, the latter is more important in this discussion. The meaning of that is as follows: When son is intended (vivaksa)against one Devadatta, father becomes secondary, and when father is intended, then son be- comes secondary. Thus, he has explainedthat when the eternity is intended against one substance,the momentarinessas mode becomes secondary, and when the mo- mentarinessis intended, then the eternity as substance becomes secondary.
+3. The Features of the Discussion in TV
+In this chapter, the features of the discussion seen in TV will be examined based
+on three respects.
+3-1. Setting of Two Extremisms
+Jaina is based on the doctrine of manifold aspects (anekantavadan,on-extremism), 1069
+ (42) Jaina's Criticism of Buddhist Theory (K. HOTTA)
+so when it criticizes other schools,the followingmethod is often adopted. At first, theyconsiderthetheoryofotherschoolsasextremism(ekantavada)T.hen,though they admit the truth on one side, they explain the necessity of observation from manifold aspects by switching their viewpoint. As a result, their theory includes all theories, so they insist upon the excellence of their own opinion. Two extremisms such as X and Y will be set in an actual discussion, and such a method is used in the criticism of Buddhist theory as seen in TV. In TV, the Buddhist theory is called "one-sided with momentary" and considered as one extremism, and the Samkhya theory is called "one-sided with eternal" and considered as another extremism. Moreover, two viewpoints are applied as Jaina's one. Next, these two viewpoints will be examined.
+3-2. Applicationof the TwoViewpoints
+The two viewpoints in this discussion indicate <viewpoint intended for
+substance>(dravyarthika-nayaan)d <viewpoint intended for mode>(paryayarthika-naya) though there are various viewpointsin the naya theory of Jaina. Applicationof these two viewpoints aims at avoiding the two extremisms mentioned previously,i.e. the Buddhisttheorycalled"one-sidedwithmomentary"(ksanika-ekanta)ndthe Samkhya theorycalled"one-sidedwitheternal"(nitya-ekanta)A.nimportantpointis,however, that the objects of the criticism are only being "one-sided" (ekanta)and not being eternal(nitya)or momentary(ksanika)themselves.Jaina also has two viewpointsthat perceiveboth. Nevertheless,there is a difference from being "one-sidedwith mo- mentary" and "one-sided with eternal." They avoid becoming these extremisms by switching the two viewpoints according to their intentions freely. To explain this switch in viewpoint application, TV has introduced the example of Devadatta. This example shows the fact that humans also naturally switch the above mentioned viewpoints in daily life.
+3-3. Problem and Solution
+The following problem remains even if the two extremisms are set, as mentioned
+above, and the two viewpoints corresponding to them both are switched by inten- tions freely. Different from Buddhism, Jaina accepts the existence of eternal sub- stance, so their standpoint cannot help inclining to "one-sided with eternal"(nitya- ekanta).Though such a problem is not discussed in detail in the part concerned, a
+1070
+ Jaina's Criticism of Buddhist Theory (K. HOTTA)
+(43)
+possiblesolution is seen in Jaina's substance-attributetheory that is mentionedbe- fore stanza 15. In stanza 12, the inseparability of substance and mode is empha-
+sized5).In TV on stanza 18,the mutual dependenceof substanceand mode is stated as in stanza 12. Thus the suitability of both eternity and momentariness for single substance is explained6).
+In a word, he has interpreted that even if it is possible to divide the linguistic ex-
+pression and the viewpoint, substance and mode are inseparable. Based on the bhe- da-abheda theory, he has interpreted that the momentariness of mode suits the eter-
+nal substance itself. Thus, TV has avoidedbecoming "one-sided with eternal." 4. Conclusion
+We have taken a general view of the criticism of Buddhist theory in TV, and ex- amined the features of Jaina's discussionas seen there. I want to refer to the remain- ing problem of whether Kundakunda actually intended to criticize Buddhist theory or not. But it is very difficult to verify this problem. This is because the object of the criticism is not being specified by the author himself. Also, the name of a con- crete text or person is never revealed in this text. So we must take a careful attitude as much as possible towardsthe author's intentionby referring to other texts as well. In stanza 8, Amrtacandra has said that the reality exists neither "as one-sided with eternity (sarvathanityataya)"nor "as one-sided with momentariness(sarvathaksanika- taya)7)."Thereforethe interpretationas criticism of Buddhist theory can go back to TP. But, we can see the declaration in TV as the criticism of Buddhist theory for the first time.
+Another important point is the historical background in which the commentary was written. For example, Haribhadra of the Svetambara-sect(8th century?)has said, "I do not side with Vira, and do not hate Kapila. The person whoever describes a correct word should be admitted (paksapato na me vire na dvesah kapiladisu/yukti- madvacanamyasya tasya karyah parigrahah//" (Lokatattva-nirnaya8A)).nd he has de- scribed the theory of each school objectively and impartially in his Saddarsanasamuccaya. However,an objectivedescriptionhas been lost and the the-
+ory of other schools came to be criticized in the Jaina doxography as the age de- scended.
+1071
+ (44) Jaina's Criticism of Buddhist Theory (K. HOTTA)
+Therefore, it is necessary to consider not only the style of commentary, but also the corresponding historical background in which the criticism of the other schools becomes active.
+〈 Abbreviation〉
+PAS Srimatkundakundasvamiviracitah pancastikayah tattvapradipika-tatparyavrtti-
+balavabodhabhaseti tikatrayopetah (Srimadrajacamdrajainasastramala3), ed. by
+Pannalal Baklival, Pandit Manoharlal, Bombay, 1906. TP Tattvapradipika of Amrtacandra→PAS
+TV Tatparyavrtti of Jayasena→PAS
+1) ThisdivisionisbasedonJayasena'scommentary.InAmrtacandra'scommentarythe amount of stanza is 173, but in Jayasena's commentary 181. The division of chapter in Amrtacandra's commentary is as follows. Chapter 1=stanza 1-104,Chapter 2=105-153, Chapter 3=154-173. 2) TV p.33b, ll.2-4. 3) TP p.33a, l.8-p.34a, l.4. 4) TV p.37b,
+l.8-p.38b, l.1. This theory is considered as the Samkhya theory by Jayasena. 5) PAS
+p.28a, ll.2-3. 6) TV p.39b, ll.1-5. 7) TP p.19a, l.6-p.20a, l.3. 8) This text was not able to be referred to. So the quotation is the one from Gunaratna's Tarkarahasya- dipika. Cf. Saddarsana-samuccaya with Gunaratna s commentary Tarkarahasyadipika(ed. by L.Suali, Bibliotheca Indica, The Asiatic Society, Calcutta, 1905, rpt.1986)p.110, ll.16- 17.; Louis De La Vallee Poussin "Une Stance Jaina Et Bouddhique"(Journal Asiatique 1911,XVII)pp.323-325.;MoritzWinternitz,AHistoryofIndianLiteraturell, (tr.byMrs. S.Ketkar, University of Calcutta, Calcutta, 1933, 2nd ed 1972),p.583, ll.13-21. 9) For example, the theories of other schools have been criticized in Gunaratna's(15thcentury) commentary on Saddarsanasamuccaya (Tarkarahasyadipika). And MeruturngaSari (14th century) has also criticized six darsanas (Bauddha, Mimamsaka, Samkhya,Naiyayika, Va- isesika) in his Saddarsananirnaya. In addition to these, Pahcadarsanakhandana (author unknown) has criticized darsanas other than Jaina-darsana. Cf. Collection of Jaina Philo- sophical Tracts (ed. by Nagin J. Shah, L.D.Series 41, L.D.Institute of Indology, Ahmed- abad,1973)pp.1-11p,p.12-19.
+〈 key words〉 Kundakunda, Jayasena, ksanika-ekanta, nitya-ekanta
+(Graduate student, University of Tokyo)
+1072
